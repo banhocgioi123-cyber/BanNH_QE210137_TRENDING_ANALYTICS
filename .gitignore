@@ -1,24 +1,47 @@
-# Environment
+# ==========================================
+# 1. BẢO MẬT & MẬT KHẨU (Security & Secrets)
+# ==========================================
+# Chứa API Key, Password Postgres/MinIO (không push lên Git)
 .env
+*.pem
+*.key
 
-# Python
-*.pyc
-__pycache__/
-*.py[cod]
-.Python
-venv/
+# ==========================================
+# 2. MÔI TRƯỜNG ẢO & PYTHON (Virtual Env & Cache)
+# ==========================================
+# Môi trường ảo managed bởi uv / venv
 .venv/
+venv/
+ENV/
 env/
 
-# IDE
-.vscode/
-.idea/
+# Bytecode Python & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.uv/
 
-# Data
-data/raw/
+# ==========================================
+# 3. DỮ LIỆU THÔ & FILE LOG (Data & Audit Logs)
+# ==========================================
+# Tránh push các file JSON thô cào về làm nặng Repository
 data/raw/*
 !data/raw/.gitkeep
 
-# Logs
-*.log
-logs/
+# File log ghi vết lịch sử cào
+logs/*.log
+
+# ==========================================
+# 4. CẤU HÌNH IDE & HỆ ĐIỀU HÀNH (OS & Editor)
+# ==========================================
+# Cấu hình riêng của VS Code / PyCharm
+.vscode/
+.idea/
+
+# File rác do Windows / macOS tự tạo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
