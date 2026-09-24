@@ -1,136 +1,85 @@
+"""Điểm chạy crawl.
+
+Chạy từ thư mục gốc repo:
+    python -m src.ingestion.crawler --job trending
+    python -m src.ingestion.crawler --job trending stats        # mỗi 3 giờ
+    python -m src.ingestion.crawler --job channels uploads      # 1 lần/ngày
+
+Nhiều job chạy lần lượt theo thứ tự ghi; job nào lỗi thì dừng luôn các job sau.
+Exit code: 0 = thành công, 1 = lỗi, 2 = hết quota.
 """
-YouTube Crawler - Crawl trending + non - trending videos
-"""
-import json
-import os
-from datetime import datetime
-from googleapiclient.discovery import build
+import argparse
+import logging
+import sys
+from pathlib import Path
+
+from src.ingestion.jobs import JOBS
+from src.ingestion.raw import utc_now
+from src.ingestion.youtube_client import QuotaExceededError, YouTubeClient
 from src.utils.config import Config
+from src.utils.minio_client import MinioStorage
 
-class YouTubeCrawler:
-    def __init__(self):
-        print("Initializing crawler...")
+logger = logging.getLogger("crawler")
+
+
+def setup_logging(run_time):
+    """Ghi log ra màn hình và ra file logs/crawl_<ngày>.log."""
+    log_dir = Path("logs")
+    log_dir.mkdir(exist_ok=True)
+    log_file = log_dir / f"crawl_{run_time:%Y-%m-%d}.log"
+
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s | %(levelname)-7s | %(name)s | %(message)s",
+        handlers=[
+            logging.StreamHandler(sys.stdout),
+            logging.FileHandler(log_file, encoding="utf-8"),
+        ],
+    )
+    # Thư viện Google log rất nhiều ở mức INFO, chỉ giữ cảnh báo
+    logging.getLogger("googleapiclient").setLevel(logging.WARNING)
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Crawl YouTube -> MinIO (raw JSON)")
+    parser.add_argument("--job", required=True, nargs="+", choices=list(JOBS),
+                        help="Một hoặc nhiều job, chạy theo thứ tự ghi")
+    args = parser.parse_args()
+
+    run_time = utc_now()
+    setup_logging(run_time)
+    logger.info("=== Bắt đầu: %s (run_time UTC %s) ===", " -> ".join(args.job), run_time.isoformat())
+
+    yt = None
+    current = None
+    try:
         Config.validate()
-        self.youtube = build('youtube', 'v3', developerKey = Config.YOUTUBE_API_KEY )
-        self.videos = []
 
-    def get_trending(self):
-        """Lay trending videos tu mostPupolar"""
-        print("\n Crawling TRENDING videos...")
+        storage = MinioStorage()
+        storage.ensure_bucket()
 
-        next_page = None 
-        for page in range(2): #2 pages = 100 videos
-            request = self.youtube.videos().list(
-                part='snippet,statistics,contentDetails',
-                chart='mostPopular',
-                regionCode=Config.REGION_CODE,
-                maxResults=50,
-                pageToken=next_page
-            )
-            response = request.execute()
+        yt = YouTubeClient(Config.YOUTUBE_API_KEY)
+        for current in args.job:
+            logger.info("--- Job '%s' ---", current)
+            saved = JOBS[current](yt, storage, Config, run_time)
+            logger.info("--- Job '%s' xong: %d file ---", current, saved)
 
-            for item in response['items']:
-                self.videos.append(self._parse(item, trending=1))
+        logger.info("=== Hoàn tất ===")
+        return 0
 
-            next_page = response.get('nextPageToken')
-            if not next_page:
-                break
-            print(f"   Page {page + 1} --  done")
+    except QuotaExceededError as error:
+        logger.error("Hết quota YouTube API (job '%s'): %s", current, error)
+        return 2
 
-        print(f"  GOT {len([v for v in self.videos if v['trending_observed']==1])} trending")
+    except Exception:
+        # logger.exception ghi cả traceback để biết lỗi ở đâu
+        logger.exception("Job '%s' thất bại", current)
+        return 1
 
-    def get_non_trending(self):
-        """Lay non-trending videos tu search"""
-        print("\n Crawling NON-TRENDING videos...")
+    finally:
+        if yt is not None:
+            logger.info("Tổng quota đã dùng trong lần chạy: %d unit", yt.units_used)
 
-        for query in ['random video', 'new upload', 'small channel']:
-            request = self.youtube.search().list(
-                part='snippet',
-                q=query,
-                type='video',
-                maxResults=30,
-                order='relevance',
-                regionCode=Config.REGION_CODE
-            )
-            response = request.execute()
 
-        video_ids = [item['id']['videoId'] for item in response['items']]
-        if video_ids:
-            details = self.youtube.videos().list(
-                part='snippet,statistics,contentDetails',
-                id=','.join(video_ids)
-            ).execute()
-
-            for item in details['items']:
-                self.videos.append(self._parse(item, trending=0))
-
-        print(f"  GOT {len([v for v in self.videos if v['trending_observed']==0])} non-trending") 
-
-    def _parse(self, item, trending):
-        '''Parse video data'''
-        snippet = item.get('snippet', {})
-        stats = item.get('statistics', {})
-        published = snippet.get('publishedAt', '')
-
-        # Extract hour form publishedAt (format: 2024-01-10T14:30:00Z)
-        hour = int(published[11:13]) if len(published) > 11 else 0 
-
-        return {
-            'video_id': item['id'],
-            'title': snippet.get('title', '')[:100],
-            'channel_id': snippet.get('channelId', ''),
-            "published_at": published,
-            'upload_hour': hour,
-            'is_working_hours': 9 <= hour < 17,
-            'view_count': int(stats.get('viewCount', 0)),
-            'like_count': int(stats.get('likeCount', 0)),
-            'comment_count': int(stats.get('commentCount', 0)),
-            'duration': item.get('contentDetails', {}).get('duration', ''),
-            'category_id': snippet.get('categoryId', ''),
-            'trending_observed': trending
-        }
-
-    def save(self):
-        """Luu data vao trong file JSON"""
-        print(f"\n Saving DATA...")
-
-        os.makedirs('data/raw', exist_ok=True)
-
-        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-        filepath = f'data/raw/youtube_{timestamp}.json'
-
-        data = {
-            'crawl_time': datetime.now().isoformat(),
-            'total': len(self.videos),
-            'trending': len([v for v in self.videos if v['trending_observed']==1]),
-            'non_trending': len([v for v in self.videos if v['trending_observed']==0]),
-            "videos": self.videos
-        }
-
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
-
-        size = os.path.getsize(filepath) / (1024*1024)
-        print(f" SAVED: {filepath}")
-        print(f" SIZE: {size:.2f} MB")
-        print(f" VIDEOS: {len(self.videos)}")
-
-    def run(self):
-        '''Main CRAWL'''
-        print("\n" + "="*60)
-        print("  YOUTUBE CRAWLER")
-        print("="*60)
-
-        try:
-            self.get_trending()
-            self.get_non_trending()
-            self.save()
-            print("\n   DONE! \n")
-        except Exception as e:
-            print(f"\n  ERROR: {e}\n")
-
-if __name__ == '__main__':
-    crawler = YouTubeCrawler()
-    crawler.run()
-
-                 
+if __name__ == "__main__":
+    sys.exit(main())
