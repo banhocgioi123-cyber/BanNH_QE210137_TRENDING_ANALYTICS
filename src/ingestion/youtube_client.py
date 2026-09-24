@@ -8,6 +8,8 @@ import httplib2
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
+from src.ingestion.quota import BudgetExceededError
+
 logger = logging.getLogger(__name__)
 
 # Chi phí quota của các endpoint dùng trong dự án (đơn vị: unit)
@@ -16,6 +18,8 @@ QUOTA_COST = {
     "channels.list": 1,
     "playlistItems.list": 1,
     "commentThreads.list": 1,
+    "channelSections.list": 1,
+    "search.list": 100,  # rất đắt: chỉ dùng trong job discover để TÌM KÊNH
 }
 
 # Lỗi 403 mang các lý do này nghĩa là hết quota trong ngày, thử lại vô ích
@@ -36,12 +40,14 @@ def _error_reason(error):
 
 
 class YouTubeClient:
-    def __init__(self, api_key, max_retries=3):
+    def __init__(self, api_key, max_retries=3, tracker=None):
         # API key truyền qua developerKey nên KHÔNG nằm trong params của request.
         # Nhờ vậy params có thể lưu thẳng vào envelope mà không lộ key.
         self.service = build("youtube", "v3", developerKey=api_key, cache_discovery=False)
         self.max_retries = max_retries
-        self.units_used = 0
+        self.units_used = 0       # unit dùng trong lần chạy này
+        self.tracker = tracker    # QuotaTracker: tổng unit cả ngày (None = không giới hạn)
+        self.limit = None         # trần unit cả ngày cho job hiện tại, crawler đặt trước mỗi job
 
     def call(self, resource, method, **params):
         """Gọi API, ví dụ call("videos", "list", part="snippet", id="abc").
@@ -50,9 +56,21 @@ class YouTubeClient:
         """
         endpoint = f"{resource}.{method}"
 
+        cost = QUOTA_COST.get(endpoint, 1)
+
         for attempt in range(1, self.max_retries + 1):
+            # Kiểm tra ngân sách TRƯỚC khi gửi request
+            if self.tracker is not None and self.limit is not None:
+                if self.tracker.used_today + cost > self.limit:
+                    raise BudgetExceededError(
+                        f"{endpoint} cần {cost} unit, hôm nay đã dùng "
+                        f"{self.tracker.used_today}/{self.limit}"
+                    )
+
             # Google tính quota cho mọi request gửi đi, kể cả request bị lỗi
-            self.units_used += QUOTA_COST.get(endpoint, 1)
+            self.units_used += cost
+            if self.tracker is not None:
+                self.tracker.add(cost)
             try:
                 request = getattr(getattr(self.service, resource)(), method)(**params)
                 return request.execute()
