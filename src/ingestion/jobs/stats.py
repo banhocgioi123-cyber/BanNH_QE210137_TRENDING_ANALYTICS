@@ -1,6 +1,6 @@
 """Job stats: chụp lại view/like/comment của các video đang theo dõi.
 
-Chuỗi snapshot cho phép tính 'view sau 24h/48h kể từ lúc đăng' -> biến kết quả
+Chuỗi snapshot cho phép tính 'view sau 48h kể từ lúc đăng' -> biến kết quả
 thay thế khi nhãn trending không đủ tin cậy.
 
 Tần suất đề xuất: mỗi 3 giờ (cùng lịch với trending).
@@ -8,14 +8,13 @@ Tần suất đề xuất: mỗi 3 giờ (cùng lịch với trending).
 import logging
 from datetime import timedelta
 
-from src.ingestion.jobs._helpers import STATE_TRACKED_VIDEOS, fetch_videos_by_ids, parse_utc
+from src.ingestion.jobs._helpers import (
+    STATE_TRACKED_VIDEOS, TRACK_DAYS, fetch_videos_by_ids, parse_utc,
+)
 
 logger = logging.getLogger(__name__)
 
 JOB_NAME = "stats"
-
-# Theo dõi mỗi video trong bao nhiêu ngày kể từ lúc đăng
-TRACK_DAYS = 7
 
 
 def run(yt, storage, config, run_time):

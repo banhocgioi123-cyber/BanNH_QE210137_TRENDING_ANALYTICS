@@ -1,8 +1,8 @@
 """Job channels: lấy thông tin các kênh từng có video trending trong N ngày gần nhất.
 
 - Raw: response của channels.list (subscriber, tuổi kênh, uploads playlist...).
-- State: state/channels.json = {channel_id: {uploads_playlist, last_seen_utc}}
-  để job uploads biết cần quét playlist nào.
+- State: state/channels.json = {channel_id: {uploads_playlist, last_seen_trending_utc,
+  discovered_utc (nếu kênh do job discover tìm ra)}} để job uploads biết cần quét playlist nào.
 
 Tần suất đề xuất: 1 lần/ngày, chạy TRƯỚC job uploads.
 """
@@ -56,7 +56,11 @@ def run(yt, storage, config, run_time):
         for item in response.get("items", []):
             playlist_id = item.get("contentDetails", {}).get("relatedPlaylists", {}).get("uploads")
             if playlist_id:
-                known[item["id"]] = {"uploads_playlist": playlist_id, "last_seen_utc": now_text}
+                # Cập nhật entry cũ (không ghi đè) để giữ các trường do job khác thêm vào
+                entry = known.setdefault(item["id"], {})
+                entry["uploads_playlist"] = playlist_id
+                entry["last_seen_trending_utc"] = now_text
+                entry.pop("last_seen_utc", None)  # tên trường cũ
 
     state["updated_at_utc"] = now_text
     storage.put_json(STATE_CHANNELS, state)
