@@ -19,3 +19,11 @@ CHANNEL_PARTS = "snippet,statistics,contentDetails"
 # playlistItems.list
 #   contentDetails -> videoId, videoPublishedAt (chi tiết video lấy sau bằng videos.list)
 PLAYLIST_ITEM_PARTS = "contentDetails"
+
+# search.list (chỉ hỗ trợ part snippet) -> id.channelId của kênh tìm được
+SEARCH_PARTS = "snippet"
+
+# channelSections.list
+#   snippet        -> type (multipleChannels = mục "kênh nổi bật")
+#   contentDetails -> channels[] (id các kênh được giới thiệu)
+CHANNEL_SECTION_PARTS = "snippet,contentDetails"

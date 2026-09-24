@@ -10,6 +10,12 @@ logger = logging.getLogger(__name__)
 # File trạng thái: dữ liệu TÍNH RA để điều khiển lần crawl sau, không phải raw
 STATE_CHANNELS = "state/channels.json"
 STATE_TRACKED_VIDEOS = "state/tracked_videos.json"
+STATE_DISCOVER = "state/discover.json"
+STATE_BACKFILL = "state/backfill.json"
+
+# Theo dõi view của video mới trong bao nhiêu ngày kể từ lúc đăng.
+# Chỉ cần tới mốc "view sau 48h" nên 3 ngày là đủ. Dùng chung cho uploads và stats.
+TRACK_DAYS = 3
 
 
 def save_raw(storage, config, run_time, job, endpoint, params, page_index, response):
@@ -28,6 +34,11 @@ def chunks(items, size=50):
         yield items[i:i + size]
 
 
+def fmt_utc(moment):
+    """datetime -> '2026-09-24T01:00:03Z'."""
+    return moment.strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
 def parse_utc(text):
     """'2026-09-24T01:00:03Z' -> datetime có múi giờ UTC."""
     return datetime.strptime(text, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
@@ -38,13 +49,23 @@ def recent_dates(run_time, days):
     return [(run_time - timedelta(days=d)).strftime("%Y-%m-%d") for d in range(days)]
 
 
-def fetch_videos_by_ids(yt, storage, config, run_time, job, video_ids):
-    """Gọi videos.list theo lô 50 id, lưu raw từng lô. Trả về (số file, danh sách item)."""
+def fetch_videos_by_ids(yt, storage, config, run_time, job, video_ids, start_page=0):
+    """Gọi videos.list theo lô 50 id, lưu raw từng lô.
+
+    start_page: số trang bắt đầu, dùng khi một lần chạy gọi hàm này nhiều lần
+    (tránh trùng tên file _p00, _p01... giữa các lần gọi).
+    Trả về (số file, danh sách item).
+    """
     saved, items = 0, []
-    for page_index, batch in enumerate(chunks(sorted(video_ids))):
+    for offset, batch in enumerate(chunks(sorted(video_ids))):
         params = {"part": VIDEO_PARTS, "id": ",".join(batch), "maxResults": 50}
         response = yt.call("videos", "list", **params)
-        save_raw(storage, config, run_time, job, "videos.list", params, page_index, response)
+        save_raw(storage, config, run_time, job, "videos.list", params, start_page + offset, response)
         saved += 1
         items.extend(response.get("items", []))
     return saved, items
+
+
+def channel_last_seen_trending(info):
+    """Lần cuối kênh xuất hiện trong trending (hỗ trợ cả tên trường của state cũ)."""
+    return info.get("last_seen_trending_utc") or info.get("last_seen_utc")
