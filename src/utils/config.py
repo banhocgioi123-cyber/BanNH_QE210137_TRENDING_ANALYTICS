@@ -26,6 +26,13 @@ class Config:
     MINIO_BUCKET = os.getenv("MINIO_BUCKET", "youtube-raw").strip()
     MINIO_SECURE = _get_bool("MINIO_SECURE")
 
+    # Ngân sách quota theo ngày (Google cho 10.000 unit/ngày/project)
+    #   QUOTA_DAILY_BUDGET: trần tổng cả ngày của code này (chừa phần dự phòng)
+    #   QUOTA_CORE_RESERVE: phần để dành cho job thiết yếu; job nặng (discover, backfill)
+    #                       phải dừng khi tổng cả ngày chạm BUDGET - RESERVE
+    QUOTA_DAILY_BUDGET = int(os.getenv("QUOTA_DAILY_BUDGET", "9500"))
+    QUOTA_CORE_RESERVE = int(os.getenv("QUOTA_CORE_RESERVE", "2500"))
+
     # Bản sao local: file raw được ghi thêm vào <LOCAL_DATA_DIR>/raw/... (MinIO vẫn là bản chính)
     SAVE_LOCAL_COPY = _get_bool("SAVE_LOCAL_COPY", "true")
     # Đường dẫn tương đối được tính từ thư mục gốc repo, không phụ thuộc chỗ đứng khi chạy lệnh
