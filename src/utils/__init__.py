@@ -1,3 +1,1 @@
-from src.utils.config import Config
-
-__all__ = ['Config']
+"""Các hàm tiện ích dùng chung (config, kết nối MinIO)."""
