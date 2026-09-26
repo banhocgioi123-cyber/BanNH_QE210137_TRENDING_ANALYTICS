@@ -15,17 +15,12 @@ Repo này chứa toàn bộ pipeline: thu thập dữ liệu từ YouTube Data A
 
 **Đơn vị phân tích:** một video, đăng bởi một kênh YouTube Việt Nam.
 
-Câu hỏi được kiểm định theo hai cách đo "thành công" của video:
+Câu hỏi được kiểm định bằng một giả thuyết duy nhất:
 
-**Giả thuyết 1 — Lọt trending**
-- **H₀:** Xác suất lọt trending của video đăng trong giờ hành chính **bằng** video đăng trong giờ nghỉ, khi đã kiểm soát quy mô kênh, thể loại và thời lượng.
-- **H₁:** Hai xác suất này **khác nhau**.
+**H₀:** Xác suất lọt trending của video đăng trong giờ hành chính **bằng** video đăng trong giờ nghỉ, khi đã kiểm soát quy mô kênh, thể loại và thời lượng.
+**H₁:** Hai xác suất này **khác nhau**.
 
-**Giả thuyết 2 — Lượt xem**
-- **H₀:** Lượt xem của video đăng trong giờ hành chính **không khác** video đăng trong giờ nghỉ, khi đã kiểm soát các yếu tố trên.
-- **H₁:** Lượt xem **khác nhau** giữa hai khung giờ.
-
-Giả thuyết 2 tồn tại vì một lý do cụ thể: từ 07/2025, danh sách trending của YouTube chủ yếu lấy từ Âm nhạc, Phim và Game (xem mục 6), nên nhãn "lọt trending" không đại diện cho mọi loại nội dung. Lượt xem đo được cho **mọi** video, mọi thể loại.
+Bác bỏ H₀ nếu hệ số của biến khung giờ trong hồi quy logistic có ý nghĩa thống kê (p < 0,05), tức khoảng tin cậy 95% của odds ratio không chứa 1.
 
 ## 2. Định nghĩa
 
@@ -62,7 +57,7 @@ Nếu chỉ lấy danh sách trending, nghiên cứu sẽ rơi vào sáu cái b�
 | 2 | Chỉ có video trending thì **không có gì để so sánh** (survivorship bias) | "70% video trending đăng buổi tối" không chứng minh được gì | Thu thập **mọi video** của cùng các kênh làm nhóm so sánh |
 | 3 | Nhóm so sánh phải **công bằng** | Tìm video ngẫu nhiên cho ra video khác ngôn ngữ, khác thời kỳ | Nhóm so sánh lấy từ **chính các kênh đó**, cùng giai đoạn đăng |
 | 4 | **Biến gây nhiễu**: kênh lớn vừa dễ trending vừa có thói quen đăng giờ riêng | Kết luận nhầm "giờ X là giờ vàng" | Thu thập số subscriber, thể loại, thời lượng làm biến kiểm soát |
-| 5 | Định nghĩa trending đã **bị YouTube thay đổi** (07/2025) | Nhãn trending lệch về Âm nhạc/Game | Thêm biến kết quả dự phòng: **view sau 48h** (Giả thuyết 2) |
+| 5 | Định nghĩa trending đã **bị YouTube thay đổi** (07/2025) | Nhãn trending lệch về Âm nhạc/Game | Không có biến thay thế trong đồ án này — ghi nhận là **hạn chế**: kết luận chủ yếu đúng cho các thể loại đang được đưa vào trending (mục 10) |
 | 6 | **Thời gian phức tạp**: API trả giờ UTC; Premiere có giờ phát sóng riêng; video có thể trending muộn | Lệch 7 tiếng, nhãn sai | Lưu giờ gốc, xử lý múi giờ và gắn nhãn ở tầng Processing, sau khi có đủ lịch sử |
 
 ## 5. Dữ liệu được thu thập như thế nào
@@ -80,8 +75,8 @@ trending ──► channels ──► discover ──► uploads ──► stats
 | `channels` | Tra thông tin các kênh từng có video trending | **Biến kiểm soát**: subscriber, tuổi kênh |
 | `discover` | Mở rộng danh sách kênh Việt Nam qua tìm kiếm theo 76 từ khoá và mục "kênh nổi bật" | Tăng số kênh lên ~2.500, **đa dạng thể loại** ngoài Âm nhạc/Game |
 | `uploads` | Lấy **mọi** video mới đăng của các kênh đang theo dõi, 2 lần/ngày | **Nhóm so sánh** (video không trending) và **biến giải thích** (giờ đăng) |
-| `stats` | Chụp view/like/comment của video mới mỗi 3 giờ trong 3 ngày đầu | **Biến kết quả** của Giả thuyết 2 (view sau 48h) |
-| `backfill` | Lấy lùi video 90 ngày của mọi kênh, tối đa 200 video/kênh | **Quy mô mẫu** cho Giả thuyết 2 |
+| `stats` | Chụp view/like/comment của video mới mỗi 3 giờ trong 3 ngày đầu | Không dùng để kiểm định giả thuyết (view là hệ quả của lọt trending); giữ cho tham khảo/EDA |
+| `backfill` | Lấy lùi video 90 ngày của mọi kênh, tối đa 200 video/kênh | Không có nhãn trending, không dùng để kiểm định; giữ cho EDA và khối lượng Data Lake |
 
 Nhãn trending/không trending **không** được gắn lúc thu thập, vì một video đăng hôm nay có thể lên trending vào ngày mai. Việc này làm ở tầng Processing khi đã đủ 72 giờ quan sát.
 
@@ -91,9 +86,9 @@ Giai đoạn thu thập chính: **25/9 – 9/10/2026**. Số lượng dưới đ
 
 | Tầng | Nguồn | Số video (ước tính) | Nhãn trending | Dùng cho |
 |---|---|---|---|---|
-| **A. Lịch sử** | `backfill` | ~50.000–150.000 | Không có | Giả thuyết 2 (view chuẩn hoá) |
-| **B. Thời gian thực** | `uploads` + `stats` | ~10.000–15.000 | Có | Giả thuyết 1 và 2 (view sau 48h) — dữ liệu chất lượng cao nhất |
-| **C. Trending** | `trending` | vài trăm – ~1.000 video lọt trending | Có | Nhóm dương tính của Giả thuyết 1 |
+| **A. Lịch sử** | `backfill` | ~50.000–150.000 | Không có | Không dùng để kiểm định — tham khảo/EDA |
+| **B. Thời gian thực** | `uploads` + `stats` | ~10.000–15.000 | Có | Mẫu chính để kiểm định giả thuyết — dữ liệu chất lượng cao nhất |
+| **C. Trending** | `trending` | vài trăm – ~1.000 video lọt trending | Có | Nhóm dương tính (nhãn 1) |
 
 **Chốt nhãn:** chỉ gắn nhãn trending cho video đăng **trước 6/10/2026**, để mọi video có đủ 72 giờ quan sát trước ngày kết thúc 9/10.
 
