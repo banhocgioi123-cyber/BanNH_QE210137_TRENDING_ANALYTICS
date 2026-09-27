@@ -1,7 +1,6 @@
 """Job backfill: lấy lùi video trong BACKFILL_DAYS ngày gần nhất của mọi kênh đang theo dõi.
 
-Mục đích: tăng số video khác nhau (mục tiêu ~100k). Video lịch sử KHÔNG có nhãn
-trending (lúc đó chưa chụp), chỉ dùng được tổng view -> phân tích theo lượt xem.
+lấy lịch sử đăng của kênh để tính biến gây nhiễu; video backfill không có nhãn trending, không vào cohort
 
 - Raw:   raw/youtube/backfill/playlist_items/... và raw/youtube/backfill/videos/...
 - State: state/backfill.json = {channel_id: thời điểm đã backfill xong}
@@ -26,7 +25,7 @@ JOB_PLAYLIST = "backfill/playlist_items"
 JOB_VIDEOS = "backfill/videos"
 
 # Lấy lùi bao nhiêu ngày
-BACKFILL_DAYS = 90
+BACKFILL_DAYS = 30
 # Số trang playlist tối đa mỗi kênh (50 video/trang) -> tối đa 200 video/kênh.
 # Giới hạn này để vài kênh đăng rất nhiều (tin tức...) không áp đảo dữ liệu train.
 MAX_PAGES_PER_CHANNEL = 4
