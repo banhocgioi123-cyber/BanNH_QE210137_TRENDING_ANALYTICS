@@ -1,0 +1,100 @@
+# Từ khoá để job discover TÌM KÊNH Việt Nam (search.list, type=channel).
+# Mỗi dòng một từ khoá, dòng bắt đầu bằng # bị bỏ qua.
+# Mỗi từ khoá tốn tối đa 3 lần gọi x 100 unit. Từ khoá đã chạy xong sẽ không chạy lại.
+# Phủ nhiều mảng nội dung để tập kênh không lệch về một thể loại.
+
+# Âm nhạc
+nhạc trẻ
+ca sĩ
+cover nhạc
+nhạc bolero
+rap việt
+
+# Giải trí
+hài
+phim ngắn
+talkshow
+gameshow
+reaction
+
+# Game
+game việt
+liên quân
+free fire
+minecraft việt
+
+# Đời sống
+vlog
+vlog gia đình
+du lịch việt nam
+review đồ ăn
+ẩm thực
+nấu ăn
+làm đẹp
+thời trang
+mẹ và bé
+nông thôn
+
+# Thông tin
+tin tức
+thời sự
+bóng đá việt nam
+thể thao
+công nghệ
+review điện thoại
+xe máy
+ô tô
+
+# Giáo dục
+học tiếng anh
+giáo dục
+kỹ năng sống
+tài chính cá nhân
+lịch sử việt nam
+khoa học
+
+# ===== Sóng 2 (thêm ngày 25/9) =====
+# Âm nhạc
+nhạc remix
+nhạc trữ tình
+karaoke
+nhạc indie việt
+# Giải trí
+phim việt nam
+tiểu phẩm hài
+review phim
+kể chuyện
+asmr việt nam
+thử thách
+# Game
+pubg mobile việt nam
+game mobile
+esports việt nam
+stream game
+# Đời sống
+mukbang việt nam
+ăn vặt
+đi chợ
+cuộc sống ở quê
+cuộc sống nước ngoài
+nhà cửa
+làm vườn
+thú cưng
+fitness
+yoga
+chăm sóc da
+# Thông tin
+bất động sản
+chứng khoán
+kinh doanh online
+tin nóng
+pháp luật
+sức khỏe
+# Giáo dục và kỹ năng
+luyện thi đại học
+lập trình
+tiếng trung
+mẹo vặt
+diy
+vẽ tranh
+nhiếp ảnh
