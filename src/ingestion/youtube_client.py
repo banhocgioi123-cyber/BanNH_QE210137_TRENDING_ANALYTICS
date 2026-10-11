@@ -19,6 +19,7 @@ QUOTA_COST = {
     "playlistItems.list": 1,
     "commentThreads.list": 1,
     "channelSections.list": 1,
+    "videoCategories.list": 1,
     "search.list": 100,  # rất đắt: chỉ dùng trong job discover để TÌM KÊNH
 }
 
