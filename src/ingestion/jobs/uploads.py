@@ -26,7 +26,7 @@ JOB_VIDEOS = "uploads/videos"
 
 # Kênh lấy từ trending: chỉ quét nếu có mặt trong trending trong vòng N ngày gần nhất.
 # Kênh do job discover tìm ra: luôn quét (chúng có thể không bao giờ trending).
-CHANNEL_ACTIVE_DAYS = 30
+CHANNEL_ACTIVE_DAYS = 14
 # Video đăng trong bao nhiêu ngày gần nhất thì đưa vào theo dõi
 UPLOAD_LOOKBACK_DAYS = 7
 # Số trang playlist tối đa mỗi kênh (kênh đăng rất nhiều như kênh tin tức)
