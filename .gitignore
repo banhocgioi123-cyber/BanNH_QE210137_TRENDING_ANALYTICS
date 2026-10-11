@@ -28,6 +28,8 @@ __pycache__/
 # ==========================================
 # Tránh push các file JSON thô cào về làm nặng Repository
 data/raw/*
+data/state/*
+data/state/
 !data/raw/.gitkeep
 
 # File log ghi vết lịch sử cào
@@ -45,3 +47,7 @@ logs/*.log
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+#chore
+CLAUDE.md
+docs/SESSION_HANDOFF.md
