@@ -1,4 +1,4 @@
-"""Job channels: lấy thông tin các kênh từng có video trending trong N ngày gần nhất.
+"""Job channels: lấy thông tin các kênh từng có video trending (chính hoặc theo danh mục) trong N ngày gần nhất.
 
 - Raw: response của channels.list (subscriber, tuổi kênh, uploads playlist...).
 - State: state/channels.json = {channel_id: {uploads_playlist, last_seen_trending_utc,
@@ -22,10 +22,12 @@ LOOKBACK_DAYS = 7
 
 
 def collect_trending_channels(storage, run_time):
-    """Đọc lại raw trending (chỉ để lấy channelId, KHÔNG sửa raw)."""
+    """Đọc lại raw trending + trending theo danh mục (chỉ để lấy channelId, KHÔNG sửa raw)."""
     channel_ids = set()
     for day in recent_dates(run_time, LOOKBACK_DAYS):
-        for key in storage.list_keys(f"raw/youtube/trending/dt={day}/"):
+        keys = [key for job in ("trending", "trending_category")
+                for key in storage.list_keys(f"raw/youtube/{job}/dt={day}/")]
+        for key in keys:
             envelope = storage.get_json(key)
             for item in envelope["response"].get("items", []):
                 channel_id = item.get("snippet", {}).get("channelId")
