@@ -1,0 +1,9 @@
+{
+  "host": "localhost",
+  "port": 5432,
+  "database": "youtube_trending_db",
+  "schema": "public",
+  "sql_files": ["configs/schema.sql", "configs/labels.sql"],
+  "load_batch_files": 500,
+  "minio_download_threads": 8
+}

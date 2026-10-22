@@ -3,6 +3,8 @@ services:
   minio:
     image: quay.io/minio/minio:latest
     container_name: ady201m_minio
+    # Tự bật lại sau khi Docker/máy khởi động lại (crawler cần MinIO, loader cần Postgres)
+    restart: unless-stopped
     ports:
       - "9000:9000"
       - "9001:9001"
@@ -16,6 +18,10 @@ services:
   postgres:
     image: postgres:15-alpine
     container_name: ady201m_postgres
+    # Tự bật lại sau khi Docker/máy khởi động lại (crawler cần MinIO, loader cần Postgres)
+    restart: unless-stopped
+    # Mặc định Docker chỉ cấp /dev/shm 64 MB: query join lớn chạy song song sẽ lỗi shared memory
+    shm_size: 512mb
     ports:
       - "5432:5432"
     environment:
@@ -29,6 +35,8 @@ services:
   pgadmin:
     image: dpage/pgadmin4
     container_name: ady201m_pgadmin
+    # Tự bật lại sau khi Docker/máy khởi động lại (crawler cần MinIO, loader cần Postgres)
+    restart: unless-stopped
     ports:
       - "5050:80"
     environment:
@@ -36,6 +44,24 @@ services:
       PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_DEFAULT_PASSWORD}
     depends_on:
       - postgres
+
+  # --- Dịch vụ 4: App (Python) — crawler + loader MinIO -> PostgreSQL ---
+  app:
+    build:
+      context: .
+      dockerfile: docker/app/Dockerfile
+    container_name: ady201m_app
+    env_file: .env
+    environment:
+      # Trong mạng Docker, gọi service theo tên thay vì localhost
+      MINIO_ENDPOINT: minio:9000
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: "5432"
+      SAVE_LOCAL_COPY: "false"
+    depends_on:
+      - minio
+      - postgres
+    restart: "no"
 
 volumes:
   minio_data:

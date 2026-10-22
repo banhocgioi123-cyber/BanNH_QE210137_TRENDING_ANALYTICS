@@ -26,6 +26,13 @@ class Config:
     MINIO_BUCKET = os.getenv("MINIO_BUCKET", "youtube-raw").strip()
     MINIO_SECURE = _get_bool("MINIO_SECURE")
 
+    # PostgreSQL (mật khẩu chỉ nằm trong .env; host/port/db mặc định lấy từ configs/db_config.json)
+    POSTGRES_HOST = os.getenv("POSTGRES_HOST", "").strip()
+    POSTGRES_PORT = os.getenv("POSTGRES_PORT", "").strip()
+    POSTGRES_USER = os.getenv("POSTGRES_USER", "").strip()
+    POSTGRES_PASSWORD = os.getenv("POSTGRES_PASSWORD", "").strip()
+    POSTGRES_DB = os.getenv("POSTGRES_DB", "").strip()
+
     # Ngân sách quota theo ngày (Google cho 10.000 unit/ngày/project)
     #   QUOTA_DAILY_BUDGET: trần tổng cả ngày của code này (chừa phần dự phòng)
     #   QUOTA_CORE_RESERVE: phần để dành cho job thiết yếu; job nặng (discover, backfill)
