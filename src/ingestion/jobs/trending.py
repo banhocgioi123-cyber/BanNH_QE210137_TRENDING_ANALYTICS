@@ -1,6 +1,6 @@
 """Job trending: chụp danh sách mostPopular của khu vực, mỗi trang lưu thành một file.
 
-Tần suất đề xuất: mỗi 3 giờ (video có thể chỉ trending vài giờ).
+Tần suất đề xuất: mỗi 1 giờ (video có thể chỉ trending vài giờ).
 """
 import logging
 

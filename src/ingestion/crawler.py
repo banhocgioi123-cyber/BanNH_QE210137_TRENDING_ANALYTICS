@@ -2,6 +2,7 @@
 
 Chạy từ thư mục gốc repo:
     python -m src.ingestion.crawler --job trending                  # mỗi giờ
+    python -m src.ingestion.crawler --job trending_category         # mỗi 3 giờ
     python -m src.ingestion.crawler --job stats                     # mỗi 3 giờ
     python -m src.ingestion.crawler --job channels uploads          # 09:00 và 21:00
     python -m src.ingestion.crawler --job discover backfill         # 14:30 (sau khi quota reset)
