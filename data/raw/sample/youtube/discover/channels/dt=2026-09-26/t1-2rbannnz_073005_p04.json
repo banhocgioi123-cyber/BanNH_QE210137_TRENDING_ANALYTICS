@@ -1,0 +1,2253 @@
+{
+  "crawler_id": "t1-2rbannnz",
+  "job": "discover/channels",
+  "crawl_time_utc": "2026-09-26T07:30:08Z",
+  "request": {
+    "endpoint": "channels.list",
+    "params": {
+      "part": "snippet,statistics,contentDetails",
+      "id": "UC72hkJEtvvK-XklKv7hX7Ng,UC78MCrXdaqbW3D9mz6jOSQA,UC7AKYi-pIF8F_DrQcmVe2xg,UC7MWsgdGrGRZwad_gKRUtMg,UC7PK4ALcBdYI3gOnlgqnGjQ,UC7S1TZJ1EfH1zderL4XjiJA,UC7SzsEUy3IdjHQCTgnpUS2g,UC7TLKiUd0KiElPakblkT-DQ,UC7X8BJK4cvzmTA5AxaHpwwA,UC7bra0npR2BTTFw-UwD5Z4A,UC7fZmjZheAd4cttQf7T-xHw,UC7kU7-VHyRdeG3n4u82j0nA,UC7kYq4IdBNMlDLXm7P8eMxg,UC7p1gDJcxhGwOnMOCggRX6Q,UC7th1JGmbzXSOMsLS-mqfAw,UC7uGq-HER_K92Ks1BfWCkOA,UC7xTERSqzzI2craBm-EPE-g,UC8-M7_Kux4pnVa5GcLwygeg,UC8-MnLVzzgmrd2MRxltPtbg,UC81UNM6YJ8zjFPi7WRSEOlA,UC86AL34tmTyNuGlioqxk3Bw,UC88GTj4fqqyBVUteuG0HD8Q,UC8AHoTyoRtYJXr42vocoo5w,UC8B7YycFMFQr540MK7Qe0CQ,UC8Bs2ndh5G946N5dwC7dkkA,UC8D7n3arQQRKkVPPO9pTeSg,UC8JWK7QLiC3BEjpNMRvLQnQ,UC8JgedrM0cAYtqileXpCKAw,UC8LZDTvlXLOy85LyuquZ2rg,UC8Mp14s1LzIHl_fZX5cpsCQ,UC8N4cymsV0_Z8So_nfVBwng,UC8SMUvvO6p65qwAtqXQxegA,UC8TZU7cnz5xMDH4OR0eKI4w,UC8VB-yjHltith0-g2LshPJA,UC8VN8E9lGLlBrS6v1mbhSUA,UC8XIixvLFyXavu6C1GujPgQ,UC8ig-wsg2JHhrpaCyURrh6A,UC8kpMxJjGauyFC_REWxVpRg,UC8q1wKdGzHBH9l_brVxWFkQ,UC8sDe7p3nCjR5HQT1DDvOKA,UC93tkNqILX5eANN5EbhapUg,UC97UjFCvgv12G34TclgCSFg,UC9E2FVp6pmowxlGWHOBJdkg,UC9G53lm3a3SI9kKOxSmNzpg,UC9HVbm8u9FXFQ6T_wviIaVA,UC9JCq1n-7iU09ewxIoPSffQ,UC9OxYYt9uE12l2wELgtm8qg,UC9R-lccClK7uhR-kf5m60eQ,UC9SJu5-Y7E7opnjtCtNfVFg,UC9SrbXbAj-ktwa3Tnak-0cg",
+      "maxResults": 50
+    }
+  },
+  "page_index": 4,
+  "response": {
+    "kind": "youtube#channelListResponse",
+    "etag": "2DC9jK6uO-BzqLv_-kLZDRo8OrU",
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#channel",
+        "etag": "AbZbj7y8gTORYnopMyyEOsx3To8",
+        "id": "UC97UjFCvgv12G34TclgCSFg",
+        "snippet": {
+          "title": "Khôi Hài Tivi",
+          "description": "Cuộc sống hài hước, vui vẻ.",
+          "customUrl": "@khoihaitivi",
+          "publishedAt": "2026-08-15T06:36:36.4769Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/9CX356bFytYZGXmEH7Ovz4sc-P14LF2o0yc11ZBc13qLogsgOxJG3uqvWgKzXPW6wydmrzUSaw=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/9CX356bFytYZGXmEH7Ovz4sc-P14LF2o0yc11ZBc13qLogsgOxJG3uqvWgKzXPW6wydmrzUSaw=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/9CX356bFytYZGXmEH7Ovz4sc-P14LF2o0yc11ZBc13qLogsgOxJG3uqvWgKzXPW6wydmrzUSaw=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Khôi Hài Tivi",
+            "description": "Cuộc sống hài hước, vui vẻ."
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU97UjFCvgv12G34TclgCSFg"
+          }
+        },
+        "statistics": {
+          "viewCount": "62363",
+          "subscriberCount": "33",
+          "hiddenSubscriberCount": false,
+          "videoCount": "41"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "m3zcjeShE80h0KW5YSbFqy_WRIo",
+        "id": "UC8ig-wsg2JHhrpaCyURrh6A",
+        "snippet": {
+          "title": "Ở đây có nhạc cover by tuii",
+          "description": "",
+          "customUrl": "@oayconhaccoverbytuii1597",
+          "publishedAt": "2021-12-11T06:25:24.01904Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/_UsLHj5TPQymW4-cTVbOtUGutGA_2-Zebxj7tMzPDn6csTUtULt8qO9DkgLe02X93FB37B0B8g=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/_UsLHj5TPQymW4-cTVbOtUGutGA_2-Zebxj7tMzPDn6csTUtULt8qO9DkgLe02X93FB37B0B8g=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/_UsLHj5TPQymW4-cTVbOtUGutGA_2-Zebxj7tMzPDn6csTUtULt8qO9DkgLe02X93FB37B0B8g=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Ở đây có nhạc cover by tuii",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8ig-wsg2JHhrpaCyURrh6A"
+          }
+        },
+        "statistics": {
+          "viewCount": "4226",
+          "subscriberCount": "68",
+          "hiddenSubscriberCount": false,
+          "videoCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "tlw5ZJ-wgIuSXibASXNFkTEuUKc",
+        "id": "UC9JCq1n-7iU09ewxIoPSffQ",
+        "snippet": {
+          "title": "Thành Bolero .. Đỉnh cao âm nhạc 2024",
+          "description": "",
+          "customUrl": "@thanhlangtu1968",
+          "publishedAt": "2023-05-24T02:58:25.563662Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ACmxi6zhnxj16T2rvZ8erASEYZ-RdJQnwF4JnHEVupOLVnYk_xsVY28PgZ6x1NsswsiwcvO3KJE=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ACmxi6zhnxj16T2rvZ8erASEYZ-RdJQnwF4JnHEVupOLVnYk_xsVY28PgZ6x1NsswsiwcvO3KJE=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ACmxi6zhnxj16T2rvZ8erASEYZ-RdJQnwF4JnHEVupOLVnYk_xsVY28PgZ6x1NsswsiwcvO3KJE=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Thành Bolero .. Đỉnh cao âm nhạc 2024",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU9JCq1n-7iU09ewxIoPSffQ"
+          }
+        },
+        "statistics": {
+          "viewCount": "65767",
+          "subscriberCount": "299",
+          "hiddenSubscriberCount": false,
+          "videoCount": "30"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "3Dkdy5wUd5i-D6ZxkeubnwdKCXw",
+        "id": "UC7uGq-HER_K92Ks1BfWCkOA",
+        "snippet": {
+          "title": "Sky Rap Việt",
+          "description": "Sơn Shy ♡ Rap việt",
+          "customUrl": "@skyrapviet3550",
+          "publishedAt": "2017-04-12T07:57:49Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lz-oD8N055GOB8-Jh4hixS4YjdGZ0s0swvBMGMS_U9uA=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lz-oD8N055GOB8-Jh4hixS4YjdGZ0s0swvBMGMS_U9uA=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lz-oD8N055GOB8-Jh4hixS4YjdGZ0s0swvBMGMS_U9uA=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Sky Rap Việt",
+            "description": "Sơn Shy ♡ Rap việt"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU7uGq-HER_K92Ks1BfWCkOA"
+          }
+        },
+        "statistics": {
+          "viewCount": "506",
+          "subscriberCount": "5",
+          "hiddenSubscriberCount": false,
+          "videoCount": "11"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "h5PoVYaY2PEWY-ZdAVcgZU9xio0",
+        "id": "UC88GTj4fqqyBVUteuG0HD8Q",
+        "snippet": {
+          "title": "News Rap Việt",
+          "description": "rap việt hay nhất 2016 chỉ có tại news rap việt",
+          "customUrl": "@newsrapviet6694",
+          "publishedAt": "2016-07-03T00:35:05Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_kY8kPCcL2AseYrnm4_LSFqk6WBjn8CnXPAOye7Apx-VA=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_kY8kPCcL2AseYrnm4_LSFqk6WBjn8CnXPAOye7Apx-VA=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_kY8kPCcL2AseYrnm4_LSFqk6WBjn8CnXPAOye7Apx-VA=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "News Rap Việt",
+            "description": "rap việt hay nhất 2016 chỉ có tại news rap việt"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU88GTj4fqqyBVUteuG0HD8Q"
+          }
+        },
+        "statistics": {
+          "viewCount": "2476",
+          "subscriberCount": "7",
+          "hiddenSubscriberCount": false,
+          "videoCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "OKXEDokYJOye_I5ystU2jbtA9ok",
+        "id": "UC9R-lccClK7uhR-kf5m60eQ",
+        "snippet": {
+          "title": "Shhh The Talkshow",
+          "description": "'SHHH...' is Sri Lanka's first online chatshow for open and honest conversations about tough, taboo subjects. Co-created by Shanuki de Alwis and Shifani Reffai, ‘SHHH...’ is an alternate voice for social justice,  sharing lived experiences that raise awareness and speaks to our innermost thoughts.",
+          "customUrl": "@shhhtalkshow",
+          "publishedAt": "2019-05-20T05:24:48Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lj2R5KtrTr4eOJHyYGLXVNQH59twOblHmrJ1k-xebKd6E=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lj2R5KtrTr4eOJHyYGLXVNQH59twOblHmrJ1k-xebKd6E=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lj2R5KtrTr4eOJHyYGLXVNQH59twOblHmrJ1k-xebKd6E=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Shhh The Talkshow",
+            "description": "'SHHH...' is Sri Lanka's first online chatshow for open and honest conversations about tough, taboo subjects. Co-created by Shanuki de Alwis and Shifani Reffai, ‘SHHH...’ is an alternate voice for social justice,  sharing lived experiences that raise awareness and speaks to our innermost thoughts."
+          },
+          "country": "LK"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU9R-lccClK7uhR-kf5m60eQ"
+          }
+        },
+        "statistics": {
+          "viewCount": "1217085",
+          "subscriberCount": "14800",
+          "hiddenSubscriberCount": false,
+          "videoCount": "125"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "uaKD0Q1cvm3oJjB-jPTWHbqm2-Q",
+        "id": "UC7p1gDJcxhGwOnMOCggRX6Q",
+        "snippet": {
+          "title": "TLK - talk show Lenky Králové",
+          "description": "Proslavila jsem se podcastem V Tranzu, kde dělám rozhovory s trans lidmi o jejich životě. Přišla jsem ale na to, že v mém okolí je celá řada lidí se zajímavými příběhy, které s tématikou tranzice nesouvisí. Aby se to nekrylo, založila jsem tento svůj vedlejší podcast, kde se svými hosty probíráme všechno možné, co s trans tématikou nesouvisí. \n\nLenka Králová",
+          "customUrl": "@tlk-talkshowlenkykralove",
+          "publishedAt": "2021-05-21T14:47:42.118553Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/x3QFo6agP05IoKQE5U3a5lxLzEcEzTT2bsj-YoIHAmrIlRSo-TQCucQNB8_Jm3mvTE6VHOqE=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/x3QFo6agP05IoKQE5U3a5lxLzEcEzTT2bsj-YoIHAmrIlRSo-TQCucQNB8_Jm3mvTE6VHOqE=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/x3QFo6agP05IoKQE5U3a5lxLzEcEzTT2bsj-YoIHAmrIlRSo-TQCucQNB8_Jm3mvTE6VHOqE=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "TLK - talk show Lenky Králové",
+            "description": "Proslavila jsem se podcastem V Tranzu, kde dělám rozhovory s trans lidmi o jejich životě. Přišla jsem ale na to, že v mém okolí je celá řada lidí se zajímavými příběhy, které s tématikou tranzice nesouvisí. Aby se to nekrylo, založila jsem tento svůj vedlejší podcast, kde se svými hosty probíráme všechno možné, co s trans tématikou nesouvisí. \n\nLenka Králová"
+          },
+          "country": "CZ"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU7p1gDJcxhGwOnMOCggRX6Q"
+          }
+        },
+        "statistics": {
+          "viewCount": "386690",
+          "subscriberCount": "3600",
+          "hiddenSubscriberCount": false,
+          "videoCount": "42"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "7yGfhbUap1_pMp5OjqiBqRqt1G8",
+        "id": "UC8Mp14s1LzIHl_fZX5cpsCQ",
+        "snippet": {
+          "title": "Nhạc Trẻ Remix Dưng FBT",
+          "description": "",
+          "customUrl": "@nhactreremixdungfbt6903",
+          "publishedAt": "2020-04-08T08:46:44.848395Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_mBWpu_EE4lwyD1pF3hWjKx4mShsTcUgHGo1la4ctf_uw=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_mBWpu_EE4lwyD1pF3hWjKx4mShsTcUgHGo1la4ctf_uw=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_mBWpu_EE4lwyD1pF3hWjKx4mShsTcUgHGo1la4ctf_uw=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Nhạc Trẻ Remix Dưng FBT",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8Mp14s1LzIHl_fZX5cpsCQ"
+          }
+        },
+        "statistics": {
+          "viewCount": "36",
+          "subscriberCount": "0",
+          "hiddenSubscriberCount": false,
+          "videoCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "7ih4kq6KkkcuLIHfP69CslZfgyQ",
+        "id": "UC7bra0npR2BTTFw-UwD5Z4A",
+        "snippet": {
+          "title": "Ca Sĩ Bánh Tiêu ",
+          "description": "► Chào Mừng Các Bạn Đến Với Kênh Chính Thức Của Ca Sĩ Bánh Tiêu, Nơi Đây Ca Sĩ Bánh Tiêu Sẽ Hát Tặng Quý Khán Giả Các Ca Khúc Trữ Tình Bolero, Nhạc Lính, Các Ca Khúc Theo Yêu Cầu, Các Bạn Yêu Thích Ca Sĩ Bánh Tiêu Hảy Ủng Hộ Cho Bánh Tiêu Bằng Cách Đăng Ký Kênh Và Like Cho Bánh Tiêu Nhé, Cảm Ơn Cả Nhà Rất Nhiều.\n-------------------\n✪ Nhấn chuông 🔔 thông báo để nhận những video ra mới nhất từ kênh nhé !\n-------------------\n❖ Liên Hệ Hợp Tác :\nⓒ Bản quyền thuộc Ca Sĩ Bánh Tiêu \nVui lòng không sao chép dưới mọi hình thức!\n",
+          "customUrl": "@casibanhtieu",
+          "publishedAt": "2022-03-28T08:22:31.371729Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/-s0Og1jlhTfwM3aqObqKaueswLdY1mWpxWnIZMW-U9a66inWygLwA9Qv4nZIqn2N5laONqq9jw=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/-s0Og1jlhTfwM3aqObqKaueswLdY1mWpxWnIZMW-U9a66inWygLwA9Qv4nZIqn2N5laONqq9jw=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/-s0Og1jlhTfwM3aqObqKaueswLdY1mWpxWnIZMW-U9a66inWygLwA9Qv4nZIqn2N5laONqq9jw=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Ca Sĩ Bánh Tiêu ",
+            "description": "► Chào Mừng Các Bạn Đến Với Kênh Chính Thức Của Ca Sĩ Bánh Tiêu, Nơi Đây Ca Sĩ Bánh Tiêu Sẽ Hát Tặng Quý Khán Giả Các Ca Khúc Trữ Tình Bolero, Nhạc Lính, Các Ca Khúc Theo Yêu Cầu, Các Bạn Yêu Thích Ca Sĩ Bánh Tiêu Hảy Ủng Hộ Cho Bánh Tiêu Bằng Cách Đăng Ký Kênh Và Like Cho Bánh Tiêu Nhé, Cảm Ơn Cả Nhà Rất Nhiều.\n-------------------\n✪ Nhấn chuông 🔔 thông báo để nhận những video ra mới nhất từ kênh nhé !\n-------------------\n❖ Liên Hệ Hợp Tác :\nⓒ Bản quyền thuộc Ca Sĩ Bánh Tiêu \nVui lòng không sao chép dưới mọi hình thức!\n"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU7bra0npR2BTTFw-UwD5Z4A"
+          }
+        },
+        "statistics": {
+          "viewCount": "3237836",
+          "subscriberCount": "112000",
+          "hiddenSubscriberCount": false,
+          "videoCount": "109"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "QUJBXtEEgJTi3--95rZyQNS15M8",
+        "id": "UC8SMUvvO6p65qwAtqXQxegA",
+        "snippet": {
+          "title": "5 anh em tấu hài",
+          "description": "5 anh em trên chiếc xe lăn\n",
+          "customUrl": "@5anhemtauhai",
+          "publishedAt": "2024-11-09T13:04:42.114725Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/SLgZceC8RzH_kRsnA82fDkZv9nDv0HVpKeHEwG9L_b7P103w8KLdhjPYuL8VS6GIjG2dxQVcyw=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/SLgZceC8RzH_kRsnA82fDkZv9nDv0HVpKeHEwG9L_b7P103w8KLdhjPYuL8VS6GIjG2dxQVcyw=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/SLgZceC8RzH_kRsnA82fDkZv9nDv0HVpKeHEwG9L_b7P103w8KLdhjPYuL8VS6GIjG2dxQVcyw=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "5 anh em tấu hài",
+            "description": "5 anh em trên chiếc xe lăn\n"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8SMUvvO6p65qwAtqXQxegA"
+          }
+        },
+        "statistics": {
+          "viewCount": "2763",
+          "subscriberCount": "46",
+          "hiddenSubscriberCount": false,
+          "videoCount": "14"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "1H21i2Gyny4CaY5NEaNMo2wRzi8",
+        "id": "UC9SrbXbAj-ktwa3Tnak-0cg",
+        "snippet": {
+          "title": " team hài hước",
+          "description": "Cùng Theo dõi những câu chuyện hài hước, vui nhộn và những bài học ý nghĩa từ video của chúng tôi nhé",
+          "customUrl": "@teamvietphi1",
+          "publishedAt": "2017-10-25T14:04:15Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/L37DpcJywL1DmtK94BTmC0OAg1EVDlsOwy8Wj7H8nPHQNsSbRxCE0FsPthKPU1oIyEvdVQgAag=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/L37DpcJywL1DmtK94BTmC0OAg1EVDlsOwy8Wj7H8nPHQNsSbRxCE0FsPthKPU1oIyEvdVQgAag=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/L37DpcJywL1DmtK94BTmC0OAg1EVDlsOwy8Wj7H8nPHQNsSbRxCE0FsPthKPU1oIyEvdVQgAag=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": " team hài hước",
+            "description": "Cùng Theo dõi những câu chuyện hài hước, vui nhộn và những bài học ý nghĩa từ video của chúng tôi nhé"
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU9SrbXbAj-ktwa3Tnak-0cg"
+          }
+        },
+        "statistics": {
+          "viewCount": "141266186",
+          "subscriberCount": "156000",
+          "hiddenSubscriberCount": false,
+          "videoCount": "291"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "qlhXSR5qoMP4crLY_EZ9IagWn_I",
+        "id": "UC7th1JGmbzXSOMsLS-mqfAw",
+        "snippet": {
+          "title": "Gameshow Nhà Cười",
+          "description": "",
+          "customUrl": "@gameshownhacuoi4360",
+          "publishedAt": "2017-01-05T02:16:35Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_kYfxmeRU8k7clx6b7U7JsvNUiGD3Hv2uH4f6Qsw5fcIA=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_kYfxmeRU8k7clx6b7U7JsvNUiGD3Hv2uH4f6Qsw5fcIA=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_kYfxmeRU8k7clx6b7U7JsvNUiGD3Hv2uH4f6Qsw5fcIA=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Gameshow Nhà Cười",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU7th1JGmbzXSOMsLS-mqfAw"
+          }
+        },
+        "statistics": {
+          "viewCount": "168040",
+          "subscriberCount": "470",
+          "hiddenSubscriberCount": false,
+          "videoCount": "40"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "pC5onVHdHZeEE-5igFA1HTx94jw",
+        "id": "UC7xTERSqzzI2craBm-EPE-g",
+        "snippet": {
+          "title": "Rob Squad Reactions",
+          "description": "Welcome to Rob Squad Reactions This is a music reaction channel. My passion is being a content creator, and providing my audience with unique, funny, and never before seen reaction videos. I have come to grow a love for all types of music from my beloved rap to heavy metal and I want to share that love with all of you. I am here to try and make a change in this world starting with something that brings us all together MUSIC!! \n\nYou are LOVED, you are APPRECIATED, you are BLESSED!!!   \n               💙Love Jay \nPayPal:\n@RobSquadReactions\n\n⬇️ IF YOU WOULD LIKE TO SEND ANYTHING⬇️ \n 608 Cottonwood Dr, Moore Ok 73160\n\nrobsquadreactions@gmail.com\n\n",
+          "customUrl": "@robsquadreactions",
+          "publishedAt": "2021-03-26T18:23:52.652339Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/dx5xZ62FZUBt3NMPIj9dZy2ciNg0Hu6-FWEwJG4mqIZbdlYtEF_FloVWeC8FoWSxuER_X5SgR50=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/dx5xZ62FZUBt3NMPIj9dZy2ciNg0Hu6-FWEwJG4mqIZbdlYtEF_FloVWeC8FoWSxuER_X5SgR50=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/dx5xZ62FZUBt3NMPIj9dZy2ciNg0Hu6-FWEwJG4mqIZbdlYtEF_FloVWeC8FoWSxuER_X5SgR50=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Rob Squad Reactions",
+            "description": "Welcome to Rob Squad Reactions This is a music reaction channel. My passion is being a content creator, and providing my audience with unique, funny, and never before seen reaction videos. I have come to grow a love for all types of music from my beloved rap to heavy metal and I want to share that love with all of you. I am here to try and make a change in this world starting with something that brings us all together MUSIC!! \n\nYou are LOVED, you are APPRECIATED, you are BLESSED!!!   \n               💙Love Jay \nPayPal:\n@RobSquadReactions\n\n⬇️ IF YOU WOULD LIKE TO SEND ANYTHING⬇️ \n 608 Cottonwood Dr, Moore Ok 73160\n\nrobsquadreactions@gmail.com\n\n"
+          },
+          "country": "US"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU7xTERSqzzI2craBm-EPE-g"
+          }
+        },
+        "statistics": {
+          "viewCount": "506704211",
+          "subscriberCount": "684000",
+          "hiddenSubscriberCount": false,
+          "videoCount": "5901"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "_YQjnKUfM1V06Pq_KvfU10SWFnw",
+        "id": "UC7S1TZJ1EfH1zderL4XjiJA",
+        "snippet": {
+          "title": "Gameshow hài hước",
+          "description": "Game show hài hước",
+          "customUrl": "@gameshowhaihuoc1075",
+          "publishedAt": "2015-10-15T07:11:34Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_mpsyHrFmQnQf5PJ1cTBz9aZfS49-IWXOefC6Q7r1XRIA=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_mpsyHrFmQnQf5PJ1cTBz9aZfS49-IWXOefC6Q7r1XRIA=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_mpsyHrFmQnQf5PJ1cTBz9aZfS49-IWXOefC6Q7r1XRIA=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Gameshow hài hước",
+            "description": "Game show hài hước"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU7S1TZJ1EfH1zderL4XjiJA"
+          }
+        },
+        "statistics": {
+          "viewCount": "7185",
+          "subscriberCount": "5",
+          "hiddenSubscriberCount": false,
+          "videoCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "4Cwub9F3JFfd73k1WJgBmkPJ1Wo",
+        "id": "UC93tkNqILX5eANN5EbhapUg",
+        "snippet": {
+          "title": "DYK GAMESHOW HORROR",
+          "description": "Soul Eyes Demon!\n\n\nGame Horror Serrrreeeemmm!!!!!\n\nMantep cok Aq YT 12 2024\nCareful house schools hospital Guys\nHi, No How My Live!",
+          "customUrl": "@dykgameshowhorror",
+          "publishedAt": "2024-08-14T12:09:20.482427Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/rlmTcNSrTfcO9TofKd5d1ImmsT5-13GOyX8UPFmvnN-FDof5uxyDiSi2me7wRI9kGQFkHKBq=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/rlmTcNSrTfcO9TofKd5d1ImmsT5-13GOyX8UPFmvnN-FDof5uxyDiSi2me7wRI9kGQFkHKBq=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/rlmTcNSrTfcO9TofKd5d1ImmsT5-13GOyX8UPFmvnN-FDof5uxyDiSi2me7wRI9kGQFkHKBq=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "DYK GAMESHOW HORROR",
+            "description": "Soul Eyes Demon!\n\n\nGame Horror Serrrreeeemmm!!!!!\n\nMantep cok Aq YT 12 2024\nCareful house schools hospital Guys\nHi, No How My Live!"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU93tkNqILX5eANN5EbhapUg"
+          }
+        },
+        "statistics": {
+          "viewCount": "515",
+          "subscriberCount": "11",
+          "hiddenSubscriberCount": false,
+          "videoCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "kkTS7w3Fw8dZYlLPRdd7ghjTMmY",
+        "id": "UC8sDe7p3nCjR5HQT1DDvOKA",
+        "snippet": {
+          "title": "Nhạc Trẻ remix hay",
+          "description": "",
+          "customUrl": "@nhactreremixhay4382",
+          "publishedAt": "2020-06-11T13:00:21.624995Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/miqXEIUFa_oQsvgiNc3uxpqSo_hLVhYpBHwLst5h-0YSj33TBVUCx3RDOr9MFTCnoPRXEBg-=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/miqXEIUFa_oQsvgiNc3uxpqSo_hLVhYpBHwLst5h-0YSj33TBVUCx3RDOr9MFTCnoPRXEBg-=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/miqXEIUFa_oQsvgiNc3uxpqSo_hLVhYpBHwLst5h-0YSj33TBVUCx3RDOr9MFTCnoPRXEBg-=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Nhạc Trẻ remix hay",
+            "description": ""
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8sDe7p3nCjR5HQT1DDvOKA"
+          }
+        },
+        "statistics": {
+          "viewCount": "12272",
+          "subscriberCount": "43",
+          "hiddenSubscriberCount": false,
+          "videoCount": "24"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "E6DHrP0cpkghAhmoQ9QxgDzMKDM",
+        "id": "UC7kYq4IdBNMlDLXm7P8eMxg",
+        "snippet": {
+          "title": "Thầy  Ba  Hài  Dón  4",
+          "description": "",
+          "customUrl": "@thaybahaidon4",
+          "publishedAt": "2022-11-04T05:45:26.413528Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/RvgPhOamwzPRpCUTG6z2DQOruwUJM3nBn30buaeukPTiBa45mJp8k0xxvwtQll9h-1kJpvfQWg=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/RvgPhOamwzPRpCUTG6z2DQOruwUJM3nBn30buaeukPTiBa45mJp8k0xxvwtQll9h-1kJpvfQWg=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/RvgPhOamwzPRpCUTG6z2DQOruwUJM3nBn30buaeukPTiBa45mJp8k0xxvwtQll9h-1kJpvfQWg=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Thầy  Ba  Hài  Dón  4",
+            "description": ""
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU7kYq4IdBNMlDLXm7P8eMxg"
+          }
+        },
+        "statistics": {
+          "viewCount": "294035",
+          "subscriberCount": "1170",
+          "hiddenSubscriberCount": false,
+          "videoCount": "66"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "S96KFwDn_nBYM6HwjExKtkKXu4U",
+        "id": "UC8-MnLVzzgmrd2MRxltPtbg",
+        "snippet": {
+          "title": "Nhạc Rap Việt",
+          "description": "Đây là kênh Youtube mình làm theo tên của 1 Fanpage có trên Facebook và video mình cũng lấy của họ mong bạn ủng hộ nhé",
+          "customUrl": "@nhacrapviet7011",
+          "publishedAt": "2020-03-31T05:35:20.876203Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_mRruruOd-Hy_Zn0j-kc78diBGd-csKclRDNxg70PgfvA=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_mRruruOd-Hy_Zn0j-kc78diBGd-csKclRDNxg70PgfvA=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_mRruruOd-Hy_Zn0j-kc78diBGd-csKclRDNxg70PgfvA=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Nhạc Rap Việt",
+            "description": "Đây là kênh Youtube mình làm theo tên của 1 Fanpage có trên Facebook và video mình cũng lấy của họ mong bạn ủng hộ nhé"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8-MnLVzzgmrd2MRxltPtbg"
+          }
+        },
+        "statistics": {
+          "viewCount": "591",
+          "subscriberCount": "10",
+          "hiddenSubscriberCount": false,
+          "videoCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "BCNZUNcFfc9t4cmlESuJ8eeTjT8",
+        "id": "UC7fZmjZheAd4cttQf7T-xHw",
+        "snippet": {
+          "title": "En Rullande Talkshow",
+          "description": "Varje måndag 06:00 underhåller Manfred Erlandsson och Hampus Hedström från bilen. Ibland med gäster, alltid med roliga teman och anekdoter!",
+          "customUrl": "@enrullandetalkshow",
+          "publishedAt": "2015-09-21T08:53:24Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_kzbVj4wO78TTH4qtWn8uN9SYid-z6h5XowITIAgd3As88=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_kzbVj4wO78TTH4qtWn8uN9SYid-z6h5XowITIAgd3As88=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_kzbVj4wO78TTH4qtWn8uN9SYid-z6h5XowITIAgd3As88=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "En Rullande Talkshow",
+            "description": "Varje måndag 06:00 underhåller Manfred Erlandsson och Hampus Hedström från bilen. Ibland med gäster, alltid med roliga teman och anekdoter!"
+          },
+          "country": "SE"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU7fZmjZheAd4cttQf7T-xHw"
+          }
+        },
+        "statistics": {
+          "viewCount": "52573890",
+          "subscriberCount": "136000",
+          "hiddenSubscriberCount": false,
+          "videoCount": "273"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "3Pcgiqk7jEG0qJYPG86n-vkmc3w",
+        "id": "UC7SzsEUy3IdjHQCTgnpUS2g",
+        "snippet": {
+          "title": "Acoustic Cover Nhạc Xưa ",
+          "description": "Những bản nhạc xưa đem lại cho chúng ra những ký ức về tuổi thơ \nThời áo trắng đến trường với bao kỉ niệm\nKính mong các bạn cùng thưởng thức và để lại bình luận ạ !\n\n",
+          "customUrl": "@acousticcovernhacxua5713",
+          "publishedAt": "2015-09-15T16:36:56Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/45kWOLTmpc-TIVjjbNnCTmoAAJBGdLjlG8nZObaPg0LZbtvbjzNWcnkRoaCz0_jZjS5c_ZR_TQ=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/45kWOLTmpc-TIVjjbNnCTmoAAJBGdLjlG8nZObaPg0LZbtvbjzNWcnkRoaCz0_jZjS5c_ZR_TQ=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/45kWOLTmpc-TIVjjbNnCTmoAAJBGdLjlG8nZObaPg0LZbtvbjzNWcnkRoaCz0_jZjS5c_ZR_TQ=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Acoustic Cover Nhạc Xưa ",
+            "description": "Những bản nhạc xưa đem lại cho chúng ra những ký ức về tuổi thơ \nThời áo trắng đến trường với bao kỉ niệm\nKính mong các bạn cùng thưởng thức và để lại bình luận ạ !\n\n"
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU7SzsEUy3IdjHQCTgnpUS2g"
+          }
+        },
+        "statistics": {
+          "viewCount": "586",
+          "subscriberCount": "5",
+          "hiddenSubscriberCount": false,
+          "videoCount": "10"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "6poXKlxW7EK0olKXM03DeDusyXs",
+        "id": "UC7X8BJK4cvzmTA5AxaHpwwA",
+        "snippet": {
+          "title": "Ca sĩ Lâm Minh",
+          "description": "",
+          "customUrl": "@casilamminh2636",
+          "publishedAt": "2014-10-01T14:28:03Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_ntEPWFHwC08izcO9lWRcOWlUGAz6qyQ0DRAftxyI7QXKQ=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_ntEPWFHwC08izcO9lWRcOWlUGAz6qyQ0DRAftxyI7QXKQ=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_ntEPWFHwC08izcO9lWRcOWlUGAz6qyQ0DRAftxyI7QXKQ=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Ca sĩ Lâm Minh",
+            "description": ""
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU7X8BJK4cvzmTA5AxaHpwwA"
+          }
+        },
+        "statistics": {
+          "viewCount": "31043",
+          "subscriberCount": "4720",
+          "hiddenSubscriberCount": false,
+          "videoCount": "13"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "TqI91bJO44tt4-NG96czHC5lFJg",
+        "id": "UC8q1wKdGzHBH9l_brVxWFkQ",
+        "snippet": {
+          "title": "Rap Việt 05",
+          "description": "",
+          "customUrl": "@rapviet05",
+          "publishedAt": "2023-07-21T11:01:59.627095Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/NoReb5ucXtMfmWj2b-zsW3cPvFl9Wp56BOhtJAHsj7kXwa1wJOC7bpPynsT_8ml8EqCOCv6f=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/NoReb5ucXtMfmWj2b-zsW3cPvFl9Wp56BOhtJAHsj7kXwa1wJOC7bpPynsT_8ml8EqCOCv6f=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/NoReb5ucXtMfmWj2b-zsW3cPvFl9Wp56BOhtJAHsj7kXwa1wJOC7bpPynsT_8ml8EqCOCv6f=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Rap Việt 05",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8q1wKdGzHBH9l_brVxWFkQ"
+          }
+        },
+        "statistics": {
+          "viewCount": "81",
+          "subscriberCount": "2",
+          "hiddenSubscriberCount": false,
+          "videoCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "O_2lFX5PEjNxN8KdCIyjPnS3A5Y",
+        "id": "UC8JWK7QLiC3BEjpNMRvLQnQ",
+        "snippet": {
+          "title": "Phim Ngắn Mỗi Ngày Official",
+          "description": "🎬 Chào mừng bạn đến với Phim Ngắn Mỗi Ngày – Kênh chuyên sản xuất và chia sẻ những bộ phim ngắn cảm động, câu chuyện tình yêu và những lát cắt cuộc sống thường nhật đầy ý nghĩa.\n\nMỗi video là một thông điệp nhân văn sâu sắc, hy vọng sẽ mang đến cho bạn những giây phút thư giãn, sự đồng cảm và năng lượng tích cực sau những giờ làm việc mệt mỏi.\n\n🔔 Đăng ký kênh ngay để không bỏ lỡ các series phim ngắn mới nhất được phát sóng vào lúc 18h - Thứ 7 hàng tuần nhé!\n\n☕ Ủng hộ/Donate để tụi mình có thêm chi phí sản xuất phim:\nMomo: https://me.momo.vn/donateqlm\nZypage: https://zypage.com/fallenwings\n\n#phimngan #phimnganhaihuoc #phimngantinhyeu #shortfilm #phimnganmoingay\n",
+          "customUrl": "@phimngan_official",
+          "publishedAt": "2013-12-22T13:39:56Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/kRqtbuSdikeADCnUsiVRWYPyh7k2gRi-sakuYXS_2UgVT6pVEyhX-S717D1VN2LBVR90w3KHmzM=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/kRqtbuSdikeADCnUsiVRWYPyh7k2gRi-sakuYXS_2UgVT6pVEyhX-S717D1VN2LBVR90w3KHmzM=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/kRqtbuSdikeADCnUsiVRWYPyh7k2gRi-sakuYXS_2UgVT6pVEyhX-S717D1VN2LBVR90w3KHmzM=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Phim Ngắn Mỗi Ngày Official",
+            "description": "🎬 Chào mừng bạn đến với Phim Ngắn Mỗi Ngày – Kênh chuyên sản xuất và chia sẻ những bộ phim ngắn cảm động, câu chuyện tình yêu và những lát cắt cuộc sống thường nhật đầy ý nghĩa.\n\nMỗi video là một thông điệp nhân văn sâu sắc, hy vọng sẽ mang đến cho bạn những giây phút thư giãn, sự đồng cảm và năng lượng tích cực sau những giờ làm việc mệt mỏi.\n\n🔔 Đăng ký kênh ngay để không bỏ lỡ các series phim ngắn mới nhất được phát sóng vào lúc 18h - Thứ 7 hàng tuần nhé!\n\n☕ Ủng hộ/Donate để tụi mình có thêm chi phí sản xuất phim:\nMomo: https://me.momo.vn/donateqlm\nZypage: https://zypage.com/fallenwings\n\n#phimngan #phimnganhaihuoc #phimngantinhyeu #shortfilm #phimnganmoingay\n"
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8JWK7QLiC3BEjpNMRvLQnQ"
+          }
+        },
+        "statistics": {
+          "viewCount": "984565",
+          "subscriberCount": "7600",
+          "hiddenSubscriberCount": false,
+          "videoCount": "125"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "2yGK8A3haYzhSe9LjIyMcUVpt4g",
+        "id": "UC9OxYYt9uE12l2wELgtm8qg",
+        "snippet": {
+          "title": "Ghiền phim ngắn",
+          "description": "",
+          "customUrl": "@ghienphimnganhay",
+          "publishedAt": "2025-09-10T08:02:31.418011Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/dE9r1L3BDpX1AH6XQZVNKNoZiYfFpaw1EVfKmcBo8sHcvWuS5oixSYX6SXNaKLi_IZ0bSBLT3w=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/dE9r1L3BDpX1AH6XQZVNKNoZiYfFpaw1EVfKmcBo8sHcvWuS5oixSYX6SXNaKLi_IZ0bSBLT3w=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/dE9r1L3BDpX1AH6XQZVNKNoZiYfFpaw1EVfKmcBo8sHcvWuS5oixSYX6SXNaKLi_IZ0bSBLT3w=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Ghiền phim ngắn",
+            "description": ""
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU9OxYYt9uE12l2wELgtm8qg"
+          }
+        },
+        "statistics": {
+          "viewCount": "0",
+          "subscriberCount": "28",
+          "hiddenSubscriberCount": false,
+          "videoCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "UHMm2wcAq3lrKntEaL10Ny8Z-A8",
+        "id": "UC9G53lm3a3SI9kKOxSmNzpg",
+        "snippet": {
+          "title": "DHL- Nhạc Trẻ Remix",
+          "description": "Âm nhạc là niềm đam mê",
+          "customUrl": "@aiholoofficial",
+          "publishedAt": "2018-12-31T07:29:22Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lQRrA8k3nbZq8ZKPj4EAG_AR-SMIUyaOc1joDM-IGV0TE=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lQRrA8k3nbZq8ZKPj4EAG_AR-SMIUyaOc1joDM-IGV0TE=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lQRrA8k3nbZq8ZKPj4EAG_AR-SMIUyaOc1joDM-IGV0TE=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "DHL- Nhạc Trẻ Remix",
+            "description": "Âm nhạc là niềm đam mê"
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU9G53lm3a3SI9kKOxSmNzpg"
+          }
+        },
+        "statistics": {
+          "viewCount": "81226",
+          "subscriberCount": "2440",
+          "hiddenSubscriberCount": false,
+          "videoCount": "55"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "iEJrfwpBzbakC_7Is6HVu-ztE00",
+        "id": "UC72hkJEtvvK-XklKv7hX7Ng",
+        "snippet": {
+          "title": "GCN Phim Ngắn",
+          "description": "Chào mừng bạn đến với GCN Phim Ngắn\n+Đây là kênh phát hành chính thức các bộ phim ngắn Trung Quốc tại Việt Nam. \n+Tuyên bố sáng tạo / Artistic & Safety Disclosure】\n🚫 Cấm người dưới 18 tuổi xem\n1.Tính chất nội dung (Nature of Content):\nKênh này chủ yếu sản xuất các phim ngắn/tiểu phẩm gốc, thuộc danh mục “Nghệ thuật (Artistic)” theo chính sách EDSA của YouTube.\n2.Bảo vệ trẻ vị thành niên (Child Safety):\nTrong tập này có xuất hiện các nhân vật là trẻ vị thành niên, tất cả đều là diễn viên chuyên nghiệp/tự nguyện tham gia. Mọi cảnh quay đều được thực hiện dưới sự giám sát trực tiếp của người giám hộ, đảm bảo môi trường an toàn và tuân thủ quy định. Vui lòng không bắt chước dưới bất kỳ hình thức nào.\n3.Mục đích sản xuất (Production Goal):\nVideo sử dụng hình thức kể chuyện hư cấu nhằm truyền tải và thảo luận các chủ đề như [ví dụ: triết lý cuộc sống / tình cảm gia đình / môi trường công sở]… Nội dung không chứa yếu tố nguy hiểm, kích động hoặc hành vi không phù hợp.\n",
+          "customUrl": "@gcnphimngan",
+          "publishedAt": "2026-06-18T07:22:01.868412Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/VmZYcB0JeLOjOoJkrCasyF6C748dVIkZk0i0ixVsXPN4vDuDWrndWpxlNM3WGEsCcFWBsNqR=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/VmZYcB0JeLOjOoJkrCasyF6C748dVIkZk0i0ixVsXPN4vDuDWrndWpxlNM3WGEsCcFWBsNqR=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/VmZYcB0JeLOjOoJkrCasyF6C748dVIkZk0i0ixVsXPN4vDuDWrndWpxlNM3WGEsCcFWBsNqR=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "GCN Phim Ngắn",
+            "description": "Chào mừng bạn đến với GCN Phim Ngắn\n+Đây là kênh phát hành chính thức các bộ phim ngắn Trung Quốc tại Việt Nam. \n+Tuyên bố sáng tạo / Artistic & Safety Disclosure】\n🚫 Cấm người dưới 18 tuổi xem\n1.Tính chất nội dung (Nature of Content):\nKênh này chủ yếu sản xuất các phim ngắn/tiểu phẩm gốc, thuộc danh mục “Nghệ thuật (Artistic)” theo chính sách EDSA của YouTube.\n2.Bảo vệ trẻ vị thành niên (Child Safety):\nTrong tập này có xuất hiện các nhân vật là trẻ vị thành niên, tất cả đều là diễn viên chuyên nghiệp/tự nguyện tham gia. Mọi cảnh quay đều được thực hiện dưới sự giám sát trực tiếp của người giám hộ, đảm bảo môi trường an toàn và tuân thủ quy định. Vui lòng không bắt chước dưới bất kỳ hình thức nào.\n3.Mục đích sản xuất (Production Goal):\nVideo sử dụng hình thức kể chuyện hư cấu nhằm truyền tải và thảo luận các chủ đề như [ví dụ: triết lý cuộc sống / tình cảm gia đình / môi trường công sở]… Nội dung không chứa yếu tố nguy hiểm, kích động hoặc hành vi không phù hợp.\n"
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU72hkJEtvvK-XklKv7hX7Ng"
+          }
+        },
+        "statistics": {
+          "viewCount": "224312",
+          "subscriberCount": "1260",
+          "hiddenSubscriberCount": false,
+          "videoCount": "111"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "ZOculOivj4wUOx0dQgfogk7Ge3U",
+        "id": "UC8JgedrM0cAYtqileXpCKAw",
+        "snippet": {
+          "title": "Kênh Nhạc Trẻ - Youth Music Channel",
+          "description": " ",
+          "customUrl": "@kenhnhactreyouthmusicchannel16",
+          "publishedAt": "2022-09-26T15:01:39.96389Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/LTezrZ6q0Fb3cqc60wPQpePkeXLTKDIkk9yIcHYZ-nhn9ceNJcgxGd8j8r9oXCgSsJa9PSxYqQ=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/LTezrZ6q0Fb3cqc60wPQpePkeXLTKDIkk9yIcHYZ-nhn9ceNJcgxGd8j8r9oXCgSsJa9PSxYqQ=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/LTezrZ6q0Fb3cqc60wPQpePkeXLTKDIkk9yIcHYZ-nhn9ceNJcgxGd8j8r9oXCgSsJa9PSxYqQ=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Kênh Nhạc Trẻ - Youth Music Channel",
+            "description": " "
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8JgedrM0cAYtqileXpCKAw"
+          }
+        },
+        "statistics": {
+          "viewCount": "2157",
+          "subscriberCount": "3",
+          "hiddenSubscriberCount": false,
+          "videoCount": "8"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "9GkDk4bMWiPRii3bkCQXR3kEToA",
+        "id": "UC7TLKiUd0KiElPakblkT-DQ",
+        "snippet": {
+          "title": "Mèo Ư~Phim Ngắn",
+          "description": "Mèo Ư~Phim Ngắn | Phim ngắn ngôn tình dành riêng cho hội chị em!\n- Hôm nay ngọt: Tổng tài sủng vợ, anh yêu em chỉ 1 giây  \n- Mai ngược: Nước mắt rơi, rồi nữ chính vùng lên lật kèo  \nCùng nhau theo dõi hành trình tình yêu đầy drama nào!  \n\n❤️ ĐĂNG KÝ + LIKE nếu bạn cũng \"rung rinh\" nhé!  \n✖ Sao chép, tải lại hoặc chỉnh sửa lại video này có thể dẫn đến việc tài khoản bị đình chỉ vĩnh viễn.\n💖Video này là hư cấu hoặc nhằm mục đích giải trí, và bất kỳ cảnh nguy hiểm nào đều được quay phim chuyên nghiệp hoặc tạo ra bằng hiệu ứng đặc biệt.\n⚠ Không bắt chước bất kỳ hành vi nguy hiểm nào trong video.\n💥Kênh này không quảng bá các hoạt động bất hợp pháp, bạo lực hoặc cực đoan. Tất cả nội dung chỉ nhằm mục đích giải trí. Vui lòng luôn tuân thủ các quy định pháp luật và tiêu chuẩn an toàn.\n📜 Tuân thủ YouTube\nVideo này tuân thủ các điều khoản và điều kiện của YouTube và không chứa bất kỳ nội dung nào kích động thù hận hoặc bất hợp pháp. Kênh không chịu trách nhiệm (về hành động của người xem).\n",
+          "customUrl": "@meouphimngan",
+          "publishedAt": "2026-03-17T01:40:53.169081Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/28Cz8MC4tRXAYK027lLjLvtvjq0o00IsNUtHA3mVtYMEtrtEnHrRCxYXTdlxqhDVwdWFaSs7SPk=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/28Cz8MC4tRXAYK027lLjLvtvjq0o00IsNUtHA3mVtYMEtrtEnHrRCxYXTdlxqhDVwdWFaSs7SPk=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/28Cz8MC4tRXAYK027lLjLvtvjq0o00IsNUtHA3mVtYMEtrtEnHrRCxYXTdlxqhDVwdWFaSs7SPk=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Mèo Ư~Phim Ngắn",
+            "description": "Mèo Ư~Phim Ngắn | Phim ngắn ngôn tình dành riêng cho hội chị em!\n- Hôm nay ngọt: Tổng tài sủng vợ, anh yêu em chỉ 1 giây  \n- Mai ngược: Nước mắt rơi, rồi nữ chính vùng lên lật kèo  \nCùng nhau theo dõi hành trình tình yêu đầy drama nào!  \n\n❤️ ĐĂNG KÝ + LIKE nếu bạn cũng \"rung rinh\" nhé!  \n✖ Sao chép, tải lại hoặc chỉnh sửa lại video này có thể dẫn đến việc tài khoản bị đình chỉ vĩnh viễn.\n💖Video này là hư cấu hoặc nhằm mục đích giải trí, và bất kỳ cảnh nguy hiểm nào đều được quay phim chuyên nghiệp hoặc tạo ra bằng hiệu ứng đặc biệt.\n⚠ Không bắt chước bất kỳ hành vi nguy hiểm nào trong video.\n💥Kênh này không quảng bá các hoạt động bất hợp pháp, bạo lực hoặc cực đoan. Tất cả nội dung chỉ nhằm mục đích giải trí. Vui lòng luôn tuân thủ các quy định pháp luật và tiêu chuẩn an toàn.\n📜 Tuân thủ YouTube\nVideo này tuân thủ các điều khoản và điều kiện của YouTube và không chứa bất kỳ nội dung nào kích động thù hận hoặc bất hợp pháp. Kênh không chịu trách nhiệm (về hành động của người xem).\n"
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU7TLKiUd0KiElPakblkT-DQ"
+          }
+        },
+        "statistics": {
+          "viewCount": "27851",
+          "subscriberCount": "102",
+          "hiddenSubscriberCount": false,
+          "videoCount": "11"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "5BD-gXPJusGbq9aUYfLOTDA5fFY",
+        "id": "UC9SJu5-Y7E7opnjtCtNfVFg",
+        "snippet": {
+          "title": "hoan hài hước",
+          "description": "Hoan bmt",
+          "customUrl": "@hoanhaihuoc1788",
+          "publishedAt": "2021-10-29T07:49:01.062496Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/6LfHg8MKxTy6aCLYtKqKrk9f2L916k6pH-DWmmCcp08Ar6mhjgxf2oU6i-IHhWN0_Upu0OFM=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/6LfHg8MKxTy6aCLYtKqKrk9f2L916k6pH-DWmmCcp08Ar6mhjgxf2oU6i-IHhWN0_Upu0OFM=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/6LfHg8MKxTy6aCLYtKqKrk9f2L916k6pH-DWmmCcp08Ar6mhjgxf2oU6i-IHhWN0_Upu0OFM=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "hoan hài hước",
+            "description": "Hoan bmt"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU9SJu5-Y7E7opnjtCtNfVFg"
+          }
+        },
+        "statistics": {
+          "viewCount": "7868",
+          "subscriberCount": "96",
+          "hiddenSubscriberCount": false,
+          "videoCount": "7"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "TBG7IYKMqIJFVHSJsUPtU_HJhh0",
+        "id": "UC7MWsgdGrGRZwad_gKRUtMg",
+        "snippet": {
+          "title": "VŨ TRỤ COVER HOA NGỮ",
+          "description": "🤣 Chào mừng bạn đến với “vũ trụ cover Hoa ngữ” – nơi cảm xúc thì bay bổng, còn giọng hát thì… cố gắng bay theo!\nỞ đây, tụi mình cover nhạc Trung bằng AI từ cổ trang kiếm hiệp đến hiện đại đô thị, từ ballad sướt mướt đến lo-fi chill chill – nói chung là đủ mood để bạn vừa khóc vừa lắc đầu theo beat.\n🎧 Nếu bạn mê mẩn những giai điệu như:\n- 渡山恋 (Du Sơn Luyến) – nghe xong muốn leo núi luôn\n- 一笑江湖 (Nhất Tiếu Giang Hồ) – cười một cái là quên deadline\n- 罗刹海市 (La Sát Hải Thị) – nghe chill mà tưởng mình đang ở chợ hải sản\n- 时空错乱 (Thời Không Sai Lệch) – nghe xong không biết mình đang ở năm nào\n- Và vô số hit hot hòn họt từ Douyin, TikTok Trung Quốc\n👉 Thì bạn đã lạc đúng “ổ” rồi!\n📌 Nhấn nút Đăng ký để mỗi tuần được “tra tấn” bằng những bản cover mới toanh.\n💬 Comment bài hát bạn muốn tụi mình thử sức tiếp theo – biết đâu bạn sẽ thấy bài mình yêu thích được hát theo phong cách… “không giống ai”!\n\n",
+          "customUrl": "@cover-8tai",
+          "publishedAt": "2025-10-01T02:33:41.998472Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/hlcW5EqUzu7quhsQqiULTiW3LMs3sXCL8Egin8m9mkuF7Gn-63bCFpbcycC3L5twJ6R4M6ykAw=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/hlcW5EqUzu7quhsQqiULTiW3LMs3sXCL8Egin8m9mkuF7Gn-63bCFpbcycC3L5twJ6R4M6ykAw=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/hlcW5EqUzu7quhsQqiULTiW3LMs3sXCL8Egin8m9mkuF7Gn-63bCFpbcycC3L5twJ6R4M6ykAw=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "VŨ TRỤ COVER HOA NGỮ",
+            "description": "🤣 Chào mừng bạn đến với “vũ trụ cover Hoa ngữ” – nơi cảm xúc thì bay bổng, còn giọng hát thì… cố gắng bay theo!\nỞ đây, tụi mình cover nhạc Trung bằng AI từ cổ trang kiếm hiệp đến hiện đại đô thị, từ ballad sướt mướt đến lo-fi chill chill – nói chung là đủ mood để bạn vừa khóc vừa lắc đầu theo beat.\n🎧 Nếu bạn mê mẩn những giai điệu như:\n- 渡山恋 (Du Sơn Luyến) – nghe xong muốn leo núi luôn\n- 一笑江湖 (Nhất Tiếu Giang Hồ) – cười một cái là quên deadline\n- 罗刹海市 (La Sát Hải Thị) – nghe chill mà tưởng mình đang ở chợ hải sản\n- 时空错乱 (Thời Không Sai Lệch) – nghe xong không biết mình đang ở năm nào\n- Và vô số hit hot hòn họt từ Douyin, TikTok Trung Quốc\n👉 Thì bạn đã lạc đúng “ổ” rồi!\n📌 Nhấn nút Đăng ký để mỗi tuần được “tra tấn” bằng những bản cover mới toanh.\n💬 Comment bài hát bạn muốn tụi mình thử sức tiếp theo – biết đâu bạn sẽ thấy bài mình yêu thích được hát theo phong cách… “không giống ai”!\n\n"
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU7MWsgdGrGRZwad_gKRUtMg"
+          }
+        },
+        "statistics": {
+          "viewCount": "228657",
+          "subscriberCount": "444",
+          "hiddenSubscriberCount": false,
+          "videoCount": "74"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "CHj0NZS1iCpij0-3eRLDDrcKO7M",
+        "id": "UC7PK4ALcBdYI3gOnlgqnGjQ",
+        "snippet": {
+          "title": "Nhạc trẻ",
+          "description": "Kênh giải trí",
+          "customUrl": "@nhactre3094",
+          "publishedAt": "2021-09-02T19:17:12.21766Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/DBJS_tcAuMBCIFdUA_mDzOAl6FfkR_0F_GVlA6CpnHG8tneY8ir8B6aS0Ek_opuTvNcsmKfrcQc=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/DBJS_tcAuMBCIFdUA_mDzOAl6FfkR_0F_GVlA6CpnHG8tneY8ir8B6aS0Ek_opuTvNcsmKfrcQc=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/DBJS_tcAuMBCIFdUA_mDzOAl6FfkR_0F_GVlA6CpnHG8tneY8ir8B6aS0Ek_opuTvNcsmKfrcQc=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Nhạc trẻ",
+            "description": "Kênh giải trí"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU7PK4ALcBdYI3gOnlgqnGjQ"
+          }
+        },
+        "statistics": {
+          "viewCount": "22970",
+          "subscriberCount": "91",
+          "hiddenSubscriberCount": false,
+          "videoCount": "12"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "Nl8yqSOm-Cp_3V6vl_nZfioEqvA",
+        "id": "UC7kU7-VHyRdeG3n4u82j0nA",
+        "snippet": {
+          "title": "Cover Nhạc trẻ CHANNEL",
+          "description": "",
+          "customUrl": "@covernhactrechannel1430",
+          "publishedAt": "2018-06-12T08:00:29Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lZ3NtziWNeg33jz4YebN77Ur_lQl5HDaibSLxd_s5TYQ=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lZ3NtziWNeg33jz4YebN77Ur_lQl5HDaibSLxd_s5TYQ=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lZ3NtziWNeg33jz4YebN77Ur_lQl5HDaibSLxd_s5TYQ=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Cover Nhạc trẻ CHANNEL",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU7kU7-VHyRdeG3n4u82j0nA"
+          }
+        },
+        "statistics": {
+          "viewCount": "8804",
+          "subscriberCount": "76",
+          "hiddenSubscriberCount": false,
+          "videoCount": "48"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "ltbBelsrDa3bYQ04ku49egRhy6c",
+        "id": "UC8kpMxJjGauyFC_REWxVpRg",
+        "snippet": {
+          "title": "Bolero Xuân Hoà",
+          "description": "► Contact:\n     Email: contact@congtrinhmedia.vn\n     Phone: 0382.284.283\n© Bản quyền thuộc về Xuân Hoà Bolero & CT Media\n© Copyright by Xuân Hoà Bolero & CT Media ☞ Do not Reup.\n",
+          "customUrl": "@boleroxuanhoa",
+          "publishedAt": "2022-12-23T17:19:15.837947Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/8HkVTWcARlQJj4BL1AVY_yJm8fsHpoe1SE_nTV9YJaWO8kQx-qwYEzDdEciaDqPV1edbo84gcG0=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/8HkVTWcARlQJj4BL1AVY_yJm8fsHpoe1SE_nTV9YJaWO8kQx-qwYEzDdEciaDqPV1edbo84gcG0=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/8HkVTWcARlQJj4BL1AVY_yJm8fsHpoe1SE_nTV9YJaWO8kQx-qwYEzDdEciaDqPV1edbo84gcG0=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Bolero Xuân Hoà",
+            "description": "► Contact:\n     Email: contact@congtrinhmedia.vn\n     Phone: 0382.284.283\n© Bản quyền thuộc về Xuân Hoà Bolero & CT Media\n© Copyright by Xuân Hoà Bolero & CT Media ☞ Do not Reup.\n"
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8kpMxJjGauyFC_REWxVpRg"
+          }
+        },
+        "statistics": {
+          "viewCount": "51096114",
+          "subscriberCount": "141000",
+          "hiddenSubscriberCount": false,
+          "videoCount": "921"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "t9Ae1127bJU8_f8FjoZPZEGgf_E",
+        "id": "UC8Bs2ndh5G946N5dwC7dkkA",
+        "snippet": {
+          "title": "Skyline Rap Việt",
+          "description": "Welcome to Skyline Rap Việt ♥ Mọi người Subcribe (Đăng kí) để cập nhật những bài rap mới nhất nhé! ★ FOLLOW ME:",
+          "customUrl": "@skylinerapviet4729",
+          "publishedAt": "2021-07-26T02:34:17.948874Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/uA8MHcJi9NuuhhxZtztex012ShZf4-pbwSwudff0WBB9Xipp-JVdNJo9yiU5Qy5M4LANZ7kc=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/uA8MHcJi9NuuhhxZtztex012ShZf4-pbwSwudff0WBB9Xipp-JVdNJo9yiU5Qy5M4LANZ7kc=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/uA8MHcJi9NuuhhxZtztex012ShZf4-pbwSwudff0WBB9Xipp-JVdNJo9yiU5Qy5M4LANZ7kc=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Skyline Rap Việt",
+            "description": "Welcome to Skyline Rap Việt ♥ Mọi người Subcribe (Đăng kí) để cập nhật những bài rap mới nhất nhé! ★ FOLLOW ME:"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8Bs2ndh5G946N5dwC7dkkA"
+          }
+        },
+        "statistics": {
+          "viewCount": "14",
+          "subscriberCount": "1",
+          "hiddenSubscriberCount": false,
+          "videoCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "qO1v5Y-UGd5-M50_DA4jgy1XxSM",
+        "id": "UC78MCrXdaqbW3D9mz6jOSQA",
+        "snippet": {
+          "title": "Lãng Du Cùng Bolero",
+          "description": "Lãng Du Cùng Bolero - Kênh Youtube tổng hợp những tình khúc Bolero, nhạc sến, nhạc trữ tình hay được phát sóng độc quyền trên Truyền Hình Vĩnh Long.\n📑Kênh giới thiệu những bản tình ca của các nghệ sĩ nổi tiếng, những chương trình được người mến mộ dòng nhạc Bolero ưa chuộng như Solo Cùng Bolero, Tuyệt Đỉnh Song Ca, Tình Bolero.\n#LãngDuCùngBolero\n#BoleroTrênTHVL\n#BoleroHayNhất\n----------------------------\nCác videoclip của kênh Lãng Du Cùng Bolero do Báo và phát thanh, truyền hình Vĩnh Long giữ bản quyền và phát hành dưới mọi hình thức trên toàn lãnh thổ Việt Nam và trên các hạ tầng internet. \n► Không được đăng tải lại dưới bất kỳ hình thức nào nếu chưa có sự cho phép của Báo và phát thanh, truyền hình Vĩnh Long. \n\nLiên hệ:\nBáo và phát thanh, truyền hình Vĩnh Long\nĐịa chỉ: 50 đường Phạm Thái Bường, Phường Phước Hậu, tỉnh Vĩnh Long\nĐiện thoại: 0270.3822345\nFax: 0270. 3827194 \nEmail : banbientap@thvl.vn \nWebsite: http://www.thvl.vn/  http://www.thvli.vn \nFacebook: facebook.com/VinhLongTV\n",
+          "customUrl": "@langducungbolero",
+          "publishedAt": "2021-10-16T09:31:03.853893Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ft23wzSymQRpyav1HrNhjCtIXKbWI8zxijQYIo-xTY9Y6ZTYRILl2xJjGvZK6W_aBmyniSfC=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ft23wzSymQRpyav1HrNhjCtIXKbWI8zxijQYIo-xTY9Y6ZTYRILl2xJjGvZK6W_aBmyniSfC=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ft23wzSymQRpyav1HrNhjCtIXKbWI8zxijQYIo-xTY9Y6ZTYRILl2xJjGvZK6W_aBmyniSfC=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Lãng Du Cùng Bolero",
+            "description": "Lãng Du Cùng Bolero - Kênh Youtube tổng hợp những tình khúc Bolero, nhạc sến, nhạc trữ tình hay được phát sóng độc quyền trên Truyền Hình Vĩnh Long.\n📑Kênh giới thiệu những bản tình ca của các nghệ sĩ nổi tiếng, những chương trình được người mến mộ dòng nhạc Bolero ưa chuộng như Solo Cùng Bolero, Tuyệt Đỉnh Song Ca, Tình Bolero.\n#LãngDuCùngBolero\n#BoleroTrênTHVL\n#BoleroHayNhất\n----------------------------\nCác videoclip của kênh Lãng Du Cùng Bolero do Báo và phát thanh, truyền hình Vĩnh Long giữ bản quyền và phát hành dưới mọi hình thức trên toàn lãnh thổ Việt Nam và trên các hạ tầng internet. \n► Không được đăng tải lại dưới bất kỳ hình thức nào nếu chưa có sự cho phép của Báo và phát thanh, truyền hình Vĩnh Long. \n\nLiên hệ:\nBáo và phát thanh, truyền hình Vĩnh Long\nĐịa chỉ: 50 đường Phạm Thái Bường, Phường Phước Hậu, tỉnh Vĩnh Long\nĐiện thoại: 0270.3822345\nFax: 0270. 3827194 \nEmail : banbientap@thvl.vn \nWebsite: http://www.thvl.vn/  http://www.thvli.vn \nFacebook: facebook.com/VinhLongTV\n"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU78MCrXdaqbW3D9mz6jOSQA"
+          }
+        },
+        "statistics": {
+          "viewCount": "267931679",
+          "subscriberCount": "756000",
+          "hiddenSubscriberCount": false,
+          "videoCount": "1803"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "N1z3ZUlFCUeYQxUG10KQlL4XP2g",
+        "id": "UC8N4cymsV0_Z8So_nfVBwng",
+        "snippet": {
+          "title": "RAP VIỆT vn",
+          "description": "Kênh âm nhạc dành cho giới trẻ",
+          "customUrl": "@rapvietvn5912",
+          "publishedAt": "2019-09-23T03:48:08Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_kElBRHNcpKCoSiqTZv3J_aJTO8Ea6I-LBGpWhVdF-gDQ=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_kElBRHNcpKCoSiqTZv3J_aJTO8Ea6I-LBGpWhVdF-gDQ=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_kElBRHNcpKCoSiqTZv3J_aJTO8Ea6I-LBGpWhVdF-gDQ=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "RAP VIỆT vn",
+            "description": "Kênh âm nhạc dành cho giới trẻ"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8N4cymsV0_Z8So_nfVBwng"
+          }
+        },
+        "statistics": {
+          "viewCount": "11",
+          "subscriberCount": "0",
+          "hiddenSubscriberCount": false,
+          "videoCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "YcadSNEMGYxIou1C2AsgLuAC_q8",
+        "id": "UC8LZDTvlXLOy85LyuquZ2rg",
+        "snippet": {
+          "title": "Tấu Hài Mỗi Ngày",
+          "description": "Các Bạn Xem Clip Là Niềm Vui Của Mình,Hãy Bấm Đăng Kí Để Mình Có Động Lực Nhé❤️❤️❤️",
+          "customUrl": "@tauhaimoingay2511",
+          "publishedAt": "2025-11-25T05:33:23.615888Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/1_3Z608PjvoTLPqIy8N45IksvzlvmrunSBSYGcolmnZwkxpiWx16N9QROIsZlTjUHJjaO1ZQjw=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/1_3Z608PjvoTLPqIy8N45IksvzlvmrunSBSYGcolmnZwkxpiWx16N9QROIsZlTjUHJjaO1ZQjw=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/1_3Z608PjvoTLPqIy8N45IksvzlvmrunSBSYGcolmnZwkxpiWx16N9QROIsZlTjUHJjaO1ZQjw=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Tấu Hài Mỗi Ngày",
+            "description": "Các Bạn Xem Clip Là Niềm Vui Của Mình,Hãy Bấm Đăng Kí Để Mình Có Động Lực Nhé❤️❤️❤️"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8LZDTvlXLOy85LyuquZ2rg"
+          }
+        },
+        "statistics": {
+          "viewCount": "81855702",
+          "subscriberCount": "258000",
+          "hiddenSubscriberCount": false,
+          "videoCount": "603"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "ZTzdFMdcnUnuiTgzzObwPGG4k8c",
+        "id": "UC8VB-yjHltith0-g2LshPJA",
+        "snippet": {
+          "title": "Karamo Show",
+          "description": "The official YouTube channel for The Karamo Show! A talk show focused on mental health, talking, and growing. \n\nConnect with Karamo:\nWebsite: https://karamoshow.com\nTikTok: https://www.tiktok.com/@karamoshow\nFacebook: https://www.facebook.com/KaramoShow\nInstagram: https://www.instagram.com/karamoshow\nThreads: https://www.threads.net/@karamoshow\nX: https://twitter.com/KaramoShow\n\nProduced in Stamford, CT @ https://stamfordmediacenter.com\n\nAll comments, photos, & videos posted to this account are subject to our Terms of Submission and may be used on TV, online, & all social media by The Karamo Show & affiliates.\n",
+          "customUrl": "@karamoshow",
+          "publishedAt": "2022-02-28T19:39:44.413728Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/Wg5jLPamjX4hrm5R9AH6NuJxaii7QuhLSQ-JC1GyFesqMfIimrvBRmp99Te63H2oFV2ioPSX7lM=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/Wg5jLPamjX4hrm5R9AH6NuJxaii7QuhLSQ-JC1GyFesqMfIimrvBRmp99Te63H2oFV2ioPSX7lM=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/Wg5jLPamjX4hrm5R9AH6NuJxaii7QuhLSQ-JC1GyFesqMfIimrvBRmp99Te63H2oFV2ioPSX7lM=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Karamo Show",
+            "description": "The official YouTube channel for The Karamo Show! A talk show focused on mental health, talking, and growing. \n\nConnect with Karamo:\nWebsite: https://karamoshow.com\nTikTok: https://www.tiktok.com/@karamoshow\nFacebook: https://www.facebook.com/KaramoShow\nInstagram: https://www.instagram.com/karamoshow\nThreads: https://www.threads.net/@karamoshow\nX: https://twitter.com/KaramoShow\n\nProduced in Stamford, CT @ https://stamfordmediacenter.com\n\nAll comments, photos, & videos posted to this account are subject to our Terms of Submission and may be used on TV, online, & all social media by The Karamo Show & affiliates.\n"
+          },
+          "country": "US"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8VB-yjHltith0-g2LshPJA"
+          }
+        },
+        "statistics": {
+          "viewCount": "448347334",
+          "subscriberCount": "1350000",
+          "hiddenSubscriberCount": false,
+          "videoCount": "2778"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "9qvgFev67oqCN8TmySkQAHM8bjk",
+        "id": "UC7AKYi-pIF8F_DrQcmVe2xg",
+        "snippet": {
+          "title": "Zach The Gameshow Fan 2002",
+          "description": "Hello I am Zach The Gameshow Fan 2002 And I love Gameshows And I host Gameshow Livestreams on this channel called ZTGSF2002 Live which also stands for Zach The Gameshow Fan 2002 Live And I also upload other stuff on this channel as well besides Gameshows so yeah",
+          "customUrl": "@zachthegameshowfan2002tpir",
+          "publishedAt": "2021-08-20T00:22:16.858881Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/dffcfSoxoGtJ3NHW4sxQSAxWedKavc_Gv73DG7VkXhPTzqrpwup8ACx1qRHbD5VZ6kZSZU0enYM=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/dffcfSoxoGtJ3NHW4sxQSAxWedKavc_Gv73DG7VkXhPTzqrpwup8ACx1qRHbD5VZ6kZSZU0enYM=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/dffcfSoxoGtJ3NHW4sxQSAxWedKavc_Gv73DG7VkXhPTzqrpwup8ACx1qRHbD5VZ6kZSZU0enYM=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Zach The Gameshow Fan 2002",
+            "description": "Hello I am Zach The Gameshow Fan 2002 And I love Gameshows And I host Gameshow Livestreams on this channel called ZTGSF2002 Live which also stands for Zach The Gameshow Fan 2002 Live And I also upload other stuff on this channel as well besides Gameshows so yeah"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU7AKYi-pIF8F_DrQcmVe2xg"
+          }
+        },
+        "statistics": {
+          "viewCount": "349864",
+          "subscriberCount": "866",
+          "hiddenSubscriberCount": false,
+          "videoCount": "1918"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "tVBchlNFnOev37J2TlkyVRYMVN4",
+        "id": "UC9E2FVp6pmowxlGWHOBJdkg",
+        "snippet": {
+          "title": "Hài Drama",
+          "description": "Kênh Sẻ Làm Nội Dung Về Hài Drama Đang Được Quan Tâm Suốt Thời Gian Qua",
+          "customUrl": "@haidrama390",
+          "publishedAt": "2018-05-19T14:06:56Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/KmJdmi_8w70awqdeiBiRMvY_shnbblH5-mx9cttH1VvE1gYNrxWyV1H8pVtvk3Us8Gv4k-ywlQ=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/KmJdmi_8w70awqdeiBiRMvY_shnbblH5-mx9cttH1VvE1gYNrxWyV1H8pVtvk3Us8Gv4k-ywlQ=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/KmJdmi_8w70awqdeiBiRMvY_shnbblH5-mx9cttH1VvE1gYNrxWyV1H8pVtvk3Us8Gv4k-ywlQ=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Hài Drama",
+            "description": "Kênh Sẻ Làm Nội Dung Về Hài Drama Đang Được Quan Tâm Suốt Thời Gian Qua"
+          },
+          "country": "US"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU9E2FVp6pmowxlGWHOBJdkg"
+          }
+        },
+        "statistics": {
+          "viewCount": "1993228",
+          "subscriberCount": "33300",
+          "hiddenSubscriberCount": false,
+          "videoCount": "48"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "O1xZN3ixB7ZhOWjLJaK7WSy1AmM",
+        "id": "UC8AHoTyoRtYJXr42vocoo5w",
+        "snippet": {
+          "title": "Ca sĩ Quyết Thắng",
+          "description": "Đăng quang tại Đấu trường Nhạc việt 1 năm 2024 - Quyết Thắng được nhiều người biết tới và yêu mến chất giọng ngọt ngào. Kênh nhạc Quyết Thắng - Đấu trường Nhạc việt sẽ mang tới khán giả nhiều cung bậc cảm xúc.\n- Ủng hộ Quyết Thắng bằng cách đăng ký kênh và nhớ theo dõi kênh để đón xem video mới nhé. Quyết Thắng Xin chân thành cảm ơn!\nSubscribe kênh @QuyetThangDauTruongNhacViet: ☞ Email: quyetthang25121968@gmail.com\n★-------★--------★--------★---------★----------★----------★\n© Bản quyền thuộc về @Channal QuyetThangDauTruongNhacViet  @QuyetThangDauTruongNhacViet\n© Copyright @Channal Quyết Thắng  @QuyetThangDauTruongNhacViet ☞ Do not Reup\n",
+          "customUrl": "@casiquyetthang",
+          "publishedAt": "2024-07-05T05:02:31.986451Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/wECR4UMnRxtnnbA7gDRh3RNqSX_Og8V7vmhkrtKWnNtbq-cZdCHm2jOg-5g2Y66QD3tOn7L2pw=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/wECR4UMnRxtnnbA7gDRh3RNqSX_Og8V7vmhkrtKWnNtbq-cZdCHm2jOg-5g2Y66QD3tOn7L2pw=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/wECR4UMnRxtnnbA7gDRh3RNqSX_Og8V7vmhkrtKWnNtbq-cZdCHm2jOg-5g2Y66QD3tOn7L2pw=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Ca sĩ Quyết Thắng",
+            "description": "Đăng quang tại Đấu trường Nhạc việt 1 năm 2024 - Quyết Thắng được nhiều người biết tới và yêu mến chất giọng ngọt ngào. Kênh nhạc Quyết Thắng - Đấu trường Nhạc việt sẽ mang tới khán giả nhiều cung bậc cảm xúc.\n- Ủng hộ Quyết Thắng bằng cách đăng ký kênh và nhớ theo dõi kênh để đón xem video mới nhé. Quyết Thắng Xin chân thành cảm ơn!\nSubscribe kênh @QuyetThangDauTruongNhacViet: ☞ Email: quyetthang25121968@gmail.com\n★-------★--------★--------★---------★----------★----------★\n© Bản quyền thuộc về @Channal QuyetThangDauTruongNhacViet  @QuyetThangDauTruongNhacViet\n© Copyright @Channal Quyết Thắng  @QuyetThangDauTruongNhacViet ☞ Do not Reup\n"
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8AHoTyoRtYJXr42vocoo5w"
+          }
+        },
+        "statistics": {
+          "viewCount": "108911",
+          "subscriberCount": "1490",
+          "hiddenSubscriberCount": false,
+          "videoCount": "43"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "1VIFz-YVQvJI2i7Cx-fZbFlh01E",
+        "id": "UC8XIixvLFyXavu6C1GujPgQ",
+        "snippet": {
+          "title": "NHƯ Ý BOLERO OFFICIAL",
+          "description": "✪ Kênh được cấp phép bởi Trung tâm Bảo vệ Quyền tác giả Âm nhạc Việt Nam (VCPMC) theo Hợp đồng số: 401/2026/HĐQTGAN-HAN/MR \n\n",
+          "customUrl": "@nhuybolero",
+          "publishedAt": "2019-02-25T04:54:31Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/U9DMK4DXz8gnV9_HX4N5kFXI_Kom15JPMaBrICRKpGLxqy1WZ5-vrxyR6jGVoe5JxFSDefmwq_Q=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/U9DMK4DXz8gnV9_HX4N5kFXI_Kom15JPMaBrICRKpGLxqy1WZ5-vrxyR6jGVoe5JxFSDefmwq_Q=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/U9DMK4DXz8gnV9_HX4N5kFXI_Kom15JPMaBrICRKpGLxqy1WZ5-vrxyR6jGVoe5JxFSDefmwq_Q=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "NHƯ Ý BOLERO OFFICIAL",
+            "description": "✪ Kênh được cấp phép bởi Trung tâm Bảo vệ Quyền tác giả Âm nhạc Việt Nam (VCPMC) theo Hợp đồng số: 401/2026/HĐQTGAN-HAN/MR \n\n"
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8XIixvLFyXavu6C1GujPgQ"
+          }
+        },
+        "statistics": {
+          "viewCount": "35318139",
+          "subscriberCount": "67100",
+          "hiddenSubscriberCount": false,
+          "videoCount": "123"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "Ezq8Qld8h3YvhYzGioHlwkDlsxc",
+        "id": "UC9HVbm8u9FXFQ6T_wviIaVA",
+        "snippet": {
+          "title": "Rap Việt",
+          "description": "Các bạn nghe nhạc ráp vui vẻ.  Nhớ like và đăng ký kênh giúp mình nhé..  Thanks",
+          "customUrl": "@rapviet5123",
+          "publishedAt": "2017-09-15T03:20:29Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_l2fXatQ39FU4ptKP1Uqj5FDi42HovNIIcJQZUz_IJFSQ=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_l2fXatQ39FU4ptKP1Uqj5FDi42HovNIIcJQZUz_IJFSQ=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_l2fXatQ39FU4ptKP1Uqj5FDi42HovNIIcJQZUz_IJFSQ=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Rap Việt",
+            "description": "Các bạn nghe nhạc ráp vui vẻ.  Nhớ like và đăng ký kênh giúp mình nhé..  Thanks"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU9HVbm8u9FXFQ6T_wviIaVA"
+          }
+        },
+        "statistics": {
+          "viewCount": "57",
+          "subscriberCount": "0",
+          "hiddenSubscriberCount": false,
+          "videoCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "IpEw-OsDpEV5BYmyq7oU3YG9oMQ",
+        "id": "UC8VN8E9lGLlBrS6v1mbhSUA",
+        "snippet": {
+          "title": "TGTX Reaction",
+          "description": "Giải trí cùng TGTX tại đây nhé !!\n",
+          "customUrl": "@tgtxreaction",
+          "publishedAt": "2023-10-02T05:41:10.797643Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/BhrwMEWGN_z2IZvpi-iQTdZ-r7WeCcNoqR5Diulep7VqGsqhj8Sxq6v4g7S-tM41gTgNqgZKBg=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/BhrwMEWGN_z2IZvpi-iQTdZ-r7WeCcNoqR5Diulep7VqGsqhj8Sxq6v4g7S-tM41gTgNqgZKBg=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/BhrwMEWGN_z2IZvpi-iQTdZ-r7WeCcNoqR5Diulep7VqGsqhj8Sxq6v4g7S-tM41gTgNqgZKBg=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "TGTX Reaction",
+            "description": "Giải trí cùng TGTX tại đây nhé !!\n"
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8VN8E9lGLlBrS6v1mbhSUA"
+          }
+        },
+        "statistics": {
+          "viewCount": "4051224",
+          "subscriberCount": "33600",
+          "hiddenSubscriberCount": false,
+          "videoCount": "283"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "mnkCo8BPX6Ce6cuJNF6SED06cCI",
+        "id": "UC8TZU7cnz5xMDH4OR0eKI4w",
+        "snippet": {
+          "title": "RYAN NHẠC XƯA COVER AI  ",
+          "description": "* XIN NHẤN NÚT ĐĂNG KÝ ĐÊ ĐƯỢC XEM VIDEO MỚI SỚM NHẤT . THANKS .\n* Có những bản nhạc được các bạn yêu cầu nhưng vì lý do bản quyền SUNO nên mình không đáp ứng được . Rất xin thông cảm . Thanks .\n* Kênh chuyên chia sẻ những bản cover bằng AI độc đáo Âm nhạc được làm mới, cảm xúc vẫn nguyên vẹn. Hãy cùng khám phá và đắm chìm trong thế giới cover AI cùng chúng tôi!\n\n",
+          "customUrl": "@ryannguyen-x8g",
+          "publishedAt": "2025-02-07T16:53:53.275978Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/TxHopOoHa1OcV18Jr2dhRJ26CYswBBkMLWaS4swL1CPhXMnyeR68HBaezBuW40nqWd9x2uucmw=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/TxHopOoHa1OcV18Jr2dhRJ26CYswBBkMLWaS4swL1CPhXMnyeR68HBaezBuW40nqWd9x2uucmw=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/TxHopOoHa1OcV18Jr2dhRJ26CYswBBkMLWaS4swL1CPhXMnyeR68HBaezBuW40nqWd9x2uucmw=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "RYAN NHẠC XƯA COVER AI  ",
+            "description": "* XIN NHẤN NÚT ĐĂNG KÝ ĐÊ ĐƯỢC XEM VIDEO MỚI SỚM NHẤT . THANKS .\n* Có những bản nhạc được các bạn yêu cầu nhưng vì lý do bản quyền SUNO nên mình không đáp ứng được . Rất xin thông cảm . Thanks .\n* Kênh chuyên chia sẻ những bản cover bằng AI độc đáo Âm nhạc được làm mới, cảm xúc vẫn nguyên vẹn. Hãy cùng khám phá và đắm chìm trong thế giới cover AI cùng chúng tôi!\n\n"
+          },
+          "country": "US"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8TZU7cnz5xMDH4OR0eKI4w"
+          }
+        },
+        "statistics": {
+          "viewCount": "13945690",
+          "subscriberCount": "17700",
+          "hiddenSubscriberCount": false,
+          "videoCount": "311"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "CyvTU5EmIfVjKeZ4L0wb18CrLlo",
+        "id": "UC8D7n3arQQRKkVPPO9pTeSg",
+        "snippet": {
+          "title": "Sala Bolero",
+          "description": "Sala Bolero Là Kênh Nhạc LK Bolero Với Những Bài Hát Đi Vào Lòng Người, Những Cảnh Đẹp Châu Âu Sẽ Cho Quý Khán Giả Không Thể Rời Khỏi Mắt\nHi Vọng Sẽ Được Lòng Của Quý Khán Giả Gần Xa Thương Tình Ủng Hộ Like Và Đăng Ký Kênh \nĐể Cập Nhật Sản Phẩm Mới Nhất Từ Kênh Sala Bolero \nXin Chân Thành Cảm Ơn !!\n\n© Bản quyền thuộc về Sala Bolero . Vui lòng không đăng tải lại dưới bất kì hình thức nào.\n© Copyright by Sala Bolero ☞ Do not Reup!\n\n",
+          "customUrl": "@salabolero",
+          "publishedAt": "2022-03-09T14:46:43.639348Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/50USTrl2WBze3Qn7UxjrL5zFc8_MO_xg1e6bBJrwI0jMQ5Xwbco6eTHp6uALKU2MsFAYgDCT=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/50USTrl2WBze3Qn7UxjrL5zFc8_MO_xg1e6bBJrwI0jMQ5Xwbco6eTHp6uALKU2MsFAYgDCT=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/50USTrl2WBze3Qn7UxjrL5zFc8_MO_xg1e6bBJrwI0jMQ5Xwbco6eTHp6uALKU2MsFAYgDCT=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Sala Bolero",
+            "description": "Sala Bolero Là Kênh Nhạc LK Bolero Với Những Bài Hát Đi Vào Lòng Người, Những Cảnh Đẹp Châu Âu Sẽ Cho Quý Khán Giả Không Thể Rời Khỏi Mắt\nHi Vọng Sẽ Được Lòng Của Quý Khán Giả Gần Xa Thương Tình Ủng Hộ Like Và Đăng Ký Kênh \nĐể Cập Nhật Sản Phẩm Mới Nhất Từ Kênh Sala Bolero \nXin Chân Thành Cảm Ơn !!\n\n© Bản quyền thuộc về Sala Bolero . Vui lòng không đăng tải lại dưới bất kì hình thức nào.\n© Copyright by Sala Bolero ☞ Do not Reup!\n\n"
+          },
+          "country": "US"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8D7n3arQQRKkVPPO9pTeSg"
+          }
+        },
+        "statistics": {
+          "viewCount": "77859651",
+          "subscriberCount": "54600",
+          "hiddenSubscriberCount": false,
+          "videoCount": "706"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "azGVUJec-ttzRQ4jvQ8lBFgo4S8",
+        "id": "UC8-M7_Kux4pnVa5GcLwygeg",
+        "snippet": {
+          "title": "Hài Anh Đức",
+          "description": "Chào mừng bạn đến với kênh YouTube chính thức của Anh Đức.\nCác bạn nhớ Subscribe kênh để theo dõi những sản phẩm mới nhất và thông tin về hoạt động nghệ thuật của Nghệ sĩ Anh Đức nhé!\n\n► Subscribe kênh YouTube: http://popsww.com/AnhDuc\n► Theo dõi Facebook: https://www.facebook.com/taanhduc\n\n#anhduc #anhpham #haianhduc #taanhduc #vochonganhduc\n",
+          "customUrl": "@haianhducpops",
+          "publishedAt": "2014-11-24T09:18:07Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_livXJ98hAcHx_VC-5Nou_H12uJRWzQ0k8s45gXCFXGCTo=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_livXJ98hAcHx_VC-5Nou_H12uJRWzQ0k8s45gXCFXGCTo=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_livXJ98hAcHx_VC-5Nou_H12uJRWzQ0k8s45gXCFXGCTo=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Hài Anh Đức",
+            "description": "Chào mừng bạn đến với kênh YouTube chính thức của Anh Đức.\nCác bạn nhớ Subscribe kênh để theo dõi những sản phẩm mới nhất và thông tin về hoạt động nghệ thuật của Nghệ sĩ Anh Đức nhé!\n\n► Subscribe kênh YouTube: http://popsww.com/AnhDuc\n► Theo dõi Facebook: https://www.facebook.com/taanhduc\n\n#anhduc #anhpham #haianhduc #taanhduc #vochonganhduc\n"
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8-M7_Kux4pnVa5GcLwygeg"
+          }
+        },
+        "statistics": {
+          "viewCount": "90452205",
+          "subscriberCount": "350000",
+          "hiddenSubscriberCount": false,
+          "videoCount": "140"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "iDEsenRyjJvkRPiPUQGfJ5jxPSA",
+        "id": "UC81UNM6YJ8zjFPi7WRSEOlA",
+        "snippet": {
+          "title": "Mc Ca sĩ Yến Thanh",
+          "description": "Chào mừng quý cô chú, quý anh chị, cùng quý bạn bè gần xa đã đến với kênh YouTube chính thức của MC - Ca sĩ Yến Thanh. Nơi hội tụ những giai điệu Bolero trữ tình ngọt ngào, sâu lắng đậm chất hoài niệm cùng những chương trình âm nhạc đặc sắc và các câu chuyện hậu trường thú vị.\nNội dung đặc sắc trên kênh:\n * Không gian Bolero xưa: Thưởng thức những nhạc phẩm Bolero và nhạc trữ tình bất hủ thập niên 70 qua giọng ca ngọt ngào, truyền cảm của ca sĩ Yến Thanh.\n * Chương trình ca nhạc & Giao lưu: Các Liveshow, phòng trà âm nhạc trực trực tuyến và các số phát sóng đặc biệt do Yến Thanh làm MC kiêm ca sĩ.\n * Góc hậu trường & Chia sẻ: Những khoảnh khắc đời thường, tâm sự nghề nghiệp và quá trình chuẩn bị cho các sản phẩm âm nhạc mới nhất.\nLịch phát hành:\n * Đón xem các video và sản phẩm âm nhạc mới được cập nhật thường xuyên hàng tuần.\nHãy nhấn Đăng ký (Subscribe) và bật chuông thông báo để không bỏ lỡ bất kỳ hành trình âm nhạc nào cùng Yến Thanh nhé!",
+          "customUrl": "@mccasiyenthanh",
+          "publishedAt": "2019-02-26T10:35:11Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/KzlsiPTC2Kfe-RAeiyRJyig6CvOJLalCdPlpMvarlPU9zMZmORsL6DbIaMdvwY9eH9qYBgct=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/KzlsiPTC2Kfe-RAeiyRJyig6CvOJLalCdPlpMvarlPU9zMZmORsL6DbIaMdvwY9eH9qYBgct=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/KzlsiPTC2Kfe-RAeiyRJyig6CvOJLalCdPlpMvarlPU9zMZmORsL6DbIaMdvwY9eH9qYBgct=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Mc Ca sĩ Yến Thanh",
+            "description": "Chào mừng quý cô chú, quý anh chị, cùng quý bạn bè gần xa đã đến với kênh YouTube chính thức của MC - Ca sĩ Yến Thanh. Nơi hội tụ những giai điệu Bolero trữ tình ngọt ngào, sâu lắng đậm chất hoài niệm cùng những chương trình âm nhạc đặc sắc và các câu chuyện hậu trường thú vị.\nNội dung đặc sắc trên kênh:\n * Không gian Bolero xưa: Thưởng thức những nhạc phẩm Bolero và nhạc trữ tình bất hủ thập niên 70 qua giọng ca ngọt ngào, truyền cảm của ca sĩ Yến Thanh.\n * Chương trình ca nhạc & Giao lưu: Các Liveshow, phòng trà âm nhạc trực trực tuyến và các số phát sóng đặc biệt do Yến Thanh làm MC kiêm ca sĩ.\n * Góc hậu trường & Chia sẻ: Những khoảnh khắc đời thường, tâm sự nghề nghiệp và quá trình chuẩn bị cho các sản phẩm âm nhạc mới nhất.\nLịch phát hành:\n * Đón xem các video và sản phẩm âm nhạc mới được cập nhật thường xuyên hàng tuần.\nHãy nhấn Đăng ký (Subscribe) và bật chuông thông báo để không bỏ lỡ bất kỳ hành trình âm nhạc nào cùng Yến Thanh nhé!"
+          },
+          "country": "VN"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU81UNM6YJ8zjFPi7WRSEOlA"
+          }
+        },
+        "statistics": {
+          "viewCount": "189241",
+          "subscriberCount": "2230",
+          "hiddenSubscriberCount": false,
+          "videoCount": "111"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "ItXYRvzDENvNgrD6WNP7s3_HG0A",
+        "id": "UC86AL34tmTyNuGlioqxk3Bw",
+        "snippet": {
+          "title": "Rap Việt Underground",
+          "description": "Rap Việt Underground là kênh chuyên về thể loại rap gangz, với những rapper tên tuổi của mảnh đất ngầm Rap Việt. Nơi lưu giữ những track bất hủ của những trân battle nảy lửa giữa những rapper như Vietdragon, Halen, Acy, Torai9, Andree, Rhymastic, LK, DSK...  Với mong muốn đem nhạc rap thực thụ đến với các bạn trẻ, nhóm Rap Việt Underground hy vọng được sự ủng hộ của các bạn để cùng nhau chúng ta chung tay xây dựng Underground ngày một phát triển !  Bằng cách like và share video, các bạn đã tạo động lực cũng như là niềm vui cho nhóm tiếp tục phát triển. Cảm ơn các bạn đã ủng hộ nhóm trong thời gian qua. Chúc các bạn có những giây phút nghe rap thật thư giản và bổ ích^^",
+          "customUrl": "@rapvietunderground4417",
+          "publishedAt": "2016-10-07T05:58:41Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_nLfZSKMVlqEJEXUA1fg7k452_A3rTd56C-XygRz5JuYQ=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_nLfZSKMVlqEJEXUA1fg7k452_A3rTd56C-XygRz5JuYQ=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_nLfZSKMVlqEJEXUA1fg7k452_A3rTd56C-XygRz5JuYQ=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "Rap Việt Underground",
+            "description": "Rap Việt Underground là kênh chuyên về thể loại rap gangz, với những rapper tên tuổi của mảnh đất ngầm Rap Việt. Nơi lưu giữ những track bất hủ của những trân battle nảy lửa giữa những rapper như Vietdragon, Halen, Acy, Torai9, Andree, Rhymastic, LK, DSK...  Với mong muốn đem nhạc rap thực thụ đến với các bạn trẻ, nhóm Rap Việt Underground hy vọng được sự ủng hộ của các bạn để cùng nhau chúng ta chung tay xây dựng Underground ngày một phát triển !  Bằng cách like và share video, các bạn đã tạo động lực cũng như là niềm vui cho nhóm tiếp tục phát triển. Cảm ơn các bạn đã ủng hộ nhóm trong thời gian qua. Chúc các bạn có những giây phút nghe rap thật thư giản và bổ ích^^"
+          }
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU86AL34tmTyNuGlioqxk3Bw"
+          }
+        },
+        "statistics": {
+          "viewCount": "193",
+          "subscriberCount": "9",
+          "hiddenSubscriberCount": false,
+          "videoCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#channel",
+        "etag": "k6Au9CDvYCZamV_ll2oqGqBD1Kc",
+        "id": "UC8B7YycFMFQr540MK7Qe0CQ",
+        "snippet": {
+          "title": "alexdiiane",
+          "description": "For business inquiries: alexdiianebrands@gmail.com",
+          "customUrl": "@alexdiiane",
+          "publishedAt": "2020-05-15T23:40:09.798898Z",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/fFOa2kNOGBHn3AFwr_oDLo6ROSlMC1UkorjOvVwgRnlsJW23VqwDdsts1FQUTgg38CTzfK9ySg=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88,
+              "height": 88
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/fFOa2kNOGBHn3AFwr_oDLo6ROSlMC1UkorjOvVwgRnlsJW23VqwDdsts1FQUTgg38CTzfK9ySg=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240,
+              "height": 240
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/fFOa2kNOGBHn3AFwr_oDLo6ROSlMC1UkorjOvVwgRnlsJW23VqwDdsts1FQUTgg38CTzfK9ySg=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800,
+              "height": 800
+            }
+          },
+          "localized": {
+            "title": "alexdiiane",
+            "description": "For business inquiries: alexdiianebrands@gmail.com"
+          },
+          "country": "CA"
+        },
+        "contentDetails": {
+          "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UU8B7YycFMFQr540MK7Qe0CQ"
+          }
+        },
+        "statistics": {
+          "viewCount": "40067280",
+          "subscriberCount": "152000",
+          "hiddenSubscriberCount": false,
+          "videoCount": "1296"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "crawler_id": "t1-2rbannnz",
+  "job": "discover/sections",
+  "crawl_time_utc": "2026-09-25T07:30:03Z",
+  "request": {
+    "endpoint": "channelSections.list",
+    "params": {
+      "part": "snippet,contentDetails",
+      "channelId": "UC11oTbX26gLAK2lAxfwj2OA"
+    }
+  },
+  "page_index": 4,
+  "response": {
+    "kind": "youtube#channelSectionListResponse",
+    "etag": "sv5YzDIpWzXY9_WK-USpB500KwQ",
+    "items": [
+      {
+        "kind": "youtube#channelSection",
+        "etag": "NOnk0At6a-hmuav-jB_oo-rne3A",
+        "id": "UC11oTbX26gLAK2lAxfwj2OA.jNQXAC9IVRw",
+        "snippet": {
+          "type": "channelsectiontypeundefined",
+          "channelId": "UC11oTbX26gLAK2lAxfwj2OA",
+          "position": 0
+        }
+      },
+      {
+        "kind": "youtube#channelSection",
+        "etag": "R9yNB1I8w1dSB3pBT4whgqZH6Bk",
+        "id": "UC11oTbX26gLAK2lAxfwj2OA.LeAltgu_pbM",
+        "snippet": {
+          "type": "channelsectiontypeundefined",
+          "channelId": "UC11oTbX26gLAK2lAxfwj2OA",
+          "position": 1
+        }
+      },
+      {
+        "kind": "youtube#channelSection",
+        "etag": "aZwCRQH6vqB-N-8JGrj_0mdYSDo",
+        "id": "UC11oTbX26gLAK2lAxfwj2OA.nGzAI5pLbMY",
+        "snippet": {
+          "type": "recentuploads",
+          "channelId": "UC11oTbX26gLAK2lAxfwj2OA",
+          "position": 2
+        }
+      },
+      {
+        "kind": "youtube#channelSection",
+        "etag": "2gukEyfbPSp2_cNzwDmLXOj-9jk",
+        "id": "UC11oTbX26gLAK2lAxfwj2OA.__WLXNpu6u8",
+        "snippet": {
+          "type": "channelsectiontypeundefined",
+          "channelId": "UC11oTbX26gLAK2lAxfwj2OA",
+          "position": 3
+        }
+      },
+      {
+        "kind": "youtube#channelSection",
+        "etag": "bwqCK39g0WFUJm_BBaofa81iJJo",
+        "id": "UC11oTbX26gLAK2lAxfwj2OA.Zx4DA4xg9IM",
+        "snippet": {
+          "type": "multiplechannels",
+          "channelId": "UC11oTbX26gLAK2lAxfwj2OA",
+          "title": "Xem Thêm Hoàng ACC",
+          "position": 4
+        },
+        "contentDetails": {
+          "channels": [
+            "UCxq9zyMnqTKR90XF7eQp7Vg",
+            "UCMEFUbuRdF1FC0tjnSEVAiA"
+          ]
+        }
+      }
+    ]
+  }
+}

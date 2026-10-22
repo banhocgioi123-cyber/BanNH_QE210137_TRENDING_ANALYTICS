@@ -1,0 +1,3657 @@
+{
+  "crawler_id": "t1-2rbannnz",
+  "job": "trending_category",
+  "crawl_time_utc": "2026-10-09T08:23:59Z",
+  "request": {
+    "endpoint": "videos.list",
+    "params": {
+      "part": "snippet,contentDetails,statistics,liveStreamingDetails",
+      "chart": "mostPopular",
+      "regionCode": "VN",
+      "videoCategoryId": "1",
+      "maxResults": 50,
+      "pageToken": "CJYBEAA"
+    }
+  },
+  "page_index": 4,
+  "response": {
+    "kind": "youtube#videoListResponse",
+    "etag": "qmB5SEli-fOAEpPrOHP6v_KNmJQ",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "PRuOFqTA2jWaxObEdf3rERH1-60",
+        "id": "Aq7WWpDOHVQ",
+        "snippet": {
+          "publishedAt": "2026-10-03T10:32:09Z",
+          "channelId": "UCGjDSbj6j1hrVT_w1UU-Jkg",
+          "title": "Kẻ gian nguy hiểm #cong67 #giaitri #shorts #trending #windnet",
+          "description": "Chào mừng bà con đến với kênh Công 67 – kênh mang tới những tiểu phẩm ngắn phản ánh đời sống - xã hội.\n\nTất cả nội dung đều được dựng lại dựa trên những câu chuyện có thật trong cuộc sống, mang mục đích bài trừ cái xấu, lan tỏa cái tốt đến cho mọi người.\n\n💡 Nếu thấy hay, nhớ Đăng Ký kênh và đồng hành cùng Công 67 để có thêm thật nhiều clip mới nha!\n📲 Kết nối cùng Công 67:\n▶ Facebook: https://www.facebook.com/cong67\n▶ TikTok: https://www.tiktok.com/@cong.67\n\n© Kênh được quản lý, vận hành và bảo vệ bản quyền bởi Wind Network, trực thuộc Wind Media.\n© The channel is managed, operated and copyright protected by Wind Network, a subsidiary of Wind Media.\n\nLiên hệ: media@windnetwork.vn\n\n#WindNet #Công67 #haihuoc #cong67 #giaitri #dovui #troll #thuthach",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Aq7WWpDOHVQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Aq7WWpDOHVQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Aq7WWpDOHVQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Aq7WWpDOHVQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Aq7WWpDOHVQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Công 67",
+          "tags": [
+            "công 67",
+            "cong 67",
+            "giải trí",
+            "hài hước",
+            "đố vui",
+            "troll",
+            "công 67 giải trí",
+            "công 67 hài hước",
+            "công 67 đố vui",
+            "công 67 troll",
+            "hài công 67",
+            "hài mới nhất",
+            "hài tết 2025",
+            "hài 2025",
+            "hài nhảm",
+            "cười mỗi ngày",
+            "funny",
+            "phim ngắn",
+            "phim gia đình",
+            "hài miền tây",
+            "mâu thuẫn gia đình",
+            "gia đình bất ổn"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Kẻ gian nguy hiểm #cong67 #giaitri #shorts #trending #windnet",
+            "description": "Chào mừng bà con đến với kênh Công 67 – kênh mang tới những tiểu phẩm ngắn phản ánh đời sống - xã hội.\n\nTất cả nội dung đều được dựng lại dựa trên những câu chuyện có thật trong cuộc sống, mang mục đích bài trừ cái xấu, lan tỏa cái tốt đến cho mọi người.\n\n💡 Nếu thấy hay, nhớ Đăng Ký kênh và đồng hành cùng Công 67 để có thêm thật nhiều clip mới nha!\n📲 Kết nối cùng Công 67:\n▶ Facebook: https://www.facebook.com/cong67\n▶ TikTok: https://www.tiktok.com/@cong.67\n\n© Kênh được quản lý, vận hành và bảo vệ bản quyền bởi Wind Network, trực thuộc Wind Media.\n© The channel is managed, operated and copyright protected by Wind Network, a subsidiary of Wind Media.\n\nLiên hệ: media@windnetwork.vn\n\n#WindNet #Công67 #haihuoc #cong67 #giaitri #dovui #troll #thuthach"
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT2M4S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "834647",
+          "likeCount": "6782",
+          "favoriteCount": "0",
+          "commentCount": "45"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_9BhyM3qw-2cqZbk2YNpNAqIhpE",
+        "id": "-6nPBonbtq4",
+        "snippet": {
+          "publishedAt": "2026-10-01T04:00:19Z",
+          "channelId": "UCXUEsnsOcAc674dcckPVkvQ",
+          "title": "Đều nghĩ cô là gái quê, ngày đầu chuyển trường đã bắt nạt cô, ai ngờ cô là nữ vương cứu trùm mafia!",
+          "description": "#Ảo Tưởng #Phim Hay #Tình Yêu #Đam Mê #Lãng Mạn #Phim Điện Ảnh #Phim Truyền Hình #Lãng Mạn #Bandar\n[Lồng Tiếng Việt]\nML:\nFL:\n[Bản Full] ►Click để theo dõi kênh xem thêm video: https://www.youtube.com/channel/UCNbJ78OASpSNecn3N9DMhWA\n\n#Ảo Tưởng #Phim Ngắn Phổ Biến Mới Nhất #Gaggle-Boiled #Đô Thị #Phim Trung Quốc #Sư Phụ #Phản Công #Tình Yêu Ngọt Ngào #Lãng Mạn #Ôm Con Rể #Phim Ngắn Phổ Biến Được Đề Xuất #God of War #Kênh Men's #Phim Truyền Hình #Sắc Đẹp #Đam Mê #Du Hành Thời Gian #CEO #Phim Truyền Hình #Phim Tình Cảm Chân Thật #Tình Yêu Của Người Giàu #Phim Truyền Hình Báo Thù #Phim Truyền Hình Đồng Tính #Phim Truyền Hình Gia Đình #Phim Tình Cảm Trường Học #Phim Bộ Hoàn Chỉnh #Phim Truyền Hình #Phim Truyền Hình Mới Nhất #Phim Hot #Phim Tình Cảm #Phim Truyền Hình Giả Tưởng #ishowspeed #Phim Điện Ảnh #Phim Bộ #Phim Truyền Hình Trung Quốc #DramaChina #engsub #Phim Ngắn #Phim Ngắn 2025 #ch inamoviechannelenglish #engdubbing #freefirevideo #revenge #engsub #zhaolusi #bailu #phim ngắn #sweetlove #costume #historical costume #idol drama #revenge #costume #tv series\n#movie #movie #drama #chinafilm #engsub #shortfilm #shortfilm2025 #chinamoviechannelenglish #engdubbing #freefirevideo #revenge #engsub #zhaolusi #bailu #shortfilm #sweetlove #costume #historical costume #idol drama #revenge #costume #tv series\n\nCEO tốt bụng cho hết gia sản và cái kết bất ngờ khi cô gái bán cá chính là thần y bí ẩn cứu mạng anh.\n\nCâu chuyện xoay quanh một vị CEO giàu có nhưng gặp biến cố lớn trong cuộc đời. Khi anh tưởng chừng như mất tất cả, một cô gái bán cá bình dị xuất hiện và thay đổi hoàn toàn vận mệnh của anh. Đây không chỉ là một bộ phim ngắn tình cảm mà còn là hành trình tìm lại chính mình đầy cảm xúc.\n\nKhán giả sẽ được chứng kiến màn phản công đầy kịch tính khi thân phận thật sự của cô gái được hé lộ. Liệu tình yêu chân thành có thể vượt qua mọi rào cản địa vị để mang đến một cái kết viên mãn? Phim trung quốc này mang đến thông điệp sâu sắc về lòng tốt và nhân quả.\n\nĐừng quên đăng ký kênh để theo dõi những bộ phim ngắn hay nhất mỗi ngày và để lại bình luận nếu bạn muốn xem thêm các video tương tự.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-6nPBonbtq4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-6nPBonbtq4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-6nPBonbtq4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-6nPBonbtq4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-6nPBonbtq4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            "fhd": {
+              "url": "https://i.ytimg.com/vi/-6nPBonbtq4/fhddefault.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "channelTitle": "Nhà hát trong mơ",
+          "tags": [
+            "Ảo Tưởng",
+            "Phim Hay",
+            "Tình Yêu",
+            "Đam Mê",
+            "Lãng Mạn",
+            "Phim Điện Ảnh",
+            "Phim Truyền Hình",
+            "Bandar",
+            "phim ngắn",
+            "CEO",
+            "phim trung quốc",
+            "tình yêu"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Đều nghĩ cô là gái quê, ngày đầu chuyển trường đã bắt nạt cô, ai ngờ cô là nữ vương cứu trùm mafia!",
+            "description": "#Ảo Tưởng #Phim Hay #Tình Yêu #Đam Mê #Lãng Mạn #Phim Điện Ảnh #Phim Truyền Hình #Lãng Mạn #Bandar\n[Lồng Tiếng Việt]\nML:\nFL:\n[Bản Full] ►Click để theo dõi kênh xem thêm video: https://www.youtube.com/channel/UCNbJ78OASpSNecn3N9DMhWA\n\n#Ảo Tưởng #Phim Ngắn Phổ Biến Mới Nhất #Gaggle-Boiled #Đô Thị #Phim Trung Quốc #Sư Phụ #Phản Công #Tình Yêu Ngọt Ngào #Lãng Mạn #Ôm Con Rể #Phim Ngắn Phổ Biến Được Đề Xuất #God of War #Kênh Men's #Phim Truyền Hình #Sắc Đẹp #Đam Mê #Du Hành Thời Gian #CEO #Phim Truyền Hình #Phim Tình Cảm Chân Thật #Tình Yêu Của Người Giàu #Phim Truyền Hình Báo Thù #Phim Truyền Hình Đồng Tính #Phim Truyền Hình Gia Đình #Phim Tình Cảm Trường Học #Phim Bộ Hoàn Chỉnh #Phim Truyền Hình #Phim Truyền Hình Mới Nhất #Phim Hot #Phim Tình Cảm #Phim Truyền Hình Giả Tưởng #ishowspeed #Phim Điện Ảnh #Phim Bộ #Phim Truyền Hình Trung Quốc #DramaChina #engsub #Phim Ngắn #Phim Ngắn 2025 #ch inamoviechannelenglish #engdubbing #freefirevideo #revenge #engsub #zhaolusi #bailu #phim ngắn #sweetlove #costume #historical costume #idol drama #revenge #costume #tv series\n#movie #movie #drama #chinafilm #engsub #shortfilm #shortfilm2025 #chinamoviechannelenglish #engdubbing #freefirevideo #revenge #engsub #zhaolusi #bailu #shortfilm #sweetlove #costume #historical costume #idol drama #revenge #costume #tv series\n\nCEO tốt bụng cho hết gia sản và cái kết bất ngờ khi cô gái bán cá chính là thần y bí ẩn cứu mạng anh.\n\nCâu chuyện xoay quanh một vị CEO giàu có nhưng gặp biến cố lớn trong cuộc đời. Khi anh tưởng chừng như mất tất cả, một cô gái bán cá bình dị xuất hiện và thay đổi hoàn toàn vận mệnh của anh. Đây không chỉ là một bộ phim ngắn tình cảm mà còn là hành trình tìm lại chính mình đầy cảm xúc.\n\nKhán giả sẽ được chứng kiến màn phản công đầy kịch tính khi thân phận thật sự của cô gái được hé lộ. Liệu tình yêu chân thành có thể vượt qua mọi rào cản địa vị để mang đến một cái kết viên mãn? Phim trung quốc này mang đến thông điệp sâu sắc về lòng tốt và nhân quả.\n\nĐừng quên đăng ký kênh để theo dõi những bộ phim ngắn hay nhất mỗi ngày và để lại bình luận nếu bạn muốn xem thêm các video tương tự."
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT2H17M33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1716004",
+          "likeCount": "8128",
+          "favoriteCount": "0",
+          "commentCount": "688"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "SWVtaiVzxKU9VDzNwMDJnZcTs70",
+        "id": "bl4_jHwp_2U",
+        "snippet": {
+          "publishedAt": "2026-10-05T10:00:10Z",
+          "channelId": "UCao9A0pVNf24Hcs85L186Ig",
+          "title": "Vợ chồng con gái ruột của tôi tốt quá #gáidiệu",
+          "description": "Nếu thấy video hay mọi người cho mình một like và một đăng ký kênh để theo dõi những nội dung mới nhất nhé. Xin cảm ơn mọi người",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bl4_jHwp_2U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bl4_jHwp_2U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bl4_jHwp_2U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bl4_jHwp_2U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bl4_jHwp_2U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Gái Diệu ",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Vợ chồng con gái ruột của tôi tốt quá #gáidiệu",
+            "description": "Nếu thấy video hay mọi người cho mình một like và một đăng ký kênh để theo dõi những nội dung mới nhất nhé. Xin cảm ơn mọi người"
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "413790",
+          "likeCount": "2776",
+          "favoriteCount": "0",
+          "commentCount": "60"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ZwmpfHN8m6gFJCfwq64ituPJWJk",
+        "id": "UyGubdHtDes",
+        "snippet": {
+          "publishedAt": "2026-10-07T23:00:17Z",
+          "channelId": "UCS1n-bPyQmcNmOcHG9U5Eow",
+          "title": "Ku Tý phiêu lưu ký #592 : P.1 Hồi nhỏ anh chị em giỡn mà có đứa khóc kiểu :)) #anhmoney #hocsinh",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UyGubdHtDes/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UyGubdHtDes/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UyGubdHtDes/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UyGubdHtDes/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UyGubdHtDes/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Anh Money 💰",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Ku Tý phiêu lưu ký #592 : P.1 Hồi nhỏ anh chị em giỡn mà có đứa khóc kiểu :)) #anhmoney #hocsinh",
+            "description": ""
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT1M42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "351801",
+          "likeCount": "4735",
+          "favoriteCount": "0",
+          "commentCount": "69"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "tV0ZmS3o5mXSjoF10B-K8s6Gu5s",
+        "id": "z7NJA-j-MAg",
+        "snippet": {
+          "publishedAt": "2026-10-06T10:00:00Z",
+          "channelId": "UCYk25UusmcgV72ej5dNGY1Q",
+          "title": "Gấu Nhồi Bông PHD Bị Bỏ Rơi 💔 #vitamintote #phd",
+          "description": "#phd #vitamintote #phươnghữungọt #phc #memephd #teamtote #phdtroll #phươnghữudưỡng \n\nĐừng quên để lại cho video 1 like, 1 comment, 1 share và nhấn nút Đăng Kí Kênh để không bỏ lỡ bất kì video nào của VITAMIN TỒ TỀ.\n\n✅Nguồn video:\nPHD - Phương Hữu Dưỡng https://youtube.com/@phdphuonghuuduong?si=vCPKhQFUPMGRmqbu\nPHD Vlogs\nhttps://youtube.com/@phdvlogs4895?si=3hHpttYbVMzEwBQN\nPhương Hữu Côn\nhttps://youtube.com/@phuonghuucon?si=YPtOq_Sevq1hD0LP\n------------------------------------------------------------------------------------------------------------------------\n🔔🔔🔔Nếu có vấn đề bản quyền không mong muốn, mọi yêu cầu xin liên hệ tới ✉️ : king11081409@gmail.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/z7NJA-j-MAg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/z7NJA-j-MAg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/z7NJA-j-MAg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/z7NJA-j-MAg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/z7NJA-j-MAg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Vitamin TỒ TỀ",
+          "tags": [
+            "team tồ tề",
+            "phd",
+            "phuong huu ngot",
+            "meme phd",
+            "meme",
+            "meme team tồ tề",
+            "si li côn",
+            "côn tiền đình",
+            "vitamin tồ tề",
+            "ngon thí",
+            "phc",
+            "meme côn tiền đình",
+            "phuong huu duong",
+            "phương hũu dưỡng meme",
+            "vitamin tồi tệ",
+            "meme phd tấu hài",
+            "phd short",
+            "shorts",
+            "team tồ tề short",
+            "vitamin tồ tề short"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Gấu Nhồi Bông PHD Bị Bỏ Rơi 💔 #vitamintote #phd",
+            "description": "#phd #vitamintote #phươnghữungọt #phc #memephd #teamtote #phdtroll #phươnghữudưỡng \n\nĐừng quên để lại cho video 1 like, 1 comment, 1 share và nhấn nút Đăng Kí Kênh để không bỏ lỡ bất kì video nào của VITAMIN TỒ TỀ.\n\n✅Nguồn video:\nPHD - Phương Hữu Dưỡng https://youtube.com/@phdphuonghuuduong?si=vCPKhQFUPMGRmqbu\nPHD Vlogs\nhttps://youtube.com/@phdvlogs4895?si=3hHpttYbVMzEwBQN\nPhương Hữu Côn\nhttps://youtube.com/@phuonghuucon?si=YPtOq_Sevq1hD0LP\n------------------------------------------------------------------------------------------------------------------------\n🔔🔔🔔Nếu có vấn đề bản quyền không mong muốn, mọi yêu cầu xin liên hệ tới ✉️ : king11081409@gmail.com"
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "411020",
+          "likeCount": "2982",
+          "favoriteCount": "0",
+          "commentCount": "31"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "GZBjLVDHI3g-SWrR-EqEr3eEPKs",
+        "id": "b0fptHXyiDk",
+        "snippet": {
+          "publishedAt": "2026-10-03T04:00:23Z",
+          "channelId": "UC5ezaYrzZpyItPSRG27MLpg",
+          "title": "Series Ăn Cơm Cùng Doraemon #208 | Chuyện \"lớn\" từ những người bạn \"nhỏ\"",
+          "description": "▶️ Danh sách phát: https://www.youtube.com/playlist?list=PLdhrcCVXurgJH5o3vCnhEvaK5FUTKnvkS\n\n🍚 Cùng Doraemon và Nobita thưởng thức những câu chuyện thú vị trong mỗi bữa cơm! Từ những món ăn quen thuộc đến những tình huống dở khóc dở cười, “Ăn Cơm Cùng Doraemon” mang đến những phút giây giải trí vui nhộn và gần gũi cho cả gia đình. \n\n#POPSKids #Doraemon #Nobita #Hoathinhlongtieng #Doraemontiengviet\n\n-----\n\n🔔 Subscribe kênh để không bỏ lỡ những nội dung hấp dẫn!\nhttps://www.youtube.com/@popskids\n\n💙 Theo dõi thông tin từ POPS Kids ở đây nữa nhé\nhttps://www.facebook.com/pops.kids/\n\n🌟 Khám phá thêm nhiều nội dung hấp dẫn của POPS:\n📌 Đăng ký kênh YouTube POPS Kids Junior: https://www.youtube.com/c/popskidsjunior\n📌 Đăng ký kênh YouTube POPS Kids Music: https://www.youtube.com/c/popskidsmusic\n📌 Đăng ký kênh YouTube POPS Anime: https://www.youtube.com/c/popsanime\n📌 Đăng ký kênh YouTube POPS Up: https://www.youtube.com/c/popsupchannel\n📌 Đăng ký kênh YouTube Babyccino: https://www.youtube.com/c/babyccinotv\n📌 Tham gia cộng đồng FB POPS Anime: https://www.facebook.com/pops.anime",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/b0fptHXyiDk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/b0fptHXyiDk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/b0fptHXyiDk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/b0fptHXyiDk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/b0fptHXyiDk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            "fhd": {
+              "url": "https://i.ytimg.com/vi/b0fptHXyiDk/fhddefault.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "channelTitle": "POPS Kids",
+          "tags": [
+            "Doraemon",
+            "pops kids",
+            "hoạt hình tiếng việt",
+            "phim doremon lồng tiếng",
+            "doremon thuyết minh tiếng việt",
+            "doremon lồng tiếng",
+            "doraemon mới nhất 2026",
+            "doraemon 2026",
+            "doraemon mới nhất",
+            "doremon thuyet minh",
+            "nobita",
+            "doremon tieng viet",
+            "doraemon tập dài",
+            "xuka",
+            "chaien",
+            "xeko",
+            "dorami",
+            "series ăn cơm cùng doraemon #208"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Series Ăn Cơm Cùng Doraemon #208 | Chuyện \"lớn\" từ những người bạn \"nhỏ\"",
+            "description": "▶️ Danh sách phát: https://www.youtube.com/playlist?list=PLdhrcCVXurgJH5o3vCnhEvaK5FUTKnvkS\n\n🍚 Cùng Doraemon và Nobita thưởng thức những câu chuyện thú vị trong mỗi bữa cơm! Từ những món ăn quen thuộc đến những tình huống dở khóc dở cười, “Ăn Cơm Cùng Doraemon” mang đến những phút giây giải trí vui nhộn và gần gũi cho cả gia đình. \n\n#POPSKids #Doraemon #Nobita #Hoathinhlongtieng #Doraemontiengviet\n\n-----\n\n🔔 Subscribe kênh để không bỏ lỡ những nội dung hấp dẫn!\nhttps://www.youtube.com/@popskids\n\n💙 Theo dõi thông tin từ POPS Kids ở đây nữa nhé\nhttps://www.facebook.com/pops.kids/\n\n🌟 Khám phá thêm nhiều nội dung hấp dẫn của POPS:\n📌 Đăng ký kênh YouTube POPS Kids Junior: https://www.youtube.com/c/popskidsjunior\n📌 Đăng ký kênh YouTube POPS Kids Music: https://www.youtube.com/c/popskidsmusic\n📌 Đăng ký kênh YouTube POPS Anime: https://www.youtube.com/c/popsanime\n📌 Đăng ký kênh YouTube POPS Up: https://www.youtube.com/c/popsupchannel\n📌 Đăng ký kênh YouTube Babyccino: https://www.youtube.com/c/babyccinotv\n📌 Tham gia cộng đồng FB POPS Anime: https://www.facebook.com/pops.anime"
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT47M37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "allowed": [
+              "VN"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1089596",
+          "likeCount": "2948",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "oO81tNT9GQSoz-gbdm1M4wiL5r0",
+        "id": "uPJ3bng-sC8",
+        "snippet": {
+          "publishedAt": "2026-10-03T12:27:45Z",
+          "channelId": "UCNb5ZWwse156E_gtjAlBKJA",
+          "title": "Gội đầu cho sếp tổng - CUỘI OFFICIAL | #cuội #cuoivuive #cuoi3112vuive #cuoiofficial #huycuoi",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uPJ3bng-sC8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uPJ3bng-sC8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uPJ3bng-sC8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uPJ3bng-sC8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uPJ3bng-sC8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cuội Official",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Gội đầu cho sếp tổng - CUỘI OFFICIAL | #cuội #cuoivuive #cuoi3112vuive #cuoiofficial #huycuoi",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "602544",
+          "likeCount": "4467",
+          "favoriteCount": "0",
+          "commentCount": "69"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "h9cKA1lmVBHaXn54suYu50Unc48",
+        "id": "dxa4c3vXnLg",
+        "snippet": {
+          "publishedAt": "2026-10-04T04:00:13Z",
+          "channelId": "UCXZS_4k_qUbQU7XyxfUoEMA",
+          "title": "CHỈ CẦN NẾM THỬ NƯỚC, ÔNG TA CŨNG BIẾT CHÍNH XÁC NƠI CÓ VÀNG  #youtubeshorts #reviewphim",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dxa4c3vXnLg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dxa4c3vXnLg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dxa4c3vXnLg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dxa4c3vXnLg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dxa4c3vXnLg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TDB Review Phim",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "CHỈ CẦN NẾM THỬ NƯỚC, ÔNG TA CŨNG BIẾT CHÍNH XÁC NƠI CÓ VÀNG  #youtubeshorts #reviewphim",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "539992",
+          "likeCount": "7297",
+          "favoriteCount": "0",
+          "commentCount": "25"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "yl4YC0sL8MOZdlSv4vdWKZRe_tY",
+        "id": "fi0xQBH0J6s",
+        "snippet": {
+          "publishedAt": "2026-10-01T11:00:37Z",
+          "channelId": "UCBp4nh-pgJCtO-bTzomzSqA",
+          "title": "Aura +10000",
+          "description": "Aura +10000\n#memes #funny #dankmemes #viral #funnyvideos #memepage #memecontent #internethumor #fyp #foryou #foryoupage #viralvideo #trending #explorepage #recommended #youtubeshorts #shorts #shortsvideo #shortsviral #relatable #comedy #funnyclip #lol #dailyhumor #internetmemes #usa #usashorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fi0xQBH0J6s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fi0xQBH0J6s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fi0xQBH0J6s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fi0xQBH0J6s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fi0xQBH0J6s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Videos that make your day better ",
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Aura +10000",
+            "description": "Aura +10000\n#memes #funny #dankmemes #viral #funnyvideos #memepage #memecontent #internethumor #fyp #foryou #foryoupage #viralvideo #trending #explorepage #recommended #youtubeshorts #shorts #shortsvideo #shortsviral #relatable #comedy #funnyclip #lol #dailyhumor #internetmemes #usa #usashorts"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "32150600",
+          "likeCount": "468197",
+          "favoriteCount": "0",
+          "commentCount": "501"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "b2ZIepyU_gMfFrCBIySJ01g1wxE",
+        "id": "h0haLu3KIno",
+        "snippet": {
+          "publishedAt": "2026-09-27T10:00:07Z",
+          "channelId": "UCiZDLPpPe8_OTMmZZpiSs0g",
+          "title": "Khi Thằng Bạn Cùng Phòng Gáy Sớm... | Dương Dương Vietsub #shorts",
+          "description": "Thử thách cảm nhận thời gian với thằng bạn cùng phòng và cái kết out trình tuyệt đối.\n#shorts #haihuoc #bạnthân #duongduongvietsubphim",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h0haLu3KIno/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h0haLu3KIno/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h0haLu3KIno/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/h0haLu3KIno/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/h0haLu3KIno/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Dương Dương Vietsub",
+          "tags": [
+            "hài hước",
+            "bạn thân",
+            "bạn cùng phòng",
+            "cảm nhận thời gian",
+            "khi thằng bạn cùng phòng gáy sớm"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Khi Thằng Bạn Cùng Phòng Gáy Sớm... | Dương Dương Vietsub #shorts",
+            "description": "Thử thách cảm nhận thời gian với thằng bạn cùng phòng và cái kết out trình tuyệt đối.\n#shorts #haihuoc #bạnthân #duongduongvietsubphim"
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT1M44S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3721974",
+          "likeCount": "31052",
+          "favoriteCount": "0",
+          "commentCount": "218"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "C2wg8-8AQWxiTxAbvPwPM4hK5Y4",
+        "id": "frxcBE-tEWM",
+        "snippet": {
+          "publishedAt": "2026-10-02T14:18:56Z",
+          "channelId": "UCF-sQcuL5GEuGyA4u7Eli9A",
+          "title": "Best purchase of ‘26 🎃😂 #costume  #halloween #halloweencostume",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/frxcBE-tEWM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/frxcBE-tEWM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/frxcBE-tEWM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/frxcBE-tEWM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/frxcBE-tEWM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Wobblepalstm",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Best purchase of ‘26 🎃😂 #costume  #halloween #halloweencostume",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "32989527",
+          "likeCount": "138833",
+          "favoriteCount": "0",
+          "commentCount": "415"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_7mVf8T3sb386NigWs-dgZDy4co",
+        "id": "wVfrAo-9rmg",
+        "snippet": {
+          "publishedAt": "2026-10-02T04:00:39Z",
+          "channelId": "UCewv18-EAvQtxito6uEGBhg",
+          "title": "🤣🔥 2 THANH NIÊN LÀM ĐỔ MÂM THỊT CÚNG CHỐN TRONG NHÀ , CÁI KẾT CƯỜI RA NƯỚC MẮT! 🤣💥❤️ #shorts",
+          "description": "#thinhhanh #trending #viral  #shortsvideo  #viralshorts #haihuoc #funny #giaitri \n🎬 Video được dàn dựng nhằm mục đích giải trí.\nTất cả nhân vật và tình huống đều là diễn xuất theo kịch bản.\n❗ Không cổ vũ hay khuyến khích hành vi tiêu cực ngoài đời thực.\nVui lòng không bắt chước.\n👍 Nếu thấy thú vị, hãy Like & Subscribe để ủng hộ kênh và xem thêm nhiều nội dung hấp dẫn!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wVfrAo-9rmg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wVfrAo-9rmg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wVfrAo-9rmg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wVfrAo-9rmg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wVfrAo-9rmg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tôm Ốc Shorts",
+          "tags": [
+            "giải trí",
+            "hài hước",
+            "vui nhộn",
+            "clip hài",
+            "video hài",
+            "hài ngắn",
+            "shorts hài",
+            "tấu hài",
+            "troll vui",
+            "video vui vẻ",
+            "cười xỉu",
+            "hài viral",
+            "meme hài",
+            "video giải trí",
+            "giải trí tổng hợp",
+            "tiểu phẩm hài",
+            "hài học đường",
+            "drama hài",
+            "cười mỗi ngày",
+            "kênh hài",
+            "hài đời thường",
+            "shorts viral",
+            "video troll",
+            "vui vẻ mỗi ngày",
+            "hài cực mạnh",
+            "gây cười",
+            "video hot",
+            "chuyện hài",
+            "funny video",
+            "funny shorts",
+            "vlog hài",
+            "hài độc lạ",
+            "clip thư giãn",
+            "clip shorts",
+            "Tôm ỐC Shorts",
+            "Tomocshosrt",
+            "tomoc"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "🤣🔥 2 THANH NIÊN LÀM ĐỔ MÂM THỊT CÚNG CHỐN TRONG NHÀ , CÁI KẾT CƯỜI RA NƯỚC MẮT! 🤣💥❤️ #shorts",
+            "description": "#thinhhanh #trending #viral  #shortsvideo  #viralshorts #haihuoc #funny #giaitri \n🎬 Video được dàn dựng nhằm mục đích giải trí.\nTất cả nhân vật và tình huống đều là diễn xuất theo kịch bản.\n❗ Không cổ vũ hay khuyến khích hành vi tiêu cực ngoài đời thực.\nVui lòng không bắt chước.\n👍 Nếu thấy thú vị, hãy Like & Subscribe để ủng hộ kênh và xem thêm nhiều nội dung hấp dẫn!"
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT1M43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1006703",
+          "likeCount": "6991",
+          "favoriteCount": "0",
+          "commentCount": "18"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Bc9QropNGblWtyi-k2q3mNaq2tI",
+        "id": "AaQ-XUENnZY",
+        "snippet": {
+          "publishedAt": "2026-10-05T04:00:09Z",
+          "channelId": "UCkgdDBHO7zl3tWIjldQeK7g",
+          "title": "Thám Tử Lừng Danh Conan - Tập 1071: Tiểu thuyết gia được gọi là Quỷ vương | Bản Lồng Tiếng",
+          "description": "🔥ĐĂNG KÝ HỘI VIÊN THÁM TỬ ĐỂ XEM SỚM NHẤT VÀ NHẬN ĐẶC QUYỀN HẤP DẪN\n👉 Tham gia tại đây: https://www.youtube.com/channel/UCkgdDBHO7zl3tWIjldQeK7g/join\n\n⭐ XEM TRƯỚC 3 TUẦN - 15 TẬP THÁM TỬ LỪNG DANH CONAN LỒNG TIẾNG MỚI NHẤT.\n⭐ Nhận huy hiệu và bộ sticker độc quyền.\n⭐ Bài đăng thông báo và phiên livestream dành riêng cho hội viên.\n⭐ Xem trước nội dung MEOWMENT\n... Cùng vô vàn đặc quyền hấp dẫn khác...\n\n▶️ Danh sách phát: https://www.youtube.com/playlist?list=PLEdtuZKuv4pI\n📺 Lịch phát sóng: 11h00 Sáng - Thứ 2,4,6,7,CN hàng tuần\n\n-------\n*NỘI DUNG DÀNH CHO KHÁN GIẢ VỊ THÀNH NIÊN  \n\nThám Tử Lừng Danh Conan xoay quanh Kudo Shinichi, một thám tử trung học nổi tiếng với khả năng suy luận sắc bén. Trong một lần điều tra, Shinichi bị Tổ chức Áo Đen ép uống một loại thuốc độc khiến cơ thể bị teo nhỏ.\n\nĐể che giấu thân phận và tiếp tục điều tra tung tích của Tổ chức Áo Đen, Shinichi lấy tên mới là Conan Edogawa và chuyển đến sống cùng người bạn thuở nhỏ Ran Mori và bố cô, thám tử Kogoro Mori. Tại đây, Conan âm thầm sử dụng văn phòng thám tử của Kogoro để phá giải những vụ án hóc búa, đồng thời từng bước lần theo những manh mối liên quan đến Tổ chức Áo Đen.\n\n---\nXem thêm các bộ phim chiếu trên POPS Anime nhé: \n📌 https://www.youtube.com/playlist?list=PLKvoOwlacRoLbAmCd_0HsADRTCD4oo0Mv\n📌 https://www.youtube.com/playlist?list=PLKvoOwlacRoJyy6C3DhAE2QiPt5S1rBTR\n📌 https://www.youtube.com/playlist?list=PLKvoOwlacRoKtbZpYxbIgLUNvhmUw-ZXB\n📌 https://www.youtube.com/playlist?list=PLKvoOwlacRoKfroLe05SLwGmi_oN52YEV\n📌 https://www.youtube.com/playlist?list=PLKvoOwlacRoINg51-XA3bdDtcgIphSrOg\n📌 https://www.youtube.com/playlist?list=PLKvoOwlacRoIX0Jp34PQAL7McZn4lga57\n📌 https://www.youtube.com/playlist?list=PLLX0FZCGnLJQISZKXzBtrjwQHkCP1JwjQ\n📌 https://www.youtube.com/playlist?list=PLLX0FZCGnLJTx7phifnlVqNws3SgMkxos\n📌 https://www.youtube.com/playlist?list=PLKvoOwlacRoIJS1NQKhm2azgjtomLlkY6\n📌 https://www.youtube.com/playlist?list=PLKvoOwlacRoKHeJft9qW9Z6qQcB0DAXjU\n\n#Conan #POPSAnime #ThamTuLungDanhConan #ConanFan #Conanlongtieng #Conanmoinhat",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AaQ-XUENnZY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AaQ-XUENnZY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AaQ-XUENnZY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AaQ-XUENnZY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AaQ-XUENnZY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            "fhd": {
+              "url": "https://i.ytimg.com/vi/AaQ-XUENnZY/fhddefault.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "channelTitle": "POPS Anime",
+          "tags": [
+            "Tập 1071 Tiểu thuyết gia được gọi là Quỷ vương",
+            "conan Tập 1071",
+            "POPS Anime",
+            "pops anime conan",
+            "thám tử lừng danh conan pops anime",
+            "conan pops anime",
+            "Conan thám tử lừng danh",
+            "Thám tử lừng danh Conan",
+            "tổng hợp những vụ án hay nhất",
+            "conan tiếng việt",
+            "conan mới nhất",
+            "shinichi",
+            "ran",
+            "kudo shinichi",
+            "kogoro mori",
+            "haibara",
+            "tổ chức áo đen",
+            "thám tử nhí",
+            "Tập 1071 lồng tiếng"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Thám Tử Lừng Danh Conan - Tập 1071: Tiểu thuyết gia được gọi là Quỷ vương | Bản Lồng Tiếng",
+            "description": "🔥ĐĂNG KÝ HỘI VIÊN THÁM TỬ ĐỂ XEM SỚM NHẤT VÀ NHẬN ĐẶC QUYỀN HẤP DẪN\n👉 Tham gia tại đây: https://www.youtube.com/channel/UCkgdDBHO7zl3tWIjldQeK7g/join\n\n⭐ XEM TRƯỚC 3 TUẦN - 15 TẬP THÁM TỬ LỪNG DANH CONAN LỒNG TIẾNG MỚI NHẤT.\n⭐ Nhận huy hiệu và bộ sticker độc quyền.\n⭐ Bài đăng thông báo và phiên livestream dành riêng cho hội viên.\n⭐ Xem trước nội dung MEOWMENT\n... Cùng vô vàn đặc quyền hấp dẫn khác...\n\n▶️ Danh sách phát: https://www.youtube.com/playlist?list=PLEdtuZKuv4pI\n📺 Lịch phát sóng: 11h00 Sáng - Thứ 2,4,6,7,CN hàng tuần\n\n-------\n*NỘI DUNG DÀNH CHO KHÁN GIẢ VỊ THÀNH NIÊN  \n\nThám Tử Lừng Danh Conan xoay quanh Kudo Shinichi, một thám tử trung học nổi tiếng với khả năng suy luận sắc bén. Trong một lần điều tra, Shinichi bị Tổ chức Áo Đen ép uống một loại thuốc độc khiến cơ thể bị teo nhỏ.\n\nĐể che giấu thân phận và tiếp tục điều tra tung tích của Tổ chức Áo Đen, Shinichi lấy tên mới là Conan Edogawa và chuyển đến sống cùng người bạn thuở nhỏ Ran Mori và bố cô, thám tử Kogoro Mori. Tại đây, Conan âm thầm sử dụng văn phòng thám tử của Kogoro để phá giải những vụ án hóc búa, đồng thời từng bước lần theo những manh mối liên quan đến Tổ chức Áo Đen.\n\n---\nXem thêm các bộ phim chiếu trên POPS Anime nhé: \n📌 https://www.youtube.com/playlist?list=PLKvoOwlacRoLbAmCd_0HsADRTCD4oo0Mv\n📌 https://www.youtube.com/playlist?list=PLKvoOwlacRoJyy6C3DhAE2QiPt5S1rBTR\n📌 https://www.youtube.com/playlist?list=PLKvoOwlacRoKtbZpYxbIgLUNvhmUw-ZXB\n📌 https://www.youtube.com/playlist?list=PLKvoOwlacRoKfroLe05SLwGmi_oN52YEV\n📌 https://www.youtube.com/playlist?list=PLKvoOwlacRoINg51-XA3bdDtcgIphSrOg\n📌 https://www.youtube.com/playlist?list=PLKvoOwlacRoIX0Jp34PQAL7McZn4lga57\n📌 https://www.youtube.com/playlist?list=PLLX0FZCGnLJQISZKXzBtrjwQHkCP1JwjQ\n📌 https://www.youtube.com/playlist?list=PLLX0FZCGnLJTx7phifnlVqNws3SgMkxos\n📌 https://www.youtube.com/playlist?list=PLKvoOwlacRoIJS1NQKhm2azgjtomLlkY6\n📌 https://www.youtube.com/playlist?list=PLKvoOwlacRoKHeJft9qW9Z6qQcB0DAXjU\n\n#Conan #POPSAnime #ThamTuLungDanhConan #ConanFan #Conanlongtieng #Conanmoinhat"
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT25M5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "allowed": [
+              "VN"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "977841",
+          "likeCount": "5438",
+          "favoriteCount": "0",
+          "commentCount": "243"
+        },
+        "liveStreamingDetails": {
+          "actualStartTime": "2026-10-05T04:00:09Z",
+          "actualEndTime": "2026-10-05T04:27:11Z",
+          "scheduledStartTime": "2026-10-05T04:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "NJfWr4ZfAzzw6Vbx22iYO960zvE",
+        "id": "IJdsnxYjgcE",
+        "snippet": {
+          "publishedAt": "2026-10-05T16:06:20Z",
+          "channelId": "UCgpr1a1iV-h_6Vk2Cibu6oQ",
+          "title": "Cuộc thi quay heo lớn nhất mà tôi từng biết!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IJdsnxYjgcE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IJdsnxYjgcE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IJdsnxYjgcE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/IJdsnxYjgcE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/IJdsnxYjgcE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "KIẾN THỨC CÓ ÍCH",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Cuộc thi quay heo lớn nhất mà tôi từng biết!",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "430044",
+          "likeCount": "8605",
+          "favoriteCount": "0",
+          "commentCount": "31"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UtVCsEE9UoPKq9opcsibSGyRegw",
+        "id": "kGGjyLYWD-Y",
+        "snippet": {
+          "publishedAt": "2026-10-01T04:24:31Z",
+          "channelId": "UCiTkj2wJNRxkEAaY2puCYUg",
+          "title": "Bị đuổi vì vô sinh, cô ngủ với gã côn đồ trong làng, mang thai ba, ai ngờ anh là tỷ phú cưới cô!",
+          "description": "► Review Phim: Mang Thai Ba, Tôi Được Trùm Làng Cưng Hết Nấc\n► Subscribe kênh để xem thêm các phim khác: https://bit.ly/keosuadrama\n‼️Video này là dàn dựng, tuân thủ tiêu chuẩn EDSA, vì mục đích giải trí.\n❌Các tình huống và nhân vật hoàn toàn không có thật! Chúng tôi không cổ xuý bạo lực, bắt nạt hay hành vi xúc phạm. Khán giả cân nhắc trước khi xem. TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM!\n\nMột đêm 7 lần với tên bán dưa hấu nghèo, mang thai ba, tưởng bị bỏ rơi ai ngờ anh là tỷ phú cưới cô!\n\nThể loại: Phim Ngôn Tình, Tổng Tài Lạnh Lùng, Phim Tổng Tài, Phim Tình Cảm Trung Quốc, Phim Bộ Trung Quốc Lồng Tiếng, Phim Ngôn Tình Tổng Tài, Phim Hay Thuyết Minh, Phim Ngôn Tình Ngọt Ngào, Review Phim Tổng Tài, Review Phim, Tóm Tắt Phim, Phim lẻ, Phim Review, Phim Ngắn, phim hàn quốc, tong tai ba dao review, phim truyện trung quốc, cưới trước yêu sau, phim tổng tài hay nhất, phim hàn quốc, \n\n© Bản quyền thuộc về MZ Media, vui lòng không reup dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n----------------------------------\n#keosuadrama #reviewphim #phimtrungquoc #tongtai #phimngontinh #nữcường #phimhay",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kGGjyLYWD-Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kGGjyLYWD-Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kGGjyLYWD-Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kGGjyLYWD-Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kGGjyLYWD-Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            "fhd": {
+              "url": "https://i.ytimg.com/vi/kGGjyLYWD-Y/fhddefault.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "channelTitle": "Kẹo Sữa Drama",
+          "tags": [
+            "kẹo sữa drama",
+            "review phim ngôn tình",
+            "phim",
+            "phim hay",
+            "phim ngôn tình",
+            "tổng tài cưng chiều vợ",
+            "review phim tổng tài",
+            "review phim",
+            "phim ngắn trung quốc",
+            "review phim hay",
+            "tong tai",
+            "phim tổng tài",
+            "phim le",
+            "tổng tài",
+            "tổng tài bá đạo",
+            "Review Phim Trung Quốc",
+            "Phim Lẻ",
+            "phim tình cảm",
+            "phim trung quốc",
+            "phim review",
+            "phim tình cảm trung quốc",
+            "tình 1 đêm",
+            "mang thai con tổng tài",
+            "phim ngắn",
+            "một đêm 7 lần",
+            "phim nóng",
+            "phim hôn nhau",
+            "mang thai ba",
+            "bị đuổi vì vô sinh"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Bị đuổi vì vô sinh, cô ngủ với gã côn đồ trong làng, mang thai ba, ai ngờ anh là tỷ phú cưới cô!",
+            "description": "► Review Phim: Mang Thai Ba, Tôi Được Trùm Làng Cưng Hết Nấc\n► Subscribe kênh để xem thêm các phim khác: https://bit.ly/keosuadrama\n‼️Video này là dàn dựng, tuân thủ tiêu chuẩn EDSA, vì mục đích giải trí.\n❌Các tình huống và nhân vật hoàn toàn không có thật! Chúng tôi không cổ xuý bạo lực, bắt nạt hay hành vi xúc phạm. Khán giả cân nhắc trước khi xem. TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM!\n\nMột đêm 7 lần với tên bán dưa hấu nghèo, mang thai ba, tưởng bị bỏ rơi ai ngờ anh là tỷ phú cưới cô!\n\nThể loại: Phim Ngôn Tình, Tổng Tài Lạnh Lùng, Phim Tổng Tài, Phim Tình Cảm Trung Quốc, Phim Bộ Trung Quốc Lồng Tiếng, Phim Ngôn Tình Tổng Tài, Phim Hay Thuyết Minh, Phim Ngôn Tình Ngọt Ngào, Review Phim Tổng Tài, Review Phim, Tóm Tắt Phim, Phim lẻ, Phim Review, Phim Ngắn, phim hàn quốc, tong tai ba dao review, phim truyện trung quốc, cưới trước yêu sau, phim tổng tài hay nhất, phim hàn quốc, \n\n© Bản quyền thuộc về MZ Media, vui lòng không reup dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n----------------------------------\n#keosuadrama #reviewphim #phimtrungquoc #tongtai #phimngontinh #nữcường #phimhay"
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT1H57M52S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "CN",
+              "ID",
+              "PH",
+              "TH"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "888962",
+          "likeCount": "4390",
+          "favoriteCount": "0",
+          "commentCount": "216"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zSbBxNsX4a9LbxWXGfsr5f-eYio",
+        "id": "u4OfGkIin04",
+        "snippet": {
+          "publishedAt": "2026-10-04T08:43:27Z",
+          "channelId": "UCAUdf3-CyW16DBEt3j3uCgA",
+          "title": "Khi crush mời tôi ăn buffer tự chọn | Hài hước mê lầy #shorts #funny",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/u4OfGkIin04/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/u4OfGkIin04/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/u4OfGkIin04/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/u4OfGkIin04/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/u4OfGkIin04/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hài Hước Mê Lầy",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Khi crush mời tôi ăn buffer tự chọn | Hài hước mê lầy #shorts #funny",
+            "description": ""
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT1M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "489567",
+          "likeCount": "5891",
+          "favoriteCount": "0",
+          "commentCount": "8"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "QYeoXPvhQDRSkarj28epRfIuP2A",
+        "id": "-AJYB-z4bt8",
+        "snippet": {
+          "publishedAt": "2026-10-08T04:00:21Z",
+          "channelId": "UCQ3lvanwwQ_tE_MgT1SMg2g",
+          "title": "Theng | Người Mẹ Siêu Thám Tử 14 #theng #viral #shorts",
+          "description": "A DAY WITHOUT LAUGHTER IS A DAY WASTED \n\"Theng - tên thật là Thắng\"\nTạo tiếng cười cho mọi người là NIỀM VUI của Thắng\nMọi người hãy nhấn đăng kí để ủng hộ Thắng và dễ dàng theo dõi clip mới nhất của Thắng!\nCác mạng xã hội mà mình sử dụng:\nFacebook: https://www.facebook.com/profile.php?id=100018578207222\nTiktok: https://www.tiktok.com/@thengneee\nCÁM ƠN TÌNH CẢM MỌI DÀNH CHO MÌNH RẤT NHIỀU!\nMÃI YÊU! \n\nXem full series NGƯỜI MẸ SIÊU THÁM TỬ: https://www.youtube.com/playlist?list=PLp-AnG1paMsWCDioDQqJh678Zhm7imlfl\nXem full series CÂY BÚT THẦN CỦA MẸ: https://www.youtube.com/playlist?list=PLp-AnG1paMsW3RTXM7qDfw1NkAyug8U4p\nXem full series TIỆM TẠP HÓA CỦA MẸ: https://www.youtube.com/playlist?list=PLp-AnG1paMsUbNR8NVBcYVXBsvYOKYl_K \n\n\n© Bản quyền video thuộc về Theng\n© Copyright by Theng  ☞ Do not Reup\n\n#theng #funny #haihuoc #metub #metubnetwork",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-AJYB-z4bt8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-AJYB-z4bt8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-AJYB-z4bt8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-AJYB-z4bt8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-AJYB-z4bt8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Theng",
+          "tags": [
+            "Theng",
+            "theng",
+            "Trần Đức Thắng",
+            "Thắng",
+            "phim ngắn",
+            "phim hài",
+            "phim hài ngắn",
+            "hài ngắn",
+            "phim hài tiktok",
+            "phim hài ngắn tiktok",
+            "tiktok hài",
+            "tiktok hài hước",
+            "hài tiktok",
+            "hài",
+            "hài hước",
+            "giải trí",
+            "hài ngắn tiktok",
+            "phim hài ngắn giải trí",
+            "hài ngắn 2025",
+            "hài ngắn mới nhất",
+            "trần đức thắng",
+            "tổng hợp video hài hước",
+            "hài hước troll",
+            "hài ngắn comedy",
+            "trend titok mới nhất",
+            "shorts",
+            "#shorts",
+            "tiktok",
+            "#viral",
+            "đú trend",
+            "trend hot tiktok",
+            "viral",
+            "ân oán giang hồ"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Theng | Người Mẹ Siêu Thám Tử 14 #theng #viral #shorts",
+            "description": "A DAY WITHOUT LAUGHTER IS A DAY WASTED \n\"Theng - tên thật là Thắng\"\nTạo tiếng cười cho mọi người là NIỀM VUI của Thắng\nMọi người hãy nhấn đăng kí để ủng hộ Thắng và dễ dàng theo dõi clip mới nhất của Thắng!\nCác mạng xã hội mà mình sử dụng:\nFacebook: https://www.facebook.com/profile.php?id=100018578207222\nTiktok: https://www.tiktok.com/@thengneee\nCÁM ƠN TÌNH CẢM MỌI DÀNH CHO MÌNH RẤT NHIỀU!\nMÃI YÊU! \n\nXem full series NGƯỜI MẸ SIÊU THÁM TỬ: https://www.youtube.com/playlist?list=PLp-AnG1paMsWCDioDQqJh678Zhm7imlfl\nXem full series CÂY BÚT THẦN CỦA MẸ: https://www.youtube.com/playlist?list=PLp-AnG1paMsW3RTXM7qDfw1NkAyug8U4p\nXem full series TIỆM TẠP HÓA CỦA MẸ: https://www.youtube.com/playlist?list=PLp-AnG1paMsUbNR8NVBcYVXBsvYOKYl_K \n\n\n© Bản quyền video thuộc về Theng\n© Copyright by Theng  ☞ Do not Reup\n\n#theng #funny #haihuoc #metub #metubnetwork"
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT1M41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "281262",
+          "likeCount": "3006",
+          "favoriteCount": "0",
+          "commentCount": "12"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "wXE0PAswCkPe08UJ-hmro9AiUUA",
+        "id": "SdqEusdX1_E",
+        "snippet": {
+          "publishedAt": "2026-10-06T13:49:41Z",
+          "channelId": "UCvBmcDW_JayWWDOl0Lw_4iw",
+          "title": "Tưởng Chỉ Là Hôn Nhân Hợp Đồng, Ai Ngờ A Mê Vợ Phát Điên, ỞNhà Hôn ĐiênCuồng, Ra Ngoài Ghen LồngLộn😳",
+          "description": "💕 Subscribe kênh Rạp Ngôn Tình tại đây để không bỏ lỡ những bộ phim ngôn tình Trung Quốc hấp dẫn nhất:\nhttps://www.youtube.com/@RapNgonTinh\n\n#phimngắn #phimhay #shortdrama #chinesedrama #ngontinh #tongtai\n\n💬 Đừng quên Đăng ký kênh, Like và bật chuông thông báo 🔔 để cập nhật những bộ phim mới nhất mỗi ngày nhé! ❤️",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SdqEusdX1_E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SdqEusdX1_E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SdqEusdX1_E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SdqEusdX1_E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SdqEusdX1_E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rạp Ngôn Tình",
+          "tags": [
+            "phim mới",
+            "phim hot",
+            "phim ngắn",
+            "phim tổng tài",
+            "cdrama",
+            "phim ngọt sủng",
+            "phim hot youtube",
+            "phim hay 2026",
+            "phim xuyên không",
+            "mã tiểu vũ",
+            "kha thuần",
+            "kdrama",
+            "short drama"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Tưởng Chỉ Là Hôn Nhân Hợp Đồng, Ai Ngờ A Mê Vợ Phát Điên, ỞNhà Hôn ĐiênCuồng, Ra Ngoài Ghen LồngLộn😳",
+            "description": "💕 Subscribe kênh Rạp Ngôn Tình tại đây để không bỏ lỡ những bộ phim ngôn tình Trung Quốc hấp dẫn nhất:\nhttps://www.youtube.com/@RapNgonTinh\n\n#phimngắn #phimhay #shortdrama #chinesedrama #ngontinh #tongtai\n\n💬 Đừng quên Đăng ký kênh, Like và bật chuông thông báo 🔔 để cập nhật những bộ phim mới nhất mỗi ngày nhé! ❤️"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT2H27M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "CN",
+              "ID",
+              "PH",
+              "TH"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "859139",
+          "likeCount": "4581",
+          "favoriteCount": "0",
+          "commentCount": "205"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "NZuTI6BK8VmiAO6tIILStNeJKxE",
+        "id": "-kporozDols",
+        "snippet": {
+          "publishedAt": "2026-09-30T05:00:31Z",
+          "channelId": "UCbRugPHs-2i48MbID-AnEVQ",
+          "title": "Chưa đeo kính mà đòi làm việc 🤣🤣 #shorts #haihuoc #funny #giaitri #haihuocvuinhon",
+          "description": "cauchuyenynghia,moingaymotchut,động lực,dong luc,giá trị cuộc sống,gia tri cuoc song,song tich cuc,sống tích cực,clip ý nghĩa,clip y nghia,tich cuc,hài hước,tin giải trí,video giải trí,tin mới,tin hài hước,video hài hước,khoảnh khắc vui nhộn,kienthucthuvi,trung quốc hài,cặp đôi,hài hước vui nhộn,thuyết minh,lồng tiếng,kiến thức hay,học hỏi mỗi ngày,tri thức cuộc sống,tri thức mỗi ngày,tốt hơn mỗi ngày,vui nhộn,hài,review phim,khoa học vui,khoa học thú vị,kiến thức thú vị,kiến thức khoa học,bạn có biết,kiến thức,khoa hoc,thú vị,công nghệ thú vị,top 10 thú vị,top thu vi,kham pha,khám phá thế giới,clip ngắn ý nghĩa,kiến thức mỗi ngày,tot hon moi ngay,hoc hoi moi ngay,hài hước và giải trí,giải trí hài hước,review giải trí,giải trí,kttv,kien thuc thu vi,khoa học,câu chuyện ý nghĩa,khoảnh khắc chạm đến trái tim,khoanh khac,videos ngắn ý nghĩa,video ngan y nghia,nhân văn,quà tặng cuộc sống,qua tang cuoc song,tích cực,nhan van,review những câu chuyện ý nghĩa,câu chuyện thú vị,khám phá,tin tức mới,bảng tin mới,bảng tin hot,tin tức hot,tin tức hàng đầu,tin tức hôm nay,bảng tin hôm nay,tin tức mới nhất,tin tức,tri thức,hài hươc,reviewphim,reviewphimhay,hài trung quốc,thử thách,khoảnh khắc,tình yêu,hai huoc,chơi khăm,choi kham,tình huống vui nhộn,tinh huong vui nhon,buồn cười,buon cuoi,thu thach,khoảnh khắc hài hước,khoảnh khắc vô tri,tổng hợp hài hước,vô tri,genz,giaitri,giải trí ý nghĩa,sự thật thú vị,ngôn tình,troll,khám phá thú vị,hai moi,phim hai,clip hai,ý nghĩa,giải trí,tình huống hài hước,phim ngắn hay,meme hài,tin tức hài hước,ý nghĩa,video hài,video trung quốc,mỗi ngày một chút,giangkhongngu,takhongngu,giangcuman,tiểu thạch review,tieu thach review,mỗi ngày một hài,duongbiettuot,dương biết tuốt,kiến thức thú vị có thể bạn chưa biết,có thể bạn chưa biết,tin nhanh 3 phút,tin 3 phút,tin 3 phút hài,tin 5s,tb trend,taphoanguoiluoi,tạp hóa người lười,lão nạp,bóng đèn ham học,gautrucreaction,gấu trúc review,gau truc review,gấu trúc reaction,gấu trúc,bietthemmotchut,reivew,mê lướt,giang cư mận,tin nhanh,mê mò mẫm,tin vịt,hung bac hoc,hùng bác học,moi ngay mot chut,tin 1 phút,bong den ham hoc,guatrucreaction,mạnh mới mẻ,vy bánh báo,tin nhanh 3 phút official,tin 3 phút official,tin hài 3 phút,tin tức 3 phút,3 phút tin,tin 3 phut,tin nóng,hai,haivl,gio_dong_lao,vui,hai tet,hai hay,hai 2026,hai kich,hai vl,hai 79,xem hai,hai xua,hai vtv,anh hai,hai van son,khoai coi hai,show hai,hai viet,hai vui ve,video hai,phim hai tet,gió đông lào,bản tin không ngờ,thử thách miễn phí,gặp cao thủ,clip hài,cười vỡ bụng,hài tiktok,hậu trường hài hước,quyen qua,quyên quạ,cheems,vuive,haihuoc,my cây hài,vy bánh bao,tri thức vui vẻ,điều thú vị cần biết,câu chuyện truyền cảm hứng,kiến thức giải trí,kiến thức vui,điều kỳ lạ,sự thật thú vị mỗi ngày,khám phá điều kỳ lạ,kiến thức vui hằng ngày,giải trí bổ ích,những điều bạn chưa biết,khám phá thế giới kỳ thú,sự thật bất ngờ,thông tin thú vị,hổ ham học,ho ham hoc,hohamhoc,mắt kính cận,bien tv,ta không ngủ,ham ăn cô nương,1 tuần chỉ dỗi 7 ngày,kẻ gáo,hai my nè!,tạp hoá mei mei,tuấn tếu táo,em dũng nè,ăn gì đâyyy,cheems nhạt nhẽo,an gi dayyy,hài  hước,anh huy thích nấu ăn,kiến thức bổ ích,tô tin tức,cô nàng nhà bên,hai my nè,ace short – pro,chuyện chị em,khanhtrungsi,tin tức 24h,hoàng reaction,xinh lên cùng sứa,bạn xem chưa,ngộ radio,ngo radio,tin ngắn,tin hài,ngoradio.\n---------------------------------------------------------------------------------------------------------------------\n#shorts #funny #haihuoc #funnyshorts #khoảnhkhắcvuinhộn #troll #hàihước #kienthucthuvi #kynangsongvui #giảitrí #short #hanhphuc #giaitri #tichcuc #dongluc #ynghiacuocsong #quatangcuocsong #kienthuc #tintuc #thuthach #kienthuchay #khoahoc #vuinhon #xuhuong #moingaymotchut #nhânvăn #khampha #thinghiemkhoahoc #thegioiquanhta #duongbiettuot #suthat #cothebanchuabiet #suthatkhotin #tin3phut #tb #BienTV #congkienthuc #Gautrucreaction #meluot #hoangreaction #hungbachoc #tinnhanh3phut #giodonglao #gio_dong_lao #bantinkhongngo #takhongngu #laonap #Angidayyy",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-kporozDols/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-kporozDols/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-kporozDols/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-kporozDols/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-kporozDols/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Khủng Long Nhỏ",
+          "tags": [
+            "Mạnh Mới Mẻ",
+            "Vy Bánh Bao",
+            "TIN NHANH 3 PHÚT",
+            "Mắt kính cận",
+            "BIEN TV",
+            "Kẻ Gáo",
+            "Gió Đông Lào",
+            "Bản Tin Không Ngờ",
+            "Hai My Nè!",
+            "Ta Không Ngủ",
+            "Tạp Hoá Mei Mei",
+            "Ham Ăn Cô Nương",
+            "Lão Nạp",
+            "Tuấn Tếu Táo",
+            "Quyên Quạ",
+            "1 tuần chỉ dỗi 7 ngày",
+            "Em Dũng Nè",
+            "Cheems Nhạt Nhẽo",
+            "Mỗi Ngày Một Hài",
+            "Bóng Đèn Ham Học",
+            "Hổ Ham Học",
+            "Chuyện Chị Em",
+            "Ace short – pro",
+            "Ngộ Radio",
+            "Anh Huy Thích Nấu Ăn",
+            "Mỗi Ngày Một Chút",
+            "Ăn gì đâyyy",
+            "Giang Cư Mận",
+            "Mê Mò MẫM",
+            "Có thể bạn chưa biết",
+            "Mê Lướt",
+            "thuyết minh"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Chưa đeo kính mà đòi làm việc 🤣🤣 #shorts #haihuoc #funny #giaitri #haihuocvuinhon",
+            "description": "cauchuyenynghia,moingaymotchut,động lực,dong luc,giá trị cuộc sống,gia tri cuoc song,song tich cuc,sống tích cực,clip ý nghĩa,clip y nghia,tich cuc,hài hước,tin giải trí,video giải trí,tin mới,tin hài hước,video hài hước,khoảnh khắc vui nhộn,kienthucthuvi,trung quốc hài,cặp đôi,hài hước vui nhộn,thuyết minh,lồng tiếng,kiến thức hay,học hỏi mỗi ngày,tri thức cuộc sống,tri thức mỗi ngày,tốt hơn mỗi ngày,vui nhộn,hài,review phim,khoa học vui,khoa học thú vị,kiến thức thú vị,kiến thức khoa học,bạn có biết,kiến thức,khoa hoc,thú vị,công nghệ thú vị,top 10 thú vị,top thu vi,kham pha,khám phá thế giới,clip ngắn ý nghĩa,kiến thức mỗi ngày,tot hon moi ngay,hoc hoi moi ngay,hài hước và giải trí,giải trí hài hước,review giải trí,giải trí,kttv,kien thuc thu vi,khoa học,câu chuyện ý nghĩa,khoảnh khắc chạm đến trái tim,khoanh khac,videos ngắn ý nghĩa,video ngan y nghia,nhân văn,quà tặng cuộc sống,qua tang cuoc song,tích cực,nhan van,review những câu chuyện ý nghĩa,câu chuyện thú vị,khám phá,tin tức mới,bảng tin mới,bảng tin hot,tin tức hot,tin tức hàng đầu,tin tức hôm nay,bảng tin hôm nay,tin tức mới nhất,tin tức,tri thức,hài hươc,reviewphim,reviewphimhay,hài trung quốc,thử thách,khoảnh khắc,tình yêu,hai huoc,chơi khăm,choi kham,tình huống vui nhộn,tinh huong vui nhon,buồn cười,buon cuoi,thu thach,khoảnh khắc hài hước,khoảnh khắc vô tri,tổng hợp hài hước,vô tri,genz,giaitri,giải trí ý nghĩa,sự thật thú vị,ngôn tình,troll,khám phá thú vị,hai moi,phim hai,clip hai,ý nghĩa,giải trí,tình huống hài hước,phim ngắn hay,meme hài,tin tức hài hước,ý nghĩa,video hài,video trung quốc,mỗi ngày một chút,giangkhongngu,takhongngu,giangcuman,tiểu thạch review,tieu thach review,mỗi ngày một hài,duongbiettuot,dương biết tuốt,kiến thức thú vị có thể bạn chưa biết,có thể bạn chưa biết,tin nhanh 3 phút,tin 3 phút,tin 3 phút hài,tin 5s,tb trend,taphoanguoiluoi,tạp hóa người lười,lão nạp,bóng đèn ham học,gautrucreaction,gấu trúc review,gau truc review,gấu trúc reaction,gấu trúc,bietthemmotchut,reivew,mê lướt,giang cư mận,tin nhanh,mê mò mẫm,tin vịt,hung bac hoc,hùng bác học,moi ngay mot chut,tin 1 phút,bong den ham hoc,guatrucreaction,mạnh mới mẻ,vy bánh báo,tin nhanh 3 phút official,tin 3 phút official,tin hài 3 phút,tin tức 3 phút,3 phút tin,tin 3 phut,tin nóng,hai,haivl,gio_dong_lao,vui,hai tet,hai hay,hai 2026,hai kich,hai vl,hai 79,xem hai,hai xua,hai vtv,anh hai,hai van son,khoai coi hai,show hai,hai viet,hai vui ve,video hai,phim hai tet,gió đông lào,bản tin không ngờ,thử thách miễn phí,gặp cao thủ,clip hài,cười vỡ bụng,hài tiktok,hậu trường hài hước,quyen qua,quyên quạ,cheems,vuive,haihuoc,my cây hài,vy bánh bao,tri thức vui vẻ,điều thú vị cần biết,câu chuyện truyền cảm hứng,kiến thức giải trí,kiến thức vui,điều kỳ lạ,sự thật thú vị mỗi ngày,khám phá điều kỳ lạ,kiến thức vui hằng ngày,giải trí bổ ích,những điều bạn chưa biết,khám phá thế giới kỳ thú,sự thật bất ngờ,thông tin thú vị,hổ ham học,ho ham hoc,hohamhoc,mắt kính cận,bien tv,ta không ngủ,ham ăn cô nương,1 tuần chỉ dỗi 7 ngày,kẻ gáo,hai my nè!,tạp hoá mei mei,tuấn tếu táo,em dũng nè,ăn gì đâyyy,cheems nhạt nhẽo,an gi dayyy,hài  hước,anh huy thích nấu ăn,kiến thức bổ ích,tô tin tức,cô nàng nhà bên,hai my nè,ace short – pro,chuyện chị em,khanhtrungsi,tin tức 24h,hoàng reaction,xinh lên cùng sứa,bạn xem chưa,ngộ radio,ngo radio,tin ngắn,tin hài,ngoradio.\n---------------------------------------------------------------------------------------------------------------------\n#shorts #funny #haihuoc #funnyshorts #khoảnhkhắcvuinhộn #troll #hàihước #kienthucthuvi #kynangsongvui #giảitrí #short #hanhphuc #giaitri #tichcuc #dongluc #ynghiacuocsong #quatangcuocsong #kienthuc #tintuc #thuthach #kienthuchay #khoahoc #vuinhon #xuhuong #moingaymotchut #nhânvăn #khampha #thinghiemkhoahoc #thegioiquanhta #duongbiettuot #suthat #cothebanchuabiet #suthatkhotin #tin3phut #tb #BienTV #congkienthuc #Gautrucreaction #meluot #hoangreaction #hungbachoc #tinnhanh3phut #giodonglao #gio_dong_lao #bantinkhongngo #takhongngu #laonap #Angidayyy"
+          },
+          "defaultAudioLanguage": "zxx"
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1060028",
+          "likeCount": "4515",
+          "favoriteCount": "0",
+          "commentCount": "11"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "WEPz0CpRTfKjtC2IQA9z6ldGzkk",
+        "id": "tN59A4ZClGc",
+        "snippet": {
+          "publishedAt": "2026-10-04T10:17:16Z",
+          "channelId": "UCqtd3tMt_7FwXoajlfeXjxw",
+          "title": "Lớp học hài hước:khi cả lớp làm đất nặn",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tN59A4ZClGc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tN59A4ZClGc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tN59A4ZClGc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tN59A4ZClGc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tN59A4ZClGc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Xuân Mai Review ",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Lớp học hài hước:khi cả lớp làm đất nặn",
+            "description": ""
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT1M3S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "543264",
+          "likeCount": "3822",
+          "favoriteCount": "0",
+          "commentCount": "8"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "dD-OYVtKv9oDnIi9HK0JmanSC-o",
+        "id": "e-dMgcgXDuw",
+        "snippet": {
+          "publishedAt": "2026-10-08T12:02:07Z",
+          "channelId": "UCmajdag-wq8RLYjx2alyiKg",
+          "title": "Vì cái áo mưa mà chia tay #chiemdautv #haihuoc #viral #funny #trending #shortvideo",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/e-dMgcgXDuw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/e-dMgcgXDuw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/e-dMgcgXDuw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/e-dMgcgXDuw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/e-dMgcgXDuw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Chị Em Dâu TV",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Vì cái áo mưa mà chia tay #chiemdautv #haihuoc #viral #funny #trending #shortvideo",
+            "description": ""
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT1M56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "169465",
+          "likeCount": "816",
+          "favoriteCount": "0",
+          "commentCount": "7"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "wvn7aoXV9bBGNzdBcQbmV4kMLvU",
+        "id": "h-8tIhmBpuI",
+        "snippet": {
+          "publishedAt": "2026-10-02T10:40:52Z",
+          "channelId": "UCx68w8RucBY9tQyvaOrdYHg",
+          "title": "ÍT AI BIẾT ĐƯỢC MẢNH GHÉP TRONG TAY RED HULK NÓ ẨN CHỨA CHI TIẾT ĐIÊM BÁO TÔT CHO CUỘC CHIÊN NÀY",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h-8tIhmBpuI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h-8tIhmBpuI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h-8tIhmBpuI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/h-8tIhmBpuI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/h-8tIhmBpuI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ĐÁNHGIÁGIẢITRÍ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "ÍT AI BIẾT ĐƯỢC MẢNH GHÉP TRONG TAY RED HULK NÓ ẨN CHỨA CHI TIẾT ĐIÊM BÁO TÔT CHO CUỘC CHIÊN NÀY",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "802093",
+          "likeCount": "10654",
+          "favoriteCount": "0",
+          "commentCount": "50"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "2tCu_-mEWNCSDSAaTW72TQJdl1M",
+        "id": "cKuFEQ-TXwI",
+        "snippet": {
+          "publishedAt": "2026-10-05T04:00:34Z",
+          "channelId": "UCSbtnoNC2K4HMoVGwilTZQA",
+          "title": "Chị Ơi! Có Tiếng Gì Như Là Ma 👻😧 Cái Kết Bất Ngờ! #YouTubeShorts #VideoNgắn #Shorts",
+          "description": "“Chị ơi, em nghe thấy tiếng gì lạ lắm… hình như là ma 👻😧!” Hai chị em hoảng hốt khi nghe một âm thanh kỳ lạ. Nhưng sự thật phía sau lại khiến ai cũng bật cười! 😂🤣 Xem đến cuối để biết chuyện gì xảy ra nhé! #TiếngMa #GặpMa #ÂmThanhKỳLạ #ChịEmHàiHước #KhoảnhKhắcHàiHước #CáiKếtBấtNgờ #VideoHài #HàiHước #VideoViral #ShortsHài #YouTubeShorts #VideoNgắn #Shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cKuFEQ-TXwI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cKuFEQ-TXwI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cKuFEQ-TXwI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cKuFEQ-TXwI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cKuFEQ-TXwI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mỡ Mỡ ",
+          "tags": [
+            "tiếng ma",
+            "gặp ma",
+            "âm thanh kỳ lạ",
+            "chuyện ma hài hước",
+            "chị em hài hước",
+            "khoảnh khắc hài hước",
+            "cái kết bất ngờ",
+            "video hài",
+            "hài hước",
+            "video viral",
+            "shorts hài",
+            "YouTube Shorts",
+            "video ngắn"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Chị Ơi! Có Tiếng Gì Như Là Ma 👻😧 Cái Kết Bất Ngờ! #YouTubeShorts #VideoNgắn #Shorts",
+            "description": "“Chị ơi, em nghe thấy tiếng gì lạ lắm… hình như là ma 👻😧!” Hai chị em hoảng hốt khi nghe một âm thanh kỳ lạ. Nhưng sự thật phía sau lại khiến ai cũng bật cười! 😂🤣 Xem đến cuối để biết chuyện gì xảy ra nhé! #TiếngMa #GặpMa #ÂmThanhKỳLạ #ChịEmHàiHước #KhoảnhKhắcHàiHước #CáiKếtBấtNgờ #VideoHài #HàiHước #VideoViral #ShortsHài #YouTubeShorts #VideoNgắn #Shorts"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "433003",
+          "likeCount": "1666",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8wDO2shc29_UfbEEvjHORV0-6PY",
+        "id": "kDqtlc44iV8",
+        "snippet": {
+          "publishedAt": "2026-10-08T02:50:00Z",
+          "channelId": "UCMjp_tup2acgWAAUl0As56w",
+          "title": "Nhìn…!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kDqtlc44iV8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kDqtlc44iV8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kDqtlc44iV8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kDqtlc44iV8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kDqtlc44iV8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Minh Đen ",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Nhìn…!",
+            "description": ""
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "171322",
+          "likeCount": "1091",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "BhWoMEbXAMjUs-7idE3UmYxaVeo",
+        "id": "wvVK8I_yO5g",
+        "snippet": {
+          "publishedAt": "2026-10-04T04:00:27Z",
+          "channelId": "UCEqaAOtAT4niIkYkw8iZSrw",
+          "title": "Khi nhân viên thời vụ bị đồng nghiệp úp nồi đổ lỗi  | Cheems Tám Chuyện #funnyshorts #haihuoc",
+          "description": "Khi nhân viên thời vụ bị đồng nghiệp úp nồi đổ lỗi  | Cheems Tám Chuyện #funnyshorts #haihuoc",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wvVK8I_yO5g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wvVK8I_yO5g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wvVK8I_yO5g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wvVK8I_yO5g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wvVK8I_yO5g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cheems Tám Chuyện",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Khi nhân viên thời vụ bị đồng nghiệp úp nồi đổ lỗi  | Cheems Tám Chuyện #funnyshorts #haihuoc",
+            "description": "Khi nhân viên thời vụ bị đồng nghiệp úp nồi đổ lỗi  | Cheems Tám Chuyện #funnyshorts #haihuoc"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "594344",
+          "likeCount": "5874",
+          "favoriteCount": "0",
+          "commentCount": "20"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "EYXg1qEqukgcpy5GeHsw1SZXkgc",
+        "id": "lqzOEUXezns",
+        "snippet": {
+          "publishedAt": "2026-09-29T05:35:17Z",
+          "channelId": "UCVUTwnfHFK4NRcU8A451utQ",
+          "title": "🤡🤡❤️ One Like for This Poor Clown!!!!#shorts",
+          "description": "📩 To the copyright holder: If you are the author of this content, please contact me via email: kimthaont01012001gmail.com. I promise to remove the video immediately upon your request.\n\n⚠️ IMPORTANT NOTICE:\n\n* 🎓 Purpose: This content is for educational purposes only and ensures the safety of all viewers.\n\n* 🚫 Warning: Activities are performed by professionals; DO NOT attempt to imitate at home.\n\n* 👥 Status: All participants are safe.\n\n* 🎬 Context: All situations in the video have been staged and controlled.\n\n📽️ Source: ©Respected owner\n\n📢 DISCLAIMER:\n\n* 🔎 Information is compiled from the internet, for reference purposes only, and is not intended to spread misinformation.\n\n* 📖 This channel focuses solely on EDUCATIONAL value.\n\n* ✨ Liking and subscribing are voluntary acts of support and are not mandatory requirements for viewing content. Thank you for your support.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lqzOEUXezns/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lqzOEUXezns/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lqzOEUXezns/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lqzOEUXezns/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lqzOEUXezns/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MAN REVIEW",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "🤡🤡❤️ One Like for This Poor Clown!!!!#shorts",
+            "description": "📩 To the copyright holder: If you are the author of this content, please contact me via email: kimthaont01012001gmail.com. I promise to remove the video immediately upon your request.\n\n⚠️ IMPORTANT NOTICE:\n\n* 🎓 Purpose: This content is for educational purposes only and ensures the safety of all viewers.\n\n* 🚫 Warning: Activities are performed by professionals; DO NOT attempt to imitate at home.\n\n* 👥 Status: All participants are safe.\n\n* 🎬 Context: All situations in the video have been staged and controlled.\n\n📽️ Source: ©Respected owner\n\n📢 DISCLAIMER:\n\n* 🔎 Information is compiled from the internet, for reference purposes only, and is not intended to spread misinformation.\n\n* 📖 This channel focuses solely on EDUCATIONAL value.\n\n* ✨ Liking and subscribing are voluntary acts of support and are not mandatory requirements for viewing content. Thank you for your support."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1698415",
+          "likeCount": "19120",
+          "favoriteCount": "0",
+          "commentCount": "51"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9TlZ5xw0_3xZDWmv0Ajj9GVM7Wk",
+        "id": "PyvPPwSUIl8",
+        "snippet": {
+          "publishedAt": "2026-10-03T06:38:34Z",
+          "channelId": "UC-moZcWSBGkXP6r91gfoUpw",
+          "title": "Kỷ niệm tuổi thơ - Trận chiến nảy lửa trong bể kính | Trọc Kiến Thức #hoathinh #hoathinhtrungquoc",
+          "description": "Kỷ niệm tuổi thơ - Trận chiến nảy lửa trong bể kính | Trọc Kiến Thức #hoathinh #hoathinhtrungquoc #trockienthuc",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PyvPPwSUIl8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PyvPPwSUIl8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PyvPPwSUIl8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PyvPPwSUIl8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PyvPPwSUIl8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Trọc Kiến Thức",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Kỷ niệm tuổi thơ - Trận chiến nảy lửa trong bể kính | Trọc Kiến Thức #hoathinh #hoathinhtrungquoc",
+            "description": "Kỷ niệm tuổi thơ - Trận chiến nảy lửa trong bể kính | Trọc Kiến Thức #hoathinh #hoathinhtrungquoc #trockienthuc"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "637105",
+          "likeCount": "5528",
+          "favoriteCount": "0",
+          "commentCount": "17"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "VxBJf-3VIvp49Qm-j51JZwxyOvY",
+        "id": "GBAA-rpdR9w",
+        "snippet": {
+          "publishedAt": "2026-10-05T07:01:22Z",
+          "channelId": "UCYhwz0JfpvqjJ5xeab8knaQ",
+          "title": "Spider-Man Gun Fight with Gun Sailor 💀",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GBAA-rpdR9w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GBAA-rpdR9w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GBAA-rpdR9w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GBAA-rpdR9w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GBAA-rpdR9w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SPIDER THE VENOM",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Spider-Man Gun Fight with Gun Sailor 💀",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9526979",
+          "likeCount": "74154",
+          "favoriteCount": "0",
+          "commentCount": "11"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ihtDE0vDCVMXMgavEK6ypdvOEP0",
+        "id": "cjWF1cNJ_fc",
+        "snippet": {
+          "publishedAt": "2026-10-06T01:42:07Z",
+          "channelId": "UCKUTJ5h3ugzK_jX3yhvp2OA",
+          "title": "Món quà nhỏ xíu khiến cả khu phố bất ngờ",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cjWF1cNJ_fc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cjWF1cNJ_fc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cjWF1cNJ_fc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cjWF1cNJ_fc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cjWF1cNJ_fc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bệnh thèm ăn",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Món quà nhỏ xíu khiến cả khu phố bất ngờ",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M44S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "371661",
+          "likeCount": "6527",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "34THL-LO0oiXa1_BmCXE1cBSNwQ",
+        "id": "xaFjuWXJGlU",
+        "snippet": {
+          "publishedAt": "2026-10-03T03:39:15Z",
+          "channelId": "UCJE-zWomzWVH01sLvgTSWXw",
+          "title": "Những câu chuyện của tiểu bánh bao đáng yêu tập 413 #tieubanhbao #hoathinhtrungquoc",
+          "description": "Những câu chuyện của tiểu bánh bao đáng yêu tập 413",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xaFjuWXJGlU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xaFjuWXJGlU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xaFjuWXJGlU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xaFjuWXJGlU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xaFjuWXJGlU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Xàm Xinh",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Những câu chuyện của tiểu bánh bao đáng yêu tập 413 #tieubanhbao #hoathinhtrungquoc",
+            "description": "Những câu chuyện của tiểu bánh bao đáng yêu tập 413"
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT1M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "840458",
+          "likeCount": "7179",
+          "favoriteCount": "0",
+          "commentCount": "18"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "wlZVspT7oPLprF3W0IOZIaiCKKM",
+        "id": "O2kbUVfPYkM",
+        "snippet": {
+          "publishedAt": "2026-10-05T12:30:09Z",
+          "channelId": "UCU4aJXkGRSORYUbjFFe8V-w",
+          "title": "Trò đùa xe máy hài hước của Hai Ông cháu😂#shorts",
+          "description": "Một trò đùa với chiếc xe máy khiến Hai Ông Cháu có một phen cười nghiêng ngả! 😂🏍️🤣 Chỉ là một màn trêu chọc vui nhộn nhưng lại tạo ra những tình huống bất ngờ khiến ai xem cũng phải bật cười. Liệu Ông Nội sẽ phản ứng thế nào trước trò đùa này? Cùng xem đến cuối nhé! 🤗🥰❤️\n\n#shorts #HaiÔngCháu #ÔngNội #CháuTrai #TròĐùa #HàiHước #VuiNhộn #Funny",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O2kbUVfPYkM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O2kbUVfPYkM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O2kbUVfPYkM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/O2kbUVfPYkM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/O2kbUVfPYkM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "hoang quach",
+          "tags": [
+            "Cậu bé tốt bụng khi có người anh tốt #shorts",
+            "người chị tốt bụng",
+            "tippi tv",
+            "cô bé tốt bụng",
+            "bột ớt",
+            "ớt cay sự kết hợp hoàn hảo #shorts",
+            "Cậu bé tốt bụng ổn",
+            "đừng lo lắng 💉😮 #shorts",
+            "Ông nội đã chọn chiếc bánh sinh nhật nhỏ và tặng cho chàng trai một món quà bất ngờ to đùng. #shorts",
+            "Món Quà Bất Ngờ Cho ÔNG NỘI🎁😱#shorts",
+            "Kế hoạch hãm hại Ông Nội không thành công 🤪🤣🤗🥰#shorts",
+            "Kế hoạch hãm hại Hai Ông cháu không thành công 🤪🤣🤗🥰#shorts",
+            "Trò đùa xe máy hài hước của Hai Ông cháu😂#shorts"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Trò đùa xe máy hài hước của Hai Ông cháu😂#shorts",
+            "description": "Một trò đùa với chiếc xe máy khiến Hai Ông Cháu có một phen cười nghiêng ngả! 😂🏍️🤣 Chỉ là một màn trêu chọc vui nhộn nhưng lại tạo ra những tình huống bất ngờ khiến ai xem cũng phải bật cười. Liệu Ông Nội sẽ phản ứng thế nào trước trò đùa này? Cùng xem đến cuối nhé! 🤗🥰❤️\n\n#shorts #HaiÔngCháu #ÔngNội #CháuTrai #TròĐùa #HàiHước #VuiNhộn #Funny"
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "670348",
+          "likeCount": "2752",
+          "favoriteCount": "0",
+          "commentCount": "10"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "6iPzc8Jlrq9NWSCKRSMbbvP2Qgs",
+        "id": "S9tY4BJArOU",
+        "snippet": {
+          "publishedAt": "2026-10-02T04:00:04Z",
+          "channelId": "UCqKxeytpHnwpsLKUklSG_OQ",
+          "title": "Điển Điển đến chơi nhà Cách Cách #haihuoc",
+          "description": "Điển Điển đến chơi nhà Cách Cách #haihuoc",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/S9tY4BJArOU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/S9tY4BJArOU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/S9tY4BJArOU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/S9tY4BJArOU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/S9tY4BJArOU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bóng Đèn Ham Học",
+          "tags": [
+            "tri thức",
+            "kiến thức mỗi ngày",
+            "kiến thức hay",
+            "tốt hơn mỗi ngày",
+            "tot hon moi ngay",
+            "học hỏi mỗi ngày",
+            "hoc hoi moi ngay",
+            "bóng đèn ham học",
+            "bong den ham hoc"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Điển Điển đến chơi nhà Cách Cách #haihuoc",
+            "description": "Điển Điển đến chơi nhà Cách Cách #haihuoc"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1148313",
+          "likeCount": "24109",
+          "favoriteCount": "0",
+          "commentCount": "63"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "wZtWzZYFO79ijUKVB3djE7z_yQg",
+        "id": "5dMW0UbpjDw",
+        "snippet": {
+          "publishedAt": "2026-10-03T05:20:39Z",
+          "channelId": "UCPjARGU8LMlbMJsy_Fl9bbw",
+          "title": "Hoán đổi linh hồn với crush | Tuổi học trò 🤣🤣 #shorts #haihuoc #funny #giaitri #haihuocvuinhon",
+          "description": "cauchuyenynghia,moingaymotchut,động lực,dong luc,giá trị cuộc sống,gia tri cuoc song,song tich cuc,sống tích cực,clip ý nghĩa,clip y nghia,tich cuc,hài hước,tin giải trí,video giải trí,tin mới,tin hài hước,video hài hước,khoảnh khắc vui nhộn,kienthucthuvi,trung quốc hài,cặp đôi,hài hước vui nhộn,thuyết minh,lồng tiếng,kiến thức hay,học hỏi mỗi ngày,tri thức cuộc sống,tri thức mỗi ngày,tốt hơn mỗi ngày,vui nhộn,hài,review phim,khoa học vui,khoa học thú vị,kiến thức thú vị,kiến thức khoa học,bạn có biết,kiến thức,khoa hoc,thú vị,công nghệ thú vị,top 10 thú vị,top thu vi,kham pha,khám phá thế giới,clip ngắn ý nghĩa,kiến thức mỗi ngày,tot hon moi ngay,hoc hoi moi ngay,hài hước và giải trí,giải trí hài hước,review giải trí,giải trí,kttv,kien thuc thu vi,khoa học,câu chuyện ý nghĩa,khoảnh khắc chạm đến trái tim,khoanh khac,videos ngắn ý nghĩa,video ngan y nghia,nhân văn,quà tặng cuộc sống,qua tang cuoc song,tích cực,nhan van,review những câu chuyện ý nghĩa,câu chuyện thú vị,khám phá,tin tức mới,bảng tin mới,bảng tin hot,tin tức hot,tin tức hàng đầu,tin tức hôm nay,bảng tin hôm nay,tin tức mới nhất,tin tức,tri thức,hài hươc,reviewphim,reviewphimhay,hài trung quốc,thử thách,khoảnh khắc,tình yêu,hai huoc,chơi khăm,choi kham,tình huống vui nhộn,tinh huong vui nhon,buồn cười,buon cuoi,thu thach,khoảnh khắc hài hước,khoảnh khắc vô tri,tổng hợp hài hước,vô tri,genz,giaitri,giải trí ý nghĩa,sự thật thú vị,ngôn tình,troll,khám phá thú vị,hai moi,phim hai,clip hai,ý nghĩa,giải trí,tình huống hài hước,phim ngắn hay,meme hài,tin tức hài hước,ý nghĩa,video hài,video trung quốc,mỗi ngày một chút,giangkhongngu,takhongngu,giangcuman,tiểu thạch review,tieu thach review,mỗi ngày một hài,duongbiettuot,dương biết tuốt,kiến thức thú vị có thể bạn chưa biết,có thể bạn chưa biết,tin nhanh 3 phút,tin 3 phút,tin 3 phút hài,tin 5s,tb trend,taphoanguoiluoi,tạp hóa người lười,lão nạp,bóng đèn ham học,gautrucreaction,gấu trúc review,gau truc review,gấu trúc reaction,gấu trúc,bietthemmotchut,reivew,mê lướt,giang cư mận,tin nhanh,mê mò mẫm,tin vịt,hung bac hoc,hùng bác học,moi ngay mot chut,tin 1 phút,bong den ham hoc,guatrucreaction,mạnh mới mẻ,vy bánh báo,tin nhanh 3 phút official,tin 3 phút official,tin hài 3 phút,tin tức 3 phút,3 phút tin,tin 3 phut,tin nóng,hai,haivl,gio_dong_lao,vui,hai tet,hai hay,hai 2026,hai kich,hai vl,hai 79,xem hai,hai xua,hai vtv,anh hai,hai van son,khoai coi hai,show hai,hai viet,hai vui ve,video hai,phim hai tet,gió đông lào,bản tin không ngờ,thử thách miễn phí,gặp cao thủ,clip hài,cười vỡ bụng,hài tiktok,hậu trường hài hước,quyen qua,quyên quạ,cheems,vuive,haihuoc,my cây hài,vy bánh bao,tri thức vui vẻ,điều thú vị cần biết,câu chuyện truyền cảm hứng,kiến thức giải trí,kiến thức vui,điều kỳ lạ,sự thật thú vị mỗi ngày,khám phá điều kỳ lạ,kiến thức vui hằng ngày,giải trí bổ ích,những điều bạn chưa biết,khám phá thế giới kỳ thú,sự thật bất ngờ,thông tin thú vị,hổ ham học,ho ham hoc,hohamhoc,mắt kính cận,bien tv,ta không ngủ,ham ăn cô nương,1 tuần chỉ dỗi 7 ngày,kẻ gáo,hai my nè!,tạp hoá mei mei,tuấn tếu táo,em dũng nè,ăn gì đâyyy,cheems nhạt nhẽo,an gi dayyy,hài  hước,anh huy thích nấu ăn,kiến thức bổ ích,tô tin tức,cô nàng nhà bên,hai my nè,ace short – pro,chuyện chị em,khanhtrungsi,tin tức 24h,hoàng reaction,xinh lên cùng sứa,bạn xem chưa,ngộ radio,ngo radio,tin ngắn,tin hài,ngoradio.\n---------------------------------------------------------------------------------------------------------------------\n#shorts #funny #haihuoc #funnyshorts #khoảnhkhắcvuinhộn #troll #hàihước #kienthucthuvi #kynangsongvui #giảitrí #short #hanhphuc #giaitri #tichcuc #dongluc #ynghiacuocsong #quatangcuocsong #kienthuc #tintuc #thuthach #kienthuchay #khoahoc #vuinhon #xuhuong #moingaymotchut #nhânvăn #khampha #thinghiemkhoahoc #thegioiquanhta #duongbiettuot #suthat #cothebanchuabiet #suthatkhotin #tin3phut #tb #BienTV #congkienthuc #Gautrucreaction #meluot #hoangreaction #hungbachoc #tinnhanh3phut #giodonglao #gio_dong_lao #bantinkhongngo #takhongngu #laonap #Angidayyy",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5dMW0UbpjDw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5dMW0UbpjDw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5dMW0UbpjDw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5dMW0UbpjDw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5dMW0UbpjDw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Vịt Không Ngờ",
+          "tags": [
+            "Mạnh Mới Mẻ",
+            "Vy Bánh Bao",
+            "TIN NHANH 3 PHÚT",
+            "Mắt kính cận",
+            "BIEN TV",
+            "Kẻ Gáo",
+            "Gió Đông Lào",
+            "Bản Tin Không Ngờ",
+            "Hai My Nè!",
+            "Ta Không Ngủ",
+            "Tạp Hoá Mei Mei",
+            "Ham Ăn Cô Nương",
+            "Lão Nạp",
+            "Tuấn Tếu Táo",
+            "Quyên Quạ",
+            "1 tuần chỉ dỗi 7 ngày",
+            "Em Dũng Nè",
+            "Cheems Nhạt Nhẽo",
+            "Mỗi Ngày Một Hài",
+            "Bóng Đèn Ham Học",
+            "Hổ Ham Học",
+            "Chuyện Chị Em",
+            "Ace short – pro",
+            "Ngộ Radio",
+            "Anh Huy Thích Nấu Ăn",
+            "Mỗi Ngày Một Chút",
+            "Ăn gì đâyyy",
+            "Giang Cư Mận",
+            "Mê Mò MẫM",
+            "Có thể bạn chưa biết",
+            "Mê Lướt",
+            "thuyết minh"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Hoán đổi linh hồn với crush | Tuổi học trò 🤣🤣 #shorts #haihuoc #funny #giaitri #haihuocvuinhon",
+            "description": "cauchuyenynghia,moingaymotchut,động lực,dong luc,giá trị cuộc sống,gia tri cuoc song,song tich cuc,sống tích cực,clip ý nghĩa,clip y nghia,tich cuc,hài hước,tin giải trí,video giải trí,tin mới,tin hài hước,video hài hước,khoảnh khắc vui nhộn,kienthucthuvi,trung quốc hài,cặp đôi,hài hước vui nhộn,thuyết minh,lồng tiếng,kiến thức hay,học hỏi mỗi ngày,tri thức cuộc sống,tri thức mỗi ngày,tốt hơn mỗi ngày,vui nhộn,hài,review phim,khoa học vui,khoa học thú vị,kiến thức thú vị,kiến thức khoa học,bạn có biết,kiến thức,khoa hoc,thú vị,công nghệ thú vị,top 10 thú vị,top thu vi,kham pha,khám phá thế giới,clip ngắn ý nghĩa,kiến thức mỗi ngày,tot hon moi ngay,hoc hoi moi ngay,hài hước và giải trí,giải trí hài hước,review giải trí,giải trí,kttv,kien thuc thu vi,khoa học,câu chuyện ý nghĩa,khoảnh khắc chạm đến trái tim,khoanh khac,videos ngắn ý nghĩa,video ngan y nghia,nhân văn,quà tặng cuộc sống,qua tang cuoc song,tích cực,nhan van,review những câu chuyện ý nghĩa,câu chuyện thú vị,khám phá,tin tức mới,bảng tin mới,bảng tin hot,tin tức hot,tin tức hàng đầu,tin tức hôm nay,bảng tin hôm nay,tin tức mới nhất,tin tức,tri thức,hài hươc,reviewphim,reviewphimhay,hài trung quốc,thử thách,khoảnh khắc,tình yêu,hai huoc,chơi khăm,choi kham,tình huống vui nhộn,tinh huong vui nhon,buồn cười,buon cuoi,thu thach,khoảnh khắc hài hước,khoảnh khắc vô tri,tổng hợp hài hước,vô tri,genz,giaitri,giải trí ý nghĩa,sự thật thú vị,ngôn tình,troll,khám phá thú vị,hai moi,phim hai,clip hai,ý nghĩa,giải trí,tình huống hài hước,phim ngắn hay,meme hài,tin tức hài hước,ý nghĩa,video hài,video trung quốc,mỗi ngày một chút,giangkhongngu,takhongngu,giangcuman,tiểu thạch review,tieu thach review,mỗi ngày một hài,duongbiettuot,dương biết tuốt,kiến thức thú vị có thể bạn chưa biết,có thể bạn chưa biết,tin nhanh 3 phút,tin 3 phút,tin 3 phút hài,tin 5s,tb trend,taphoanguoiluoi,tạp hóa người lười,lão nạp,bóng đèn ham học,gautrucreaction,gấu trúc review,gau truc review,gấu trúc reaction,gấu trúc,bietthemmotchut,reivew,mê lướt,giang cư mận,tin nhanh,mê mò mẫm,tin vịt,hung bac hoc,hùng bác học,moi ngay mot chut,tin 1 phút,bong den ham hoc,guatrucreaction,mạnh mới mẻ,vy bánh báo,tin nhanh 3 phút official,tin 3 phút official,tin hài 3 phút,tin tức 3 phút,3 phút tin,tin 3 phut,tin nóng,hai,haivl,gio_dong_lao,vui,hai tet,hai hay,hai 2026,hai kich,hai vl,hai 79,xem hai,hai xua,hai vtv,anh hai,hai van son,khoai coi hai,show hai,hai viet,hai vui ve,video hai,phim hai tet,gió đông lào,bản tin không ngờ,thử thách miễn phí,gặp cao thủ,clip hài,cười vỡ bụng,hài tiktok,hậu trường hài hước,quyen qua,quyên quạ,cheems,vuive,haihuoc,my cây hài,vy bánh bao,tri thức vui vẻ,điều thú vị cần biết,câu chuyện truyền cảm hứng,kiến thức giải trí,kiến thức vui,điều kỳ lạ,sự thật thú vị mỗi ngày,khám phá điều kỳ lạ,kiến thức vui hằng ngày,giải trí bổ ích,những điều bạn chưa biết,khám phá thế giới kỳ thú,sự thật bất ngờ,thông tin thú vị,hổ ham học,ho ham hoc,hohamhoc,mắt kính cận,bien tv,ta không ngủ,ham ăn cô nương,1 tuần chỉ dỗi 7 ngày,kẻ gáo,hai my nè!,tạp hoá mei mei,tuấn tếu táo,em dũng nè,ăn gì đâyyy,cheems nhạt nhẽo,an gi dayyy,hài  hước,anh huy thích nấu ăn,kiến thức bổ ích,tô tin tức,cô nàng nhà bên,hai my nè,ace short – pro,chuyện chị em,khanhtrungsi,tin tức 24h,hoàng reaction,xinh lên cùng sứa,bạn xem chưa,ngộ radio,ngo radio,tin ngắn,tin hài,ngoradio.\n---------------------------------------------------------------------------------------------------------------------\n#shorts #funny #haihuoc #funnyshorts #khoảnhkhắcvuinhộn #troll #hàihước #kienthucthuvi #kynangsongvui #giảitrí #short #hanhphuc #giaitri #tichcuc #dongluc #ynghiacuocsong #quatangcuocsong #kienthuc #tintuc #thuthach #kienthuchay #khoahoc #vuinhon #xuhuong #moingaymotchut #nhânvăn #khampha #thinghiemkhoahoc #thegioiquanhta #duongbiettuot #suthat #cothebanchuabiet #suthatkhotin #tin3phut #tb #BienTV #congkienthuc #Gautrucreaction #meluot #hoangreaction #hungbachoc #tinnhanh3phut #giodonglao #gio_dong_lao #bantinkhongngo #takhongngu #laonap #Angidayyy"
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT1M24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "655108",
+          "likeCount": "13990",
+          "favoriteCount": "0",
+          "commentCount": "28"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "cBVnXdVQ0gMrpV9_acX7QtQRi2A",
+        "id": "2q1-uCZKpgM",
+        "snippet": {
+          "publishedAt": "2026-10-08T12:02:53Z",
+          "channelId": "UCZzjvZhUzXnkMsWxkdnXPuQ",
+          "title": "Cô Bé Đáng Thương #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2q1-uCZKpgM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2q1-uCZKpgM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2q1-uCZKpgM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2q1-uCZKpgM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2q1-uCZKpgM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tuyền và Shine",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Cô Bé Đáng Thương #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "186874",
+          "likeCount": "1155",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "kUZlsua6FKIqiorKMqgP67N2org",
+        "id": "LBgCFuZpZpc",
+        "snippet": {
+          "publishedAt": "2026-09-30T13:45:01Z",
+          "channelId": "UCXW-D3rXi49llgBWjGB5ABA",
+          "title": "Phi lý và xàm xí P699 - Sự thật về loài chim \"bác sĩ\" trên lưng hươu cao cổ #hoathinh #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LBgCFuZpZpc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LBgCFuZpZpc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LBgCFuZpZpc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LBgCFuZpZpc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/LBgCFuZpZpc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mê Cát Tun",
+          "tags": [
+            "hoạt hình",
+            "phim hoạt hình",
+            "hoạt hình thiếu nhi",
+            "hoạt hình vui nhộn",
+            "hoạt hình giải trí",
+            "hoạt hình cho bé",
+            "hoạt hình học tập",
+            "hoạt hình hài hước",
+            "hoạt hình lồng tiếng",
+            "hoạt hình trẻ em",
+            "anime"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Phi lý và xàm xí P699 - Sự thật về loài chim \"bác sĩ\" trên lưng hươu cao cổ #hoathinh #shorts",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1048494",
+          "likeCount": "3878",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "clrDB72Je5iNIjxmBATLRHfhaS0",
+        "id": "YKi39pV53yk",
+        "snippet": {
+          "publishedAt": "2026-10-06T13:27:18Z",
+          "channelId": "UCfxbE4_BAlry2GFoNLDXPRA",
+          "title": "MÙA HÈ NĂM ẤY tập 26 | Phương sốc nặng khi biết bí mật năm xưa, bà Ngọc bẽ bàng vì đã khinh rẻ Khánh",
+          "description": "MÙA HÈ NĂM ẤY tập 26 | Phương sốc nặng khi biết bí mật năm xưa, bà Ngọc bẽ bàng vì đã khinh rẻ Khánh\n\n----------------------------------------------------\n► Lửa trắng: youtube.com/watch?v=medyhUFnm2o&list=PLV7jqxmOK0mg&pp=sAgC\n► Phía bên kia thành phố: https://www.youtube.com/watch?v=0jvqjDuO1Gs&list=PLm8YCCTGZf4Wgllzbu5DncBRuMd_xYucm\n► Dưới ô cửa sáng đèn: https://www.youtube.com/watch?v=k1mmkcs6STk&list=PLm8YCCTGZf4WgHEsWfFW93KVoJJgJBF7V\n\n► Đồng hồ đếm ngược: https://www.youtube.com/watch?v=35Dx_8o7hvE&list=PLm8YCCTGZf4Xa7XZXdSfcuPD7E_-0VZmT\n► Không giới hạn: https://www.youtube.com/watch?v=vlBk9p7s2T8&list=PLm8YCCTGZf4Xy7yXG4HxY1XRcjl7jvLqJ\n► Bước chân vào đời: https://www.youtube.com/watch?v=vtPK19v6Ank&list=PLm8YCCTGZf4UqW766uMxOedfWh-CvtMtV\n\n► LẰN RANH: https://www.youtube.com/watch?v=RpAPn3BciIs&list=PLm8YCCTGZf4XLDeK3Mh_v1oV7ILRDqhGk\n► Cách em 1 milimet: https://www.youtube.com/playlist?list=PLm8YCCTGZf4V-4LTZA9ZMPUqLBmqYepcj\n► Gia đình trái dấu: https://www.youtube.com/playlist?list=PLm8YCCTGZf4WYDKQKC8GwP-u1FzPT-Xtf\n\n► Dịu dàng màu nắng: https://www.youtube.com/playlist?list=PLm8YCCTGZf4WdFE2J3PM2570Le4KyyDNO\n\n\n► ĐỘC ĐẠO: https://www.youtube.com/watch?v=ybZmOTDdyEQ&list=PLm8YCCTGZf4W7Ie18oUHUcVD46e_3OqGR\n► KHÔNG THỜI GIAN: https://www.youtube.com/watch?v=jE6KHZrUfIE&list=PLm8YCCTGZf4WONIbAlIXzp2NN1d_YBUxk\n► LỰA CHỌN SỐ PHẬN: https://www.youtube.com/watch?v=KIUsnnWpKek&list=PLm8YCCTGZf4WZZklueMkNTRJGOQSc9l7v\n► LẶNG YÊN DƯỚI VỰC SÂU: https://www.youtube.com/watch?v=uND2-OxB9RE&list=PLm8YCCTGZf4VKw8M9jVEXz2k88_a_00Eo&index=1\n\nẤn Đăng ký ngay để nhận thông báo những chương trình mới và hay nhất: https://goo.gl/XUJuqj \n► Xem thêm nội dung giải trí nổi bật VTV Go: https://goo.gl/XUJuqj \n► Link tải ứng dụng VTVGo: https://vtvgo.vn/apps\n►Xem toàn bộ các chương trình của Đài Truyền hình Việt Nam tại #VTVGO\nhttps://vtvgo.vn\n\n#muahenamay\n#VTVGo #VTVDigital \n#phimvtv \n#phimvtvmớinhất\n#phimvtvhaynhất\n#phimtruyềnhìnhvtvhaynhất\n#phimtruyềnhìnhvtvmớinhất2026\n#phimtìnhcảm\n#phimtìnhcảmvtv\n#phimtìnhcảmvtvmớinhất2026\n\n© Bản quyền thuộc về VTV - Đài Truyền Hình Việt Nam - Quý khán giả thưởng thức phim vui lòng không đăng tải lại dưới bất kỳ hình thức nào!\n© Copyright by VTV Go  ☞ Do not Reup!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YKi39pV53yk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YKi39pV53yk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YKi39pV53yk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YKi39pV53yk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YKi39pV53yk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            "fhd": {
+              "url": "https://i.ytimg.com/vi/YKi39pV53yk/fhddefault.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "channelTitle": "VTV Go",
+          "tags": [
+            "vtv",
+            "vtv go",
+            "phim vtv",
+            "phim vtv mới nhất",
+            "phim vtv hay nhất",
+            "phim vtv mới hay nhất",
+            "phim truyền hình vtv",
+            "phim truyền hình việt nam",
+            "phim truyền hình vtv mới nhất",
+            "phim tình cảm",
+            "phim tình cảm vtv",
+            "phim tình cảm vtv hay",
+            "phim tình cảm vtv hay nhất",
+            "phim tâm lý xã hội",
+            "phim tâm lý xã hội việt nam",
+            "phim học đường việt nam",
+            "phim tình cảm học trò",
+            "mùa hè năm ấy",
+            "long vũ vân dung",
+            "long vũ mùa hè năm ấy",
+            "thu mít",
+            "tô dũng",
+            "lưu ly mùa hè năm ấy",
+            "trọng lân",
+            "mùa hè năm ấy tập 26"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "MÙA HÈ NĂM ẤY tập 26 | Phương sốc nặng khi biết bí mật năm xưa, bà Ngọc bẽ bàng vì đã khinh rẻ Khánh",
+            "description": "MÙA HÈ NĂM ẤY tập 26 | Phương sốc nặng khi biết bí mật năm xưa, bà Ngọc bẽ bàng vì đã khinh rẻ Khánh\n\n----------------------------------------------------\n► Lửa trắng: youtube.com/watch?v=medyhUFnm2o&list=PLV7jqxmOK0mg&pp=sAgC\n► Phía bên kia thành phố: https://www.youtube.com/watch?v=0jvqjDuO1Gs&list=PLm8YCCTGZf4Wgllzbu5DncBRuMd_xYucm\n► Dưới ô cửa sáng đèn: https://www.youtube.com/watch?v=k1mmkcs6STk&list=PLm8YCCTGZf4WgHEsWfFW93KVoJJgJBF7V\n\n► Đồng hồ đếm ngược: https://www.youtube.com/watch?v=35Dx_8o7hvE&list=PLm8YCCTGZf4Xa7XZXdSfcuPD7E_-0VZmT\n► Không giới hạn: https://www.youtube.com/watch?v=vlBk9p7s2T8&list=PLm8YCCTGZf4Xy7yXG4HxY1XRcjl7jvLqJ\n► Bước chân vào đời: https://www.youtube.com/watch?v=vtPK19v6Ank&list=PLm8YCCTGZf4UqW766uMxOedfWh-CvtMtV\n\n► LẰN RANH: https://www.youtube.com/watch?v=RpAPn3BciIs&list=PLm8YCCTGZf4XLDeK3Mh_v1oV7ILRDqhGk\n► Cách em 1 milimet: https://www.youtube.com/playlist?list=PLm8YCCTGZf4V-4LTZA9ZMPUqLBmqYepcj\n► Gia đình trái dấu: https://www.youtube.com/playlist?list=PLm8YCCTGZf4WYDKQKC8GwP-u1FzPT-Xtf\n\n► Dịu dàng màu nắng: https://www.youtube.com/playlist?list=PLm8YCCTGZf4WdFE2J3PM2570Le4KyyDNO\n\n\n► ĐỘC ĐẠO: https://www.youtube.com/watch?v=ybZmOTDdyEQ&list=PLm8YCCTGZf4W7Ie18oUHUcVD46e_3OqGR\n► KHÔNG THỜI GIAN: https://www.youtube.com/watch?v=jE6KHZrUfIE&list=PLm8YCCTGZf4WONIbAlIXzp2NN1d_YBUxk\n► LỰA CHỌN SỐ PHẬN: https://www.youtube.com/watch?v=KIUsnnWpKek&list=PLm8YCCTGZf4WZZklueMkNTRJGOQSc9l7v\n► LẶNG YÊN DƯỚI VỰC SÂU: https://www.youtube.com/watch?v=uND2-OxB9RE&list=PLm8YCCTGZf4VKw8M9jVEXz2k88_a_00Eo&index=1\n\nẤn Đăng ký ngay để nhận thông báo những chương trình mới và hay nhất: https://goo.gl/XUJuqj \n► Xem thêm nội dung giải trí nổi bật VTV Go: https://goo.gl/XUJuqj \n► Link tải ứng dụng VTVGo: https://vtvgo.vn/apps\n►Xem toàn bộ các chương trình của Đài Truyền hình Việt Nam tại #VTVGO\nhttps://vtvgo.vn\n\n#muahenamay\n#VTVGo #VTVDigital \n#phimvtv \n#phimvtvmớinhất\n#phimvtvhaynhất\n#phimtruyềnhìnhvtvhaynhất\n#phimtruyềnhìnhvtvmớinhất2026\n#phimtìnhcảm\n#phimtìnhcảmvtv\n#phimtìnhcảmvtvmớinhất2026\n\n© Bản quyền thuộc về VTV - Đài Truyền Hình Việt Nam - Quý khán giả thưởng thức phim vui lòng không đăng tải lại dưới bất kỳ hình thức nào!\n© Copyright by VTV Go  ☞ Do not Reup!"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT10M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "244282",
+          "likeCount": "951",
+          "favoriteCount": "0",
+          "commentCount": "146"
+        },
+        "liveStreamingDetails": {
+          "actualStartTime": "2026-10-06T13:27:18Z",
+          "actualEndTime": "2026-10-06T13:39:27Z",
+          "scheduledStartTime": "2026-10-06T13:27:00Z"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "sgo-6xyfTwZVHXotLSSoCYbJuE8",
+        "id": "5rsvNvQeEqw",
+        "snippet": {
+          "publishedAt": "2026-10-08T11:00:27Z",
+          "channelId": "UCBzSHtqdkL66rD7nXaahT5Q",
+          "title": "nghiện dùng điện thoại và cái kết Phần 2 #haihuoc #funny #giaitri #vuinhon #hai",
+          "description": "🎬Video này là một tình huống hài được dàn dựng với mục đích giải trí.\nTất cả nhân vật và nội dung trong video chỉ là diễn xuất theo kịch bản.\n\nVideo không nhằm cổ vũ hoặc khuyến khích học sinh có những hành vi tương tự ngoài đời thực.\nNgười xem vui lòng không bắt chước dưới mọi hình thức.\n\nNếu bạn thấy video thú vị hãy ủng hộ kênh bằng cách Like và Subscribe để xem thêm nhiều nội dung giải trí khác.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5rsvNvQeEqw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5rsvNvQeEqw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5rsvNvQeEqw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5rsvNvQeEqw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5rsvNvQeEqw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CƯỜI CÙNG MẠNH",
+          "tags": [
+            "#cuoicungmanh"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "nghiện dùng điện thoại và cái kết Phần 2 #haihuoc #funny #giaitri #vuinhon #hai",
+            "description": "🎬Video này là một tình huống hài được dàn dựng với mục đích giải trí.\nTất cả nhân vật và nội dung trong video chỉ là diễn xuất theo kịch bản.\n\nVideo không nhằm cổ vũ hoặc khuyến khích học sinh có những hành vi tương tự ngoài đời thực.\nNgười xem vui lòng không bắt chước dưới mọi hình thức.\n\nNếu bạn thấy video thú vị hãy ủng hộ kênh bằng cách Like và Subscribe để xem thêm nhiều nội dung giải trí khác."
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT1M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "210159",
+          "likeCount": "1888",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "c_AeqbLMr11Ij-rkoUxpAVN9fYc",
+        "id": "wnZAgD4sLRE",
+        "snippet": {
+          "publishedAt": "2026-10-05T09:39:15Z",
+          "channelId": "UCY1pfWMWkayv1FGrKlYi5NQ",
+          "title": "Người được chào đón nhất trong tò ( p6)| Bear vui vẻ #shorts",
+          "description": "Video hài hước ngắn về tình huống đời sống, học đường, khoảnh khắc mặn mà hài dón cực vui nhộn.\n\nĐừng quên Like, Comment và Subscribe để xem thêm nhiều video hài mới nhất.\n\n#shorts\n#haihuoc\n#giaitri\n#funny\n#comedy\n#schoollife\n#Bear vui vẻ",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wnZAgD4sLRE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wnZAgD4sLRE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wnZAgD4sLRE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wnZAgD4sLRE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wnZAgD4sLRE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bear vui vẻ",
+          "tags": [
+            "hài mỗi ngày",
+            "cười mỗi ngày",
+            "tiểu phẩm hài",
+            "hài hước",
+            "hài video ngắn",
+            "truyện cười",
+            "giải trí",
+            "funny video",
+            "comedy shorts",
+            "short drama",
+            "khoảnh khắc hài hước",
+            "mẩu chuyện hài hước",
+            "Bear vui vẻ"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Người được chào đón nhất trong tò ( p6)| Bear vui vẻ #shorts",
+            "description": "Video hài hước ngắn về tình huống đời sống, học đường, khoảnh khắc mặn mà hài dón cực vui nhộn.\n\nĐừng quên Like, Comment và Subscribe để xem thêm nhiều video hài mới nhất.\n\n#shorts\n#haihuoc\n#giaitri\n#funny\n#comedy\n#schoollife\n#Bear vui vẻ"
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT1M8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "465526",
+          "likeCount": "10004",
+          "favoriteCount": "0",
+          "commentCount": "34"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "02PcMQtgF-FcDcToOBJv0myFI8A",
+        "id": "rr0twMogf9Q",
+        "snippet": {
+          "publishedAt": "2026-10-02T03:30:08Z",
+          "channelId": "UCNDn-Am6dHqnoI2bgquTzlw",
+          "title": "We Are Not Ready For This... 😭💔 #demonslayer #shorts #anime #animeedit #trending #viral #kny #obanai",
+          "description": "We Are Not Ready For This... 😭💔 #demonslayer #shorts #anime #animeedit #trending #viral #kny #tanjiro #kimetsunoyaiba #mitsuri #obanai #fyp #fypシ #fypシ゚viral #shortsfeed #foryou\n\n\n\nHashtags:- \n#demonslayer #anime #kimetsunoyaiba #tanjiro #mitsuri #obanai\n\nCredits\nAll credit goes to the original creators and rightful owners of the content used in this video.\nThis video is made purely for educational and entertainment purposes.\n\n© Copyright Disclaimer: - \nUnder section 107 of the copyright Act 1976, allowance is mad for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favor of FAIR USE.\n\nI have no rights on the background music! \nI have no rights on the anime images!\nCopyright:  TV Tokyo Corporation\n-All of the images and music are under the use of fair use!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rr0twMogf9Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rr0twMogf9Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rr0twMogf9Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rr0twMogf9Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rr0twMogf9Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CRIMSON EDITZ",
+          "tags": [
+            "#demonslayer",
+            "#shorts",
+            "#anime",
+            "#animeedit",
+            "#trending",
+            "#viral",
+            "#kny",
+            "#tanjiro",
+            "#kimetsunoyaiba",
+            "#mitsuri",
+            "#obanai",
+            "#fyp",
+            "#fypシ",
+            "#fypシ゚viral",
+            "#shortsfeed",
+            "#foryou"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "We Are Not Ready For This... 😭💔 #demonslayer #shorts #anime #animeedit #trending #viral #kny #obanai",
+            "description": "We Are Not Ready For This... 😭💔 #demonslayer #shorts #anime #animeedit #trending #viral #kny #tanjiro #kimetsunoyaiba #mitsuri #obanai #fyp #fypシ #fypシ゚viral #shortsfeed #foryou\n\n\n\nHashtags:- \n#demonslayer #anime #kimetsunoyaiba #tanjiro #mitsuri #obanai\n\nCredits\nAll credit goes to the original creators and rightful owners of the content used in this video.\nThis video is made purely for educational and entertainment purposes.\n\n© Copyright Disclaimer: - \nUnder section 107 of the copyright Act 1976, allowance is mad for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favor of FAIR USE.\n\nI have no rights on the background music! \nI have no rights on the anime images!\nCopyright:  TV Tokyo Corporation\n-All of the images and music are under the use of fair use!"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3109954",
+          "favoriteCount": "0",
+          "commentCount": "1064"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ulGO_QtSLbut_9Q9Km8p_1bHJr8",
+        "id": "p55DtGRp9Rg",
+        "snippet": {
+          "publishedAt": "2026-10-03T04:00:28Z",
+          "channelId": "UC_sXkPydOtcJQQrGMCugxMQ",
+          "title": "Những kiến thức hữu ích ~855  | Quy Rì Viu",
+          "description": "#shorts #reviewphim #reviewphimhoathinh #animation\n---------------------------------------------------------------------------\nChào mừng đến với Quy Review, thiên đường của những người yêu thích phim hoạt hình! Tại đây, chúng ta cùng khám phá sâu sắc về những bộ anime và cartoon đình đám như Doraemon, Pokemon và nhiều hơn thế nữa. Cùng Quy Review phân tích từng nhân vật, cốt truyện, và tác động của những bộ phim này đến văn hóa đại chúng nhé!\n\n----------------------------------------------------------------------------\nWelcome to Quy Review, your one-stop destination for in-depth reviews and analyses of your favorite animated series! From classic adventures of Doraemon to the exciting battles of Pokemon, we cover it all. Join us as we delve into the world of animation, exploring characters, storylines, and the impact these shows have on pop culture.\n----------------------------------------------------------------------------\n#quyriviu",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p55DtGRp9Rg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p55DtGRp9Rg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p55DtGRp9Rg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/p55DtGRp9Rg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/p55DtGRp9Rg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Quy Rì Viu",
+          "tags": [
+            "Quy Rì Viu",
+            "Quy Rì Viu review",
+            "riviuphim",
+            "review phim"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Những kiến thức hữu ích ~855  | Quy Rì Viu",
+            "description": "#shorts #reviewphim #reviewphimhoathinh #animation\n---------------------------------------------------------------------------\nChào mừng đến với Quy Review, thiên đường của những người yêu thích phim hoạt hình! Tại đây, chúng ta cùng khám phá sâu sắc về những bộ anime và cartoon đình đám như Doraemon, Pokemon và nhiều hơn thế nữa. Cùng Quy Review phân tích từng nhân vật, cốt truyện, và tác động của những bộ phim này đến văn hóa đại chúng nhé!\n\n----------------------------------------------------------------------------\nWelcome to Quy Review, your one-stop destination for in-depth reviews and analyses of your favorite animated series! From classic adventures of Doraemon to the exciting battles of Pokemon, we cover it all. Join us as we delve into the world of animation, exploring characters, storylines, and the impact these shows have on pop culture.\n----------------------------------------------------------------------------\n#quyriviu"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "673491",
+          "likeCount": "19060",
+          "favoriteCount": "0",
+          "commentCount": "68"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "bDLfnMzpSp6n1Kwo-erDA-MhyoI",
+        "id": "2vGtMpiwUp4",
+        "snippet": {
+          "publishedAt": "2026-10-07T03:32:48Z",
+          "channelId": "UC1-5Y4MNse9uURoE-qjZOSQ",
+          "title": "Hiện Thực Hoá Suy Nghĩ Có Ngon Không?",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2vGtMpiwUp4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2vGtMpiwUp4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2vGtMpiwUp4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2vGtMpiwUp4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2vGtMpiwUp4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Phê Viễn Tưởng",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Hiện Thực Hoá Suy Nghĩ Có Ngon Không?",
+            "description": ""
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "323113",
+          "likeCount": "12734",
+          "favoriteCount": "0",
+          "commentCount": "797"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-Btom809pkcZx3HBB03WQP3g3gI",
+        "id": "UCZLnT8PQOk",
+        "snippet": {
+          "publishedAt": "2026-10-03T05:38:27Z",
+          "channelId": "UCnbJl3YDZZ0j3g-EjNhSgiw",
+          "title": "Riết rồi nói quài 🙂 #QuangHien #quanghienne #funny #haihuoc #giaitri #vuinhon #thinhhanh #fyp",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UCZLnT8PQOk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UCZLnT8PQOk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UCZLnT8PQOk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UCZLnT8PQOk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UCZLnT8PQOk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Quang Hiền Nè 👋",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Riết rồi nói quài 🙂 #QuangHien #quanghienne #funny #haihuoc #giaitri #vuinhon #thinhhanh #fyp",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "626076",
+          "likeCount": "4422",
+          "favoriteCount": "0",
+          "commentCount": "12"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "k8FIopSSLxfPYR1U-zPs8E3VOJk",
+        "id": "P2-Lptzh21c",
+        "snippet": {
+          "publishedAt": "2026-10-08T03:44:15Z",
+          "channelId": "UCE7ewzp2AX9javlAqEJpS_Q",
+          "title": "Bị số phận ruồng bỏ, anh thức tỉnh khế ước bạch long săn hải sản quý rồi khiến cả làng hối hận",
+          "description": "【TUYÊN BỐ SÁNG TẠO & AN TOÀN / ARTISTIC & SAFETY DISCLOSURE】\n\n🔞 CẢNH BÁO: NỘI DUNG DÀNH CHO KHÁN GIẢ TỪ 18 TUỔI TRỞ LÊN.\n\n🎬 Video là tác phẩm hư cấu phục vụ mục đích nghệ thuật và giải trí. Một số tình tiết có thể mô phỏng săn bắn, sinh tồn, xung đột hoặc bạo lực, không nhằm cổ súy hay khuyến khích các hành vi nguy hiểm.\n\n🛡️ Một số cảnh có nhân vật trẻ vị thành niên trong các tình huống căng thẳng hoặc bạo lực hư cấu. Các cảnh được dàn dựng trong môi trường có kiểm soát và giám sát phù hợp. Vui lòng không bắt chước.\n\n❤️ Like – Subscribe – Comment để theo dõi thêm nhiều bộ phim hấp dẫn tại: https://www.youtube.com/channel/UCE7ewzp2AX9javlAqEJpS_Q\n\n#phimngontinh #phimtìnhcảm #phimtrungquốc #reviewphim #phimngan #tổngtài #tongtaireview #reviewphimhay #reviewtruyentranh #reviewphimtrungquoc #reviewphimxuyenkhong #xuyenkhong\n#reviewphimtrongsinh #phimngandrama #chiếnthần #longtôn #thầny #LongThần\n#hethong #lamgiau #mynhan",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/P2-Lptzh21c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/P2-Lptzh21c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/P2-Lptzh21c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/P2-Lptzh21c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/P2-Lptzh21c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bông Lúa Review",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Bị số phận ruồng bỏ, anh thức tỉnh khế ước bạch long săn hải sản quý rồi khiến cả làng hối hận",
+            "description": "【TUYÊN BỐ SÁNG TẠO & AN TOÀN / ARTISTIC & SAFETY DISCLOSURE】\n\n🔞 CẢNH BÁO: NỘI DUNG DÀNH CHO KHÁN GIẢ TỪ 18 TUỔI TRỞ LÊN.\n\n🎬 Video là tác phẩm hư cấu phục vụ mục đích nghệ thuật và giải trí. Một số tình tiết có thể mô phỏng săn bắn, sinh tồn, xung đột hoặc bạo lực, không nhằm cổ súy hay khuyến khích các hành vi nguy hiểm.\n\n🛡️ Một số cảnh có nhân vật trẻ vị thành niên trong các tình huống căng thẳng hoặc bạo lực hư cấu. Các cảnh được dàn dựng trong môi trường có kiểm soát và giám sát phù hợp. Vui lòng không bắt chước.\n\n❤️ Like – Subscribe – Comment để theo dõi thêm nhiều bộ phim hấp dẫn tại: https://www.youtube.com/channel/UCE7ewzp2AX9javlAqEJpS_Q\n\n#phimngontinh #phimtìnhcảm #phimtrungquốc #reviewphim #phimngan #tổngtài #tongtaireview #reviewphimhay #reviewtruyentranh #reviewphimtrungquoc #reviewphimxuyenkhong #xuyenkhong\n#reviewphimtrongsinh #phimngandrama #chiếnthần #longtôn #thầny #LongThần\n#hethong #lamgiau #mynhan"
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT2H24M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "CN",
+              "HK",
+              "MO",
+              "SG",
+              "TH",
+              "TW"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "93765",
+          "likeCount": "775",
+          "favoriteCount": "0",
+          "commentCount": "42"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "948xhbZsbuW-3k6Z8MxiQ8_E6eU",
+        "id": "iOhRiDXfD24",
+        "snippet": {
+          "publishedAt": "2026-10-05T07:30:06Z",
+          "channelId": "UCuJ5k3GndbHnXLYyiIR6Z8Q",
+          "title": "Mẹ nói câu nào thấm câu đó | Hoa Hồng Trên Ngực Trái | Tập 10",
+          "description": "Lịch phát sóng:\nMùa Hè Năm Ấy: 20h00 thứ 2,3,4 hàng tuần trên kênh VTV3\nĐội Bóng Nữ Làng Xuân: 20h00 thứ 5,6 hàng tuần trên kênh VTV3\nPhù Sa: 21h00 thứ 2,3,4,5,6 hàng tuần trên kênh VTV1\n👉 Follow Facebook VTV Giải Trí: https://www.facebook.com/vtvgiaitri/\n👉 Follow Tiktok VTV Giải Trí: https://www.tiktok.com/@vtvgiaitriofficial\n👉 Email: vtvgiaitri@dotmark.vn\n\n© Bản quyền video thuộc VTV Giải Trí, không reupload dưới mọi hình thức.\nLiên hệ tài trợ và quảng cáo Digital:\nMs. CAO NGUYET MINH\nEmail: minh.cao@abmedia.com.vn\n\n#vtvgiaitri #phimvietnam #vtv #vtv3 #phimtruyenhinh #phusa #doibongnulangxuan #muahenamay #phimhot2025 #xemphimtrongngay #drama #phimvietnam #phimhot #phimhot2026 #phim #phimhay #phimhaynhat",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iOhRiDXfD24/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iOhRiDXfD24/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iOhRiDXfD24/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iOhRiDXfD24/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iOhRiDXfD24/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "VTV Giải Trí Official",
+          "tags": [
+            "vtv giải trí",
+            "vtv giai tri",
+            "phim hay",
+            "phim vtv",
+            "phim mới nhất",
+            "phim việt nam hay",
+            "phim truyền hình",
+            "phim bộ hay",
+            "vtv",
+            "phim vtv1",
+            "phim vtv3",
+            "preview",
+            "phim truyền hình việt nam",
+            "phim hot nhất",
+            "phim hot 2026",
+            "phim hiện đại",
+            "phim tình cảm",
+            "phim gia đình",
+            "phim hay nhất 2026",
+            "phim",
+            "phim 2026",
+            "phim hay nhất",
+            "phim truyền hình việt nam hay nhất",
+            "phim châu á",
+            "phim hot châu á 2026"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Mẹ nói câu nào thấm câu đó | Hoa Hồng Trên Ngực Trái | Tập 10",
+            "description": "Lịch phát sóng:\nMùa Hè Năm Ấy: 20h00 thứ 2,3,4 hàng tuần trên kênh VTV3\nĐội Bóng Nữ Làng Xuân: 20h00 thứ 5,6 hàng tuần trên kênh VTV3\nPhù Sa: 21h00 thứ 2,3,4,5,6 hàng tuần trên kênh VTV1\n👉 Follow Facebook VTV Giải Trí: https://www.facebook.com/vtvgiaitri/\n👉 Follow Tiktok VTV Giải Trí: https://www.tiktok.com/@vtvgiaitriofficial\n👉 Email: vtvgiaitri@dotmark.vn\n\n© Bản quyền video thuộc VTV Giải Trí, không reupload dưới mọi hình thức.\nLiên hệ tài trợ và quảng cáo Digital:\nMs. CAO NGUYET MINH\nEmail: minh.cao@abmedia.com.vn\n\n#vtvgiaitri #phimvietnam #vtv #vtv3 #phimtruyenhinh #phusa #doibongnulangxuan #muahenamay #phimhot2025 #xemphimtrongngay #drama #phimvietnam #phimhot #phimhot2026 #phim #phimhay #phimhaynhat"
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT1M19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "371495",
+          "likeCount": "1925",
+          "favoriteCount": "0",
+          "commentCount": "15"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "WxONpvahSP0O9ENKZzNj7O-WSSA",
+        "id": "pftXSu3d4ls",
+        "snippet": {
+          "publishedAt": "2026-10-02T21:46:07Z",
+          "channelId": "UC69yej4x_hxHlLDhSs-I35Q",
+          "title": "#comedy #trollagens #funny #humor #engraçado #casal #funil #memes #pegadinha #risada #viral #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pftXSu3d4ls/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pftXSu3d4ls/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pftXSu3d4ls/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/pftXSu3d4ls/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/pftXSu3d4ls/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Israel Ferrazz",
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-PT",
+          "localized": {
+            "title": "#comedy #trollagens #funny #humor #engraçado #casal #funil #memes #pegadinha #risada #viral #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "pt-BR"
+        },
+        "contentDetails": {
+          "duration": "PT17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "12130962",
+          "likeCount": "26526",
+          "favoriteCount": "0",
+          "commentCount": "91"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Fcovoe1dUfqHvsUsSH2z5JEU2q0",
+        "id": "VsHxXgwy3C0",
+        "snippet": {
+          "publishedAt": "2026-10-07T15:13:15Z",
+          "channelId": "UCQO7yvQm7En5xp-05bn-G3Q",
+          "title": "Đây có phải kẻ bẩn tính nhất Family Guy  #familyguy #ôngbôpeter #cartoon",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VsHxXgwy3C0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VsHxXgwy3C0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VsHxXgwy3C0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VsHxXgwy3C0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VsHxXgwy3C0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ông Bô Peter",
+          "tags": [
+            "familyguy",
+            "ôngbôPeter",
+            "family guy hài hước",
+            "familyguy lông tiếng",
+            "family guy tiếng việt",
+            "bố vợ Peter"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Đây có phải kẻ bẩn tính nhất Family Guy  #familyguy #ôngbôpeter #cartoon",
+            "description": ""
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "230611",
+          "likeCount": "8040",
+          "favoriteCount": "0",
+          "commentCount": "35"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "fytxZfZpvsn1ekgcgxxMUu83jFs",
+        "id": "q0HWqjC0vVw",
+        "snippet": {
+          "publishedAt": "2026-10-02T10:40:39Z",
+          "channelId": "UCYbWaylVI2LYYV6FZZqvSmw",
+          "title": "Cô gái bị cả gia đình ruồng bỏ, 10 năm sau cô trở thành đệ tử mạnh nhất của võ thánh.",
+          "description": "► Follow me! Thêm một điều thú vị!  Thêm một kiến thức mới!\n► Mình hi vọng đây là nơi mọi người có thể giải trí, tiếp nhận thông tin, và gia tăng vốn hiểu biết của mình sau những giờ làm việc và học tập căng thẳng. Chúc các bạn một ngày tốt lành!\n\n#nghienreviewdongvat #kienthuc   #kienthucthuvi   #suthat #cothebanchuabiet   #suthatkhotin   #khampha   #facts  #shorts #reviewphimhay #reviewphim #ngôntình #ngôntìnhhaynhất #tomtatphim #tomtatanime #review #phim #ngontinh  #ngôntình #tiktok #chiếnthầnbấtbại #chienthan #thany",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/q0HWqjC0vVw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/q0HWqjC0vVw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/q0HWqjC0vVw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/q0HWqjC0vVw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/q0HWqjC0vVw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Nghiền Review Động Vật",
+          "tags": [
+            "#nghienreviewdongvat",
+            "#kienthuc",
+            "#kienthucthuvi",
+            "#cothebanchuabiet",
+            "#suthatkhotin",
+            "#khampha",
+            "#shorts",
+            "#reviewphim",
+            "#tiktok"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "Cô gái bị cả gia đình ruồng bỏ, 10 năm sau cô trở thành đệ tử mạnh nhất của võ thánh.",
+            "description": "► Follow me! Thêm một điều thú vị!  Thêm một kiến thức mới!\n► Mình hi vọng đây là nơi mọi người có thể giải trí, tiếp nhận thông tin, và gia tăng vốn hiểu biết của mình sau những giờ làm việc và học tập căng thẳng. Chúc các bạn một ngày tốt lành!\n\n#nghienreviewdongvat #kienthuc   #kienthucthuvi   #suthat #cothebanchuabiet   #suthatkhotin   #khampha   #facts  #shorts #reviewphimhay #reviewphim #ngôntình #ngôntìnhhaynhất #tomtatphim #tomtatanime #review #phim #ngontinh  #ngôntình #tiktok #chiếnthầnbấtbại #chienthan #thany"
+          },
+          "defaultAudioLanguage": "vi"
+        },
+        "contentDetails": {
+          "duration": "PT2M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "867201",
+          "likeCount": "10991",
+          "favoriteCount": "0",
+          "commentCount": "45"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "P6SOq0EdRl61udBaQgiAbTx73kI",
+        "id": "a_9RdAQ40PI",
+        "snippet": {
+          "publishedAt": "2026-09-30T02:20:26Z",
+          "channelId": "UCrgdBSZhOm3WqLRfvWBvfoA",
+          "title": "Khi bạn cùng phòng là con trai cổ đông lớn",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/a_9RdAQ40PI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/a_9RdAQ40PI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/a_9RdAQ40PI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/a_9RdAQ40PI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/a_9RdAQ40PI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cái này zui",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ko",
+          "localized": {
+            "title": "Khi bạn cùng phòng là con trai cổ đông lớn",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ko"
+        },
+        "contentDetails": {
+          "duration": "PT2M3S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1321702",
+          "likeCount": "38995",
+          "favoriteCount": "0",
+          "commentCount": "60"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "naQ_8Y8RZtdwSFciHJZ8KBShYqI",
+        "id": "hTiQmygQqFs",
+        "snippet": {
+          "publishedAt": "2026-10-02T11:33:40Z",
+          "channelId": "UC2AatKkYkVFleZiIQ8SSIAw",
+          "title": "TẠI SAO KHÔNG NÊN BỎ NHÀ ĐI BỤI😭 🔥 #shorts",
+          "description": "Video mang tính giải trí, vui vẻ, giúp bạn thư giãn và xả stress sau những ngày học tập, làm việc mệt mỏi.\n\n⚠️ LƯU Ý: Nội dung chỉ nhằm mục đích giải trí và không cổ xúy, khuyến khích bất kỳ hành động sai trái hoặc vi phạm pháp luật nào.\n\nNếu bạn yêu thích video, đừng quên Like 👍 và Đăng ký kênh 🔔 để ủng hộ mình nhé!\n\n❤️ Cảm ơn các bạn rất nhiều!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hTiQmygQqFs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hTiQmygQqFs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hTiQmygQqFs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hTiQmygQqFs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hTiQmygQqFs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Khoai Tây Ninh",
+          "tags": [
+            "TẠI SAO KHÔNG NÊN BỎ NHÀ ĐI BỤI😭 🔥 #shorts"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "TẠI SAO KHÔNG NÊN BỎ NHÀ ĐI BỤI😭 🔥 #shorts",
+            "description": "Video mang tính giải trí, vui vẻ, giúp bạn thư giãn và xả stress sau những ngày học tập, làm việc mệt mỏi.\n\n⚠️ LƯU Ý: Nội dung chỉ nhằm mục đích giải trí và không cổ xúy, khuyến khích bất kỳ hành động sai trái hoặc vi phạm pháp luật nào.\n\nNếu bạn yêu thích video, đừng quên Like 👍 và Đăng ký kênh 🔔 để ủng hộ mình nhé!\n\n❤️ Cảm ơn các bạn rất nhiều!"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "740470",
+          "likeCount": "12009",
+          "favoriteCount": "0",
+          "commentCount": "110"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "djbaOTSzvb6ZXSYmpZJAGeqKjXc",
+        "id": "izqQqViwuHY",
+        "snippet": {
+          "publishedAt": "2026-09-29T00:00:28Z",
+          "channelId": "UCzVd97ZPP1iu_hu4lQhnidw",
+          "title": "This Is What Happens When You Sleep Anywhere and Won’t Wake Up 😂 #funny #comedy #shorts #viral",
+          "description": "He fell asleep in the wrong place and was impossible to wake up! 😂 What happened next was absolutely hilarious. Just a funny comedy moment made for entertainment. No one was harmed.\n\nArtinya: Dia tertidur di tempat yang salah dan susah banget dibangunkan! 😂 Apa yang terjadi selanjutnya benar-benar kocak. Ini hanya momen komedi untuk hiburan.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/izqQqViwuHY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/izqQqViwuHY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/izqQqViwuHY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/izqQqViwuHY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/izqQqViwuHY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jenny Cuttezz",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "id",
+          "localized": {
+            "title": "This Is What Happens When You Sleep Anywhere and Won’t Wake Up 😂 #funny #comedy #shorts #viral",
+            "description": "He fell asleep in the wrong place and was impossible to wake up! 😂 What happened next was absolutely hilarious. Just a funny comedy moment made for entertainment. No one was harmed.\n\nArtinya: Dia tertidur di tempat yang salah dan susah banget dibangunkan! 😂 Apa yang terjadi selanjutnya benar-benar kocak. Ini hanya momen komedi untuk hiburan."
+          },
+          "defaultAudioLanguage": "id"
+        },
+        "contentDetails": {
+          "duration": "PT27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11539062",
+          "likeCount": "68104",
+          "favoriteCount": "0",
+          "commentCount": "570"
+        }
+      }
+    ],
+    "prevPageToken": "CJYBEAE",
+    "pageInfo": {
+      "totalResults": 200,
+      "resultsPerPage": 50
+    }
+  }
+}

@@ -1,0 +1,1431 @@
+{
+  "crawler_id": "t1-2rbannnz",
+  "job": "discover/search",
+  "crawl_time_utc": "2026-09-25T07:30:34Z",
+  "request": {
+    "endpoint": "search.list",
+    "params": {
+      "part": "snippet",
+      "type": "channel",
+      "q": "ca sĩ",
+      "regionCode": "VN",
+      "relevanceLanguage": "vi",
+      "maxResults": 50,
+      "pageToken": "CDIQAA"
+    }
+  },
+  "page_index": 4,
+  "response": {
+    "kind": "youtube#searchListResponse",
+    "etag": "yXd3aiE61LPWBzyOUqCBZTGUm8o",
+    "nextPageToken": "CGQQAA",
+    "prevPageToken": "CDIQAQ",
+    "regionCode": "VN",
+    "pageInfo": {
+      "totalResults": 23752,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "CgegucFuGs570VuaP0_WbvaMXzU",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UC81UNM6YJ8zjFPi7WRSEOlA"
+        },
+        "snippet": {
+          "publishedAt": "2019-02-26T10:35:11Z",
+          "channelId": "UC81UNM6YJ8zjFPi7WRSEOlA",
+          "title": "Mc Ca sĩ Yến Thanh",
+          "description": "Chào mừng quý cô chú, quý anh chị, cùng quý bạn bè gần xa đã đến với kênh YouTube chính thức của MC - Ca sĩ Yến Thanh.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/KzlsiPTC2Kfe-RAeiyRJyig6CvOJLalCdPlpMvarlPU9zMZmORsL6DbIaMdvwY9eH9qYBgct=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/KzlsiPTC2Kfe-RAeiyRJyig6CvOJLalCdPlpMvarlPU9zMZmORsL6DbIaMdvwY9eH9qYBgct=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/KzlsiPTC2Kfe-RAeiyRJyig6CvOJLalCdPlpMvarlPU9zMZmORsL6DbIaMdvwY9eH9qYBgct=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Mc Ca sĩ Yến Thanh",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-02-26T10:35:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GhiNvGE39PrtWvVG7iFljdWCnmg",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCmRGS_oxryWBZUbkTcNXYtA"
+        },
+        "snippet": {
+          "publishedAt": "2024-08-18T01:30:15Z",
+          "channelId": "UCmRGS_oxryWBZUbkTcNXYtA",
+          "title": "Ca Sĩ Nhí Bồ Câu",
+          "description": "Bồ Câu chào cả nhà yêu ạ! Đây là kênh youtube chính thức của con, con là một diễn viên nhí, người mẫu, dance và ca sĩ nhí tại ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/RI-vF72s4twEHNw_l0fOuVPaCplyyPTHpbkIdcR3FTpU_v-xDSPwkU1K_0HCL2woti1oAZ3RJg=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/RI-vF72s4twEHNw_l0fOuVPaCplyyPTHpbkIdcR3FTpU_v-xDSPwkU1K_0HCL2woti1oAZ3RJg=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/RI-vF72s4twEHNw_l0fOuVPaCplyyPTHpbkIdcR3FTpU_v-xDSPwkU1K_0HCL2woti1oAZ3RJg=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Sĩ Nhí Bồ Câu",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-08-18T01:30:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QWXGgTB_T36OZ0sn9A7Ub6NsIN8",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCVuJmMcoXsrmbjUEFYC_k6Q"
+        },
+        "snippet": {
+          "publishedAt": "2024-05-04T14:15:47Z",
+          "channelId": "UCVuJmMcoXsrmbjUEFYC_k6Q",
+          "title": "Đông Trường, Ca Sĩ Mù",
+          "description": "Kênh âm nhạc chính thức của ca sĩ Đông Trường.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/t_7KgBaRcoLwQjd67Dbw6g_yudbah_LS6-onqfSz7-FcSLSsadUQxZXp-g9G4JRDt2rkg11R=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/t_7KgBaRcoLwQjd67Dbw6g_yudbah_LS6-onqfSz7-FcSLSsadUQxZXp-g9G4JRDt2rkg11R=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/t_7KgBaRcoLwQjd67Dbw6g_yudbah_LS6-onqfSz7-FcSLSsadUQxZXp-g9G4JRDt2rkg11R=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Đông Trường, Ca Sĩ Mù",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-05-04T14:15:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "l6H-Y89S-h-iMG7AGFHLdrE4J7A",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCvYqtFwHqXF6oQ8GwvOwgog"
+        },
+        "snippet": {
+          "publishedAt": "2020-12-14T12:38:10Z",
+          "channelId": "UCvYqtFwHqXF6oQ8GwvOwgog",
+          "title": "Ca Sĩ Chế Khanh",
+          "description": "Mọi người đừng quên để lại 1 like, share cũng như comment cảm nhận của mọi người cho Chế Khanh biết nhé !",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/uSo5Nt_6T2pHK_pdx33bE32CS6q2Kk-LJfEg5q0k5PLoIgOeOzgEk0dxyC2_7GDvB-WurwSunA=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/uSo5Nt_6T2pHK_pdx33bE32CS6q2Kk-LJfEg5q0k5PLoIgOeOzgEk0dxyC2_7GDvB-WurwSunA=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/uSo5Nt_6T2pHK_pdx33bE32CS6q2Kk-LJfEg5q0k5PLoIgOeOzgEk0dxyC2_7GDvB-WurwSunA=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Sĩ Chế Khanh",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-12-14T12:38:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-pQnxBF_frG0YfqN_HRYrUP7U10",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCD1XwWOfdHklx1HNue744SA"
+        },
+        "snippet": {
+          "publishedAt": "2012-05-14T15:19:03Z",
+          "channelId": "UCD1XwWOfdHklx1HNue744SA",
+          "title": "Ca sĩ Võ Thành Tâm",
+          "description": "Ca Sĩ Võ Thành Tâm.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lsJY_QNAfqxNbAHtoOkz-D7VYLwuX1gAl6uvlPS9bVoJ1V=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lsJY_QNAfqxNbAHtoOkz-D7VYLwuX1gAl6uvlPS9bVoJ1V=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lsJY_QNAfqxNbAHtoOkz-D7VYLwuX1gAl6uvlPS9bVoJ1V=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ Võ Thành Tâm",
+          "liveBroadcastContent": "none",
+          "publishTime": "2012-05-14T15:19:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yUjjl48G248t-rIOPBMSxNf4swA",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCAMgz34MiNTg64TIGq5-_kA"
+        },
+        "snippet": {
+          "publishedAt": "2018-12-22T07:41:54Z",
+          "channelId": "UCAMgz34MiNTg64TIGq5-_kA",
+          "title": "LÊ NHẬT TRƯỜNG",
+          "description": "ĐĂNG KÝ KÊNH CHÍNH THỨC NHẠC SĨ LÊ NHẬT TRƯỜNG ☆ Chào mừng bạn đến với kênh Youtube CHÍNH THỨC của ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/M7q19AZHRp6evhiUMZ0vhUMtuB44Gs41PjHsStFvM7SPT40_s-J3acxLbsDXYrVGWdU-1WqQ5g=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/M7q19AZHRp6evhiUMZ0vhUMtuB44Gs41PjHsStFvM7SPT40_s-J3acxLbsDXYrVGWdU-1WqQ5g=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/M7q19AZHRp6evhiUMZ0vhUMtuB44Gs41PjHsStFvM7SPT40_s-J3acxLbsDXYrVGWdU-1WqQ5g=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "LÊ NHẬT TRƯỜNG",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-12-22T07:41:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZDsGJhfgzTdeUomCkgCuDHK38iY",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCCFx8rmoRQfMoAnc6_sTNJQ"
+        },
+        "snippet": {
+          "publishedAt": "2021-01-30T11:15:33Z",
+          "channelId": "UCCFx8rmoRQfMoAnc6_sTNJQ",
+          "title": "Ca sĩ Đồng Chinh",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/8k9WdH_mv6brirsVHzpnJzj0a5a_6x5metYKXJYtxMYUrDDijVAmi5RUKi1cxiQq_SBkhaH5=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/8k9WdH_mv6brirsVHzpnJzj0a5a_6x5metYKXJYtxMYUrDDijVAmi5RUKi1cxiQq_SBkhaH5=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/8k9WdH_mv6brirsVHzpnJzj0a5a_6x5metYKXJYtxMYUrDDijVAmi5RUKi1cxiQq_SBkhaH5=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ Đồng Chinh",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-01-30T11:15:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NsYjWwhhuFnTNP-0VqyNHfC8Tnc",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UC_zyrzJpBj545GzzWRwXa8A"
+        },
+        "snippet": {
+          "publishedAt": "2015-06-22T08:23:30Z",
+          "channelId": "UC_zyrzJpBj545GzzWRwXa8A",
+          "title": "Ca Nhạc Sĩ HÚH",
+          "description": "Đây là Kênh chính thức để đăng tải các tác phẩm âm nhạc của Ca Nhạc Sĩ HÚH.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/Dqod1FlheoOz3kZQbxxylLtU6C0KDMANFxXk4DhLkYxftSVwqC6YzTczJoESN7VhMueIctOOxA=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/Dqod1FlheoOz3kZQbxxylLtU6C0KDMANFxXk4DhLkYxftSVwqC6YzTczJoESN7VhMueIctOOxA=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/Dqod1FlheoOz3kZQbxxylLtU6C0KDMANFxXk4DhLkYxftSVwqC6YzTczJoESN7VhMueIctOOxA=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Nhạc Sĩ HÚH",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-06-22T08:23:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "V_19tAxvsc3Is6_MwvxQAdehodM",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCZKFfO-n5q6QvEuggc49ooA"
+        },
+        "snippet": {
+          "publishedAt": "2018-10-31T11:13:48Z",
+          "channelId": "UCZKFfO-n5q6QvEuggc49ooA",
+          "title": "ca sĩ Ái Lê",
+          "description": "Liên hệ 0918095955 - 0919995683.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/gmNf_apgY0L1yFiMSnajKFUuO9hciHvyfsnejxjrVRrZki8iAG0vsvN1R-ysvobum9PFOjuz=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/gmNf_apgY0L1yFiMSnajKFUuO9hciHvyfsnejxjrVRrZki8iAG0vsvN1R-ysvobum9PFOjuz=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/gmNf_apgY0L1yFiMSnajKFUuO9hciHvyfsnejxjrVRrZki8iAG0vsvN1R-ysvobum9PFOjuz=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "ca sĩ Ái Lê",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-10-31T11:13:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "K7VxnnB8nWBtQjF0_nkZMG2QXxo",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCHyQgNeo3ZvAUyshO-CvKlw"
+        },
+        "snippet": {
+          "publishedAt": "2021-06-09T16:27:33Z",
+          "channelId": "UCHyQgNeo3ZvAUyshO-CvKlw",
+          "title": "Ca Sĩ Khánh Vân Official",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/zIq08D6KPI13DqELKepedoQe3BhfOv_44CVyfKj2h6Wy44WWLTj7tuDiPve5310UUQradiNhmg=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/zIq08D6KPI13DqELKepedoQe3BhfOv_44CVyfKj2h6Wy44WWLTj7tuDiPve5310UUQradiNhmg=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/zIq08D6KPI13DqELKepedoQe3BhfOv_44CVyfKj2h6Wy44WWLTj7tuDiPve5310UUQradiNhmg=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Sĩ Khánh Vân Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-06-09T16:27:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JxC12uBegBU5TMrQ9s--aJsXVN8",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCraUupe0efR8GXJTjdaPhQA"
+        },
+        "snippet": {
+          "publishedAt": "2021-01-21T16:10:17Z",
+          "channelId": "UCraUupe0efR8GXJTjdaPhQA",
+          "title": "Các Ca Sĩ - Nhóm Nhạc Quốc Dân",
+          "description": "Nơi lưu giữ những khoảnh khắc - tư liệu hiếm của mấy anh chị.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/7Ayr8OBKoD0-lF0zDKdfU7LxeY11p_H_BH_lzGaiE3POSD1qLsflooNo_GTykU7WO4-nsXlaHQ=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/7Ayr8OBKoD0-lF0zDKdfU7LxeY11p_H_BH_lzGaiE3POSD1qLsflooNo_GTykU7WO4-nsXlaHQ=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/7Ayr8OBKoD0-lF0zDKdfU7LxeY11p_H_BH_lzGaiE3POSD1qLsflooNo_GTykU7WO4-nsXlaHQ=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Các Ca Sĩ - Nhóm Nhạc Quốc Dân",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-01-21T16:10:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hc-ZN0D7W0WgGW-mUfAqA-S2O5o",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UC1tUNDjqQw8EMqYFu1Nq1wg"
+        },
+        "snippet": {
+          "publishedAt": "2016-07-14T12:40:16Z",
+          "channelId": "UC1tUNDjqQw8EMqYFu1Nq1wg",
+          "title": "Hiền Mai bolero ",
+          "description": "Hiền Mai bolero là kênh thuộc bản quyèn của Hiền Mai yêu cầu không sao chéo dưới mọi hình thức , Nếu quý vị yêu mến xin hãy ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/kFlZO4IuBE50hErhiC-axah5PrXp9d0Xccqv0AU3oS4VGBbU-_O2Qx1AmbCE9Z-EA6xZtij31K0=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/kFlZO4IuBE50hErhiC-axah5PrXp9d0Xccqv0AU3oS4VGBbU-_O2Qx1AmbCE9Z-EA6xZtij31K0=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/kFlZO4IuBE50hErhiC-axah5PrXp9d0Xccqv0AU3oS4VGBbU-_O2Qx1AmbCE9Z-EA6xZtij31K0=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Hiền Mai bolero ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-07-14T12:40:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xtzdoApljCBQoKqvrWbDLFFkpiA",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCWio9AGPo8RldYfJoguwY9g"
+        },
+        "snippet": {
+          "publishedAt": "2017-08-03T09:26:01Z",
+          "channelId": "UCWio9AGPo8RldYfJoguwY9g",
+          "title": "Ca Sĩ Nguyễn Kha",
+          "description": "Đây là Kênh Youtube Chính Chủ Duy Nhất Ca Sĩ Nguyễn Kha Liên Hệ mời Show SĐT 0919124007 Ca Sĩ Nguyễn kha Mọi video ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/gIu4okIS9_eLSr9f1k4ds7isrACG02WKabW_d5AfGtYDeKeVfcPvc3Pmla43wDy1CF8WyFkX=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/gIu4okIS9_eLSr9f1k4ds7isrACG02WKabW_d5AfGtYDeKeVfcPvc3Pmla43wDy1CF8WyFkX=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/gIu4okIS9_eLSr9f1k4ds7isrACG02WKabW_d5AfGtYDeKeVfcPvc3Pmla43wDy1CF8WyFkX=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Sĩ Nguyễn Kha",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-08-03T09:26:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "K8AXZzjD2zJQRJAlSrRLDZ80Avk",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCMgBcaMxSKq5r4mYzla-Ggg"
+        },
+        "snippet": {
+          "publishedAt": "2024-02-03T09:08:56Z",
+          "channelId": "UCMgBcaMxSKq5r4mYzla-Ggg",
+          "title": "Ca sĩ An Bùi ",
+          "description": "Một ca sĩ vô danh không phải nổi tiếng không ai biết đến chỉ làm ca sĩ cho vui những MV tự sáng tác cao cover lại.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/0lniy0RNIz5jUcTub8yOS4E4YrgSictLb0kFjW2DL6WfHhiqbWKl30xWgqBXD__HfS9LnvQtCg=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/0lniy0RNIz5jUcTub8yOS4E4YrgSictLb0kFjW2DL6WfHhiqbWKl30xWgqBXD__HfS9LnvQtCg=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/0lniy0RNIz5jUcTub8yOS4E4YrgSictLb0kFjW2DL6WfHhiqbWKl30xWgqBXD__HfS9LnvQtCg=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ An Bùi ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-02-03T09:08:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UDCaFmiDKr3yBgSA6FQ3XXBroeI",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UC8AHoTyoRtYJXr42vocoo5w"
+        },
+        "snippet": {
+          "publishedAt": "2024-07-05T05:02:31Z",
+          "channelId": "UC8AHoTyoRtYJXr42vocoo5w",
+          "title": "Ca sĩ Quyết Thắng",
+          "description": "Đăng quang tại Đấu trường Nhạc việt 1 năm 2024 - Quyết Thắng được nhiều người biết tới và yêu mến chất giọng ngọt ngào.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/wECR4UMnRxtnnbA7gDRh3RNqSX_Og8V7vmhkrtKWnNtbq-cZdCHm2jOg-5g2Y66QD3tOn7L2pw=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/wECR4UMnRxtnnbA7gDRh3RNqSX_Og8V7vmhkrtKWnNtbq-cZdCHm2jOg-5g2Y66QD3tOn7L2pw=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/wECR4UMnRxtnnbA7gDRh3RNqSX_Og8V7vmhkrtKWnNtbq-cZdCHm2jOg-5g2Y66QD3tOn7L2pw=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ Quyết Thắng",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-07-05T05:02:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GOfqojy2OGdr0LSRVjsPbuWTCJk",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UChnqqHNZL3eVHD8KyZwT4uA"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-14T13:55:37Z",
+          "channelId": "UChnqqHNZL3eVHD8KyZwT4uA",
+          "title": "@ca sĩ lê sơn",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/Sz0VNHDRHpBHozoLCqvTvg-sMfnDLw-Mfxk1NOoy2P05epcgZbWOA797jcQHEp6DPDJBKPMM=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/Sz0VNHDRHpBHozoLCqvTvg-sMfnDLw-Mfxk1NOoy2P05epcgZbWOA797jcQHEp6DPDJBKPMM=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/Sz0VNHDRHpBHozoLCqvTvg-sMfnDLw-Mfxk1NOoy2P05epcgZbWOA797jcQHEp6DPDJBKPMM=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "@ca sĩ lê sơn",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-14T13:55:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wVYS2tPUibBkpY9wy7ThHH1JEXw",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCH-vLR7eRrf5ESq_R4od4fw"
+        },
+        "snippet": {
+          "publishedAt": "2011-08-22T14:25:35Z",
+          "channelId": "UCH-vLR7eRrf5ESq_R4od4fw",
+          "title": "Ca Sĩ Phi Nguyễn Channel",
+          "description": "Phòng thu âm Phi'Studio & trưởng nhóm Trái Tm Yêu.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/wUeV0OlA5BRhzcVPU2kFAds7aoTvCIE1k9mwWb_LRL0FiW5GI4DJAlsbfHFQawsypmmNgzW_6g=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/wUeV0OlA5BRhzcVPU2kFAds7aoTvCIE1k9mwWb_LRL0FiW5GI4DJAlsbfHFQawsypmmNgzW_6g=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/wUeV0OlA5BRhzcVPU2kFAds7aoTvCIE1k9mwWb_LRL0FiW5GI4DJAlsbfHFQawsypmmNgzW_6g=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Sĩ Phi Nguyễn Channel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2011-08-22T14:25:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "w7_Hn6UBB-Rf1mx2P5bj05yBbtw",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UClG19INz_MzW2IG9ywwA9VA"
+        },
+        "snippet": {
+          "publishedAt": "2010-07-29T06:36:25Z",
+          "channelId": "UClG19INz_MzW2IG9ywwA9VA",
+          "title": "CA SĨ THANH LAN",
+          "description": "Xuất thân từ đội Sơn Ca NTNQ1 cùng vơi ca sĩ Hiền Thục, Quang Vinh, thành viên chính nhóm bè Cadillac, nhóm Mặt Trời Đỏ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/NLvwFmQvy-Df-iLq3xjzx7LlXCkkQFq_Bhmk-U6dlGrLOQ8yEhMCkhxSIlB3_Ngj0HewkkwG=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/NLvwFmQvy-Df-iLq3xjzx7LlXCkkQFq_Bhmk-U6dlGrLOQ8yEhMCkhxSIlB3_Ngj0HewkkwG=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/NLvwFmQvy-Df-iLq3xjzx7LlXCkkQFq_Bhmk-U6dlGrLOQ8yEhMCkhxSIlB3_Ngj0HewkkwG=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "CA SĨ THANH LAN",
+          "liveBroadcastContent": "none",
+          "publishTime": "2010-07-29T06:36:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "F2ZbS_3pb_6ktK2Tvj_WHLF-Fw0",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCF6xBPanCq5WnWHwzqjnAFA"
+        },
+        "snippet": {
+          "publishedAt": "2012-07-10T16:02:45Z",
+          "channelId": "UCF6xBPanCq5WnWHwzqjnAFA",
+          "title": "Ca sĩ Nguyên Phượng",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lVs3gz_jsyjg65UwHv5Rf7N7E-dQBDvmWlOscIJ9Tx-KU=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lVs3gz_jsyjg65UwHv5Rf7N7E-dQBDvmWlOscIJ9Tx-KU=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_lVs3gz_jsyjg65UwHv5Rf7N7E-dQBDvmWlOscIJ9Tx-KU=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ Nguyên Phượng",
+          "liveBroadcastContent": "none",
+          "publishTime": "2012-07-10T16:02:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NP4-fWpqzNv1lOTKExDiPxQd-kA",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCyxEz1Tt17fau5HEepDeTdQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-16T09:18:24Z",
+          "channelId": "UCyxEz1Tt17fau5HEepDeTdQ",
+          "title": "Ca Sĩ Đường Phố",
+          "description": "Cung Cấp Ca Sĩ Hay, Mới Lạ.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/swqr8CjdAq4XlbRCwmBccDTXTjYrFQXgcwYz7tjtq-sChDxXkoAXXr0VX3ZgJaZBW0xYIKosmA=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/swqr8CjdAq4XlbRCwmBccDTXTjYrFQXgcwYz7tjtq-sChDxXkoAXXr0VX3ZgJaZBW0xYIKosmA=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/swqr8CjdAq4XlbRCwmBccDTXTjYrFQXgcwYz7tjtq-sChDxXkoAXXr0VX3ZgJaZBW0xYIKosmA=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Sĩ Đường Phố",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-16T09:18:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7yCcvO2Bye0o1hwMUTnJ-suxB14",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCYsgOsP6xBhsgfdIbo74JUg"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-29T08:29:50Z",
+          "channelId": "UCYsgOsP6xBhsgfdIbo74JUg",
+          "title": "Ca Sĩ Phương Dung",
+          "description": "Channel chính thức của Ca sĩ Phương Dung trên Youtube. Thông tin liên quan / More information: Youtube ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/Lsg-sfUzA5nXJTkComq-lxbFMMeL1yNMzIQamCsai2SYMftiysyEzyA3ucJUCsVqWUURpfVb=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/Lsg-sfUzA5nXJTkComq-lxbFMMeL1yNMzIQamCsai2SYMftiysyEzyA3ucJUCsVqWUURpfVb=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/Lsg-sfUzA5nXJTkComq-lxbFMMeL1yNMzIQamCsai2SYMftiysyEzyA3ucJUCsVqWUURpfVb=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Sĩ Phương Dung",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-29T08:29:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fRFOVJgUHa9xyQP5FCuVgNK2zkQ",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCt33162Icg1BRqD2RfRp1fA"
+        },
+        "snippet": {
+          "publishedAt": "2019-07-28T11:57:44Z",
+          "channelId": "UCt33162Icg1BRqD2RfRp1fA",
+          "title": "Ca sĩ Sỹ Nguyên",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_mfFkafG0u84779ReQdg5FyIVKBereHjROcGSCA1O23Iw=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_mfFkafG0u84779ReQdg5FyIVKBereHjROcGSCA1O23Iw=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_mfFkafG0u84779ReQdg5FyIVKBereHjROcGSCA1O23Iw=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ Sỹ Nguyên",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-07-28T11:57:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "J5HCXaM8c36pngU_A3oL2PM3tyc",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCqRpdPOPFsqIitWs9YrzjGA"
+        },
+        "snippet": {
+          "publishedAt": "2016-02-19T12:50:59Z",
+          "channelId": "UCqRpdPOPFsqIitWs9YrzjGA",
+          "title": "Ca Sĩ Viết Thanh",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_nUb8ExWpVHeWDTFEjZ6gb_WUO0TOsBaWsdpQWmkyF9iw=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_nUb8ExWpVHeWDTFEjZ6gb_WUO0TOsBaWsdpQWmkyF9iw=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_nUb8ExWpVHeWDTFEjZ6gb_WUO0TOsBaWsdpQWmkyF9iw=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Sĩ Viết Thanh",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-02-19T12:50:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LEYMVbl9WlCCWQJlKtPm5UqeNdE",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCS1C3aisaNqYSaZaygexoGQ"
+        },
+        "snippet": {
+          "publishedAt": "2014-04-28T06:23:04Z",
+          "channelId": "UCS1C3aisaNqYSaZaygexoGQ",
+          "title": "Ca sĩ Hữu Lộc Official",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/pXYW0Jk8ay0xiOoYk1zzqSQhpZqcL3NQLcTfVyRFwQNFWI5F3WG7c0Prq9veLgt55d7HXuSdtQ=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/pXYW0Jk8ay0xiOoYk1zzqSQhpZqcL3NQLcTfVyRFwQNFWI5F3WG7c0Prq9veLgt55d7HXuSdtQ=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/pXYW0Jk8ay0xiOoYk1zzqSQhpZqcL3NQLcTfVyRFwQNFWI5F3WG7c0Prq9veLgt55d7HXuSdtQ=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ Hữu Lộc Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-04-28T06:23:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YOY2-XQdKOcfa8uXj_zs9PShFjI",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCz_-jIyxBLtvdq_JT-BK_WA"
+        },
+        "snippet": {
+          "publishedAt": "2013-11-11T13:16:01Z",
+          "channelId": "UCz_-jIyxBLtvdq_JT-BK_WA",
+          "title": "Ca sĩ MINH TRƯỜNG",
+          "description": "Trang Ca nhạc sĩ Minh Trường chuyên đăng những sáng tác do chính Minh Trường viết (nhạc trữ tình, dân ca nam bộ, dân ca bắc ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/tv7b1P8z70uAC6Lc4cMzdq7u2YXmalC4SlS59CI4fDIcljsH3gyCzy4oUP8-1Imhj3KsLKl_cbw=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/tv7b1P8z70uAC6Lc4cMzdq7u2YXmalC4SlS59CI4fDIcljsH3gyCzy4oUP8-1Imhj3KsLKl_cbw=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/tv7b1P8z70uAC6Lc4cMzdq7u2YXmalC4SlS59CI4fDIcljsH3gyCzy4oUP8-1Imhj3KsLKl_cbw=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ MINH TRƯỜNG",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-11-11T13:16:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "I4WR7JoBG_IACS2HUd5ZGTwUK74",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCWrHyXwt_eQlNF5IL61pxyQ"
+        },
+        "snippet": {
+          "publishedAt": "2012-05-25T03:52:07Z",
+          "channelId": "UCWrHyXwt_eQlNF5IL61pxyQ",
+          "title": "Huy Vũ Official( ca sĩ nhí)",
+          "description": "Bé yêu ca hát và mong muốn lan toả những điều tích cực đến mọi người. Mỗi ngày con được hát, được thoả mãn đam mê là một ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/_sNMCAgAZhbIxOwoobdmusdIwT-hdsB982hnkvKjUleoduwhLBfb5QTmdSUy46lJrKux-fHYi6g=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/_sNMCAgAZhbIxOwoobdmusdIwT-hdsB982hnkvKjUleoduwhLBfb5QTmdSUy46lJrKux-fHYi6g=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/_sNMCAgAZhbIxOwoobdmusdIwT-hdsB982hnkvKjUleoduwhLBfb5QTmdSUy46lJrKux-fHYi6g=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Huy Vũ Official( ca sĩ nhí)",
+          "liveBroadcastContent": "none",
+          "publishTime": "2012-05-25T03:52:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hHRy-8vqK0yBODswlCwM-U1fopA",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCL9EicY9B34A86_wP7rT8Pg"
+        },
+        "snippet": {
+          "publishedAt": "2016-10-27T06:26:49Z",
+          "channelId": "UCL9EicY9B34A86_wP7rT8Pg",
+          "title": "Ca Sĩ Trần Thanh Thảo",
+          "description": "Tran Thanh Thao ( Ca sĩ Trần Thanh Thảo) thành công với dòng nhạc trữ tình, nhạc quê hương, phim ca nhạc. Ca sĩ Trần Thanh ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_kItYGIKDneDfwNvlfbnGk9D2IASs4-NwZ4ZnYf6zmBJyA=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_kItYGIKDneDfwNvlfbnGk9D2IASs4-NwZ4ZnYf6zmBJyA=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_kItYGIKDneDfwNvlfbnGk9D2IASs4-NwZ4ZnYf6zmBJyA=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Sĩ Trần Thanh Thảo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-10-27T06:26:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZJbnWtPbsj-kPkv-3awsydmS4Fg",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCTu5wymDK0mueQeqGHlhHXg"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-26T05:13:14Z",
+          "channelId": "UCTu5wymDK0mueQeqGHlhHXg",
+          "title": "Ca Sĩ Yến Ly",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/Dc2m6WF2yD-1jTPwsYxIzOeP2r9D-Oew6GQhk9HJbB2Ml0-4JnimHIYf-BTh1y6X4cGh60xy=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/Dc2m6WF2yD-1jTPwsYxIzOeP2r9D-Oew6GQhk9HJbB2Ml0-4JnimHIYf-BTh1y6X4cGh60xy=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/Dc2m6WF2yD-1jTPwsYxIzOeP2r9D-Oew6GQhk9HJbB2Ml0-4JnimHIYf-BTh1y6X4cGh60xy=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Sĩ Yến Ly",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-26T05:13:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8MqnmLMUP8GsZY31iaBcEbxKRqw",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCUHQ4pfAAxXQW6sGCmNPE2Q"
+        },
+        "snippet": {
+          "publishedAt": "2024-10-01T12:20:11Z",
+          "channelId": "UCUHQ4pfAAxXQW6sGCmNPE2Q",
+          "title": "Ca Sĩ Trường Sơn",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/2gOSn1XpzXdFulCcmXBGY8OF2OJfGQTXIUKHiVvkTNu6pB_npOT5KlCiXcTHFl6WSB7ytT8W=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/2gOSn1XpzXdFulCcmXBGY8OF2OJfGQTXIUKHiVvkTNu6pB_npOT5KlCiXcTHFl6WSB7ytT8W=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/2gOSn1XpzXdFulCcmXBGY8OF2OJfGQTXIUKHiVvkTNu6pB_npOT5KlCiXcTHFl6WSB7ytT8W=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Sĩ Trường Sơn",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-10-01T12:20:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ge8Qomk3qizc4jCoKdNT6ow7rZM",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCRKO9ACk4i3EEWW5Yrh0vSA"
+        },
+        "snippet": {
+          "publishedAt": "2021-03-20T17:01:22Z",
+          "channelId": "UCRKO9ACk4i3EEWW5Yrh0vSA",
+          "title": "Bolero Ca Sĩ",
+          "description": "BOLERO CA SĨ là kênh âm nhạc tổng hợp mang những thể loại dân ca, bolero, nhạc vàng, trữ tình, dj remix... cho đến mọi người ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_nJFgHuYyejpOGRecrukzXVKdYAk0Ig3EkVhmUefKz3pw=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_nJFgHuYyejpOGRecrukzXVKdYAk0Ig3EkVhmUefKz3pw=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_nJFgHuYyejpOGRecrukzXVKdYAk0Ig3EkVhmUefKz3pw=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Bolero Ca Sĩ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-03-20T17:01:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BwIwGHEPGviUD4x1KIhtdWS3FnI",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UC6ybOf1RH6IJ7Uqp0XOafEg"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-30T05:30:44Z",
+          "channelId": "UC6ybOf1RH6IJ7Uqp0XOafEg",
+          "title": "Ca sĩ My Lam Official Channel",
+          "description": "\"My Lam (Đỗ My Lam) – Nữ ca sĩ và giảng viên âm nhạc tài năng đến từ Thanh Hóa. Với giọng hát ngọt ngào và kỹ thuật điêu ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/prkxgK5s3Q0AdIRgGilU2t8nLcDOjy-i5aXcy4-j56gZ_X6r72C8WYGJ6k-WE-k13LevhiYnaQ=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/prkxgK5s3Q0AdIRgGilU2t8nLcDOjy-i5aXcy4-j56gZ_X6r72C8WYGJ6k-WE-k13LevhiYnaQ=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/prkxgK5s3Q0AdIRgGilU2t8nLcDOjy-i5aXcy4-j56gZ_X6r72C8WYGJ6k-WE-k13LevhiYnaQ=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ My Lam Official Channel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-30T05:30:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dE2Ox_cvtXpDjQ016hoXLc3gBDw",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCvdt2uzl2hfYYkRDoUYaw5Q"
+        },
+        "snippet": {
+          "publishedAt": "2011-05-30T20:39:15Z",
+          "channelId": "UCvdt2uzl2hfYYkRDoUYaw5Q",
+          "title": "Ca sĩ Nhã Ca",
+          "description": "Ca sĩ : NHÃ CA Tên thật: Nguyễn thị Kim Thanh Sinh 18/4/1978 Nguyên quán: Miền Nam ,Việt Nam Nghề nghiệp: singer ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/dOw-g0r9Fcbm0I_bO-p5ccC658Tc61M8C_7ic2_AYEtY_1R-8S_XndXtcmSD5CvixLzVB8K86wQ=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/dOw-g0r9Fcbm0I_bO-p5ccC658Tc61M8C_7ic2_AYEtY_1R-8S_XndXtcmSD5CvixLzVB8K86wQ=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/dOw-g0r9Fcbm0I_bO-p5ccC658Tc61M8C_7ic2_AYEtY_1R-8S_XndXtcmSD5CvixLzVB8K86wQ=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ Nhã Ca",
+          "liveBroadcastContent": "none",
+          "publishTime": "2011-05-30T20:39:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RM9-0HAt5BYcw-zDHZNqQzuIOjw",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UC9s1Pvm0U8Gg8mRavZhVXdg"
+        },
+        "snippet": {
+          "publishedAt": "2016-02-17T06:28:33Z",
+          "channelId": "UC9s1Pvm0U8Gg8mRavZhVXdg",
+          "title": "Ca sĩ Kha Ly",
+          "description": "Ca sĩ : Kha Ly Follow Kha Ly : ♫ Subscribe: http://popsww.com/singerkhaly ♫ Facebook : https://www.facebook.com/lykha.lai Kha ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/MQ-DExmb961getQs-x42iNSycgCcc43V-6q9Tys9BW6L3Xq7BkonXTotv47mJU5miyFZvdejKQ=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/MQ-DExmb961getQs-x42iNSycgCcc43V-6q9Tys9BW6L3Xq7BkonXTotv47mJU5miyFZvdejKQ=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/MQ-DExmb961getQs-x42iNSycgCcc43V-6q9Tys9BW6L3Xq7BkonXTotv47mJU5miyFZvdejKQ=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ Kha Ly",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-02-17T06:28:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "veNrrzL1BHNQuxHdaYH0CMqqipc",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCRrf0NiOoH2OAShotU5Y8eA"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-30T12:34:51Z",
+          "channelId": "UCRrf0NiOoH2OAShotU5Y8eA",
+          "title": "Ca sĩ Châu Tuấn",
+          "description": "Kênh YouTube chính thức của ca sĩ Châu Tuấn.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/gaFfyCKWllE5pFCvosrEASTWlti2W9rA5CVRyNtNetwcknPqzwED7kEDNpmpe_40Me7ynEPcYw=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/gaFfyCKWllE5pFCvosrEASTWlti2W9rA5CVRyNtNetwcknPqzwED7kEDNpmpe_40Me7ynEPcYw=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/gaFfyCKWllE5pFCvosrEASTWlti2W9rA5CVRyNtNetwcknPqzwED7kEDNpmpe_40Me7ynEPcYw=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ Châu Tuấn",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-30T12:34:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IO1dL5awe6xox0pOitRVMRF3ZRA",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCcqvtOFIZUaKpU9a_TXYwhw"
+        },
+        "snippet": {
+          "publishedAt": "2015-06-27T04:48:53Z",
+          "channelId": "UCcqvtOFIZUaKpU9a_TXYwhw",
+          "title": "BeanZ Ca Sĩ",
+          "description": "Mình Stream Hàng Ngày Lúc 19h30 Các Ngày Trong Tuần Trừ Chủ Nhật ( và ngày sủi) Mong Mọi Người Đến Và Xem Cho ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/lKLK04I2N1WZFM6w7yT4yeJuBkr2RIAldMrhtpa8wqegcNPjmOHURAvGNlHOAnaTMYHeHKP659k=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/lKLK04I2N1WZFM6w7yT4yeJuBkr2RIAldMrhtpa8wqegcNPjmOHURAvGNlHOAnaTMYHeHKP659k=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/lKLK04I2N1WZFM6w7yT4yeJuBkr2RIAldMrhtpa8wqegcNPjmOHURAvGNlHOAnaTMYHeHKP659k=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "BeanZ Ca Sĩ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-06-27T04:48:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RtygaQtK9dq_9vg7ganvDSTtedM",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UC2Vm9BWtOe5y-Jc6_L_A9hA"
+        },
+        "snippet": {
+          "publishedAt": "2020-01-31T16:27:32Z",
+          "channelId": "UC2Vm9BWtOe5y-Jc6_L_A9hA",
+          "title": "Vĩnh Phúc Ca Sĩ Thần Tượng",
+          "description": "Vĩnh Phúc là Á quân Ca sĩ thần tượng mùa 3 khi hóa thân thành Ưng Hoàng Phúc Và Vĩnh Phúc xuất thân là tài xế , đam mê ca ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/j7Dl48bTx5uJWKQsLfcWLnwZBGLRo0huQfgoQkNpOxZBS10jqHuTT7-7mwrnfXbJx7O-N60wQg=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/j7Dl48bTx5uJWKQsLfcWLnwZBGLRo0huQfgoQkNpOxZBS10jqHuTT7-7mwrnfXbJx7O-N60wQg=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/j7Dl48bTx5uJWKQsLfcWLnwZBGLRo0huQfgoQkNpOxZBS10jqHuTT7-7mwrnfXbJx7O-N60wQg=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Vĩnh Phúc Ca Sĩ Thần Tượng",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-01-31T16:27:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NqN0edHRnpAXIRbZ_hhrRX_drec",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCv1FDbUAYTTGaOGXjxI9MlQ"
+        },
+        "snippet": {
+          "publishedAt": "2016-10-30T04:10:39Z",
+          "channelId": "UCv1FDbUAYTTGaOGXjxI9MlQ",
+          "title": "Ca sĩ Phúc Lâm Official",
+          "description": "Facebook \"Ca sĩ Phúc Lâm\": https://www.facebook.com/tong.hoanghai.9 Phúc Lâm tên thật là Tống Hoàng Hải. Anh là ca sĩ trẻ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_mztmwpoxbsebath90nD6CjSEpwcK1gqmX1pyyx7wqtGA=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_mztmwpoxbsebath90nD6CjSEpwcK1gqmX1pyyx7wqtGA=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/ytc/AIdro_mztmwpoxbsebath90nD6CjSEpwcK1gqmX1pyyx7wqtGA=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ Phúc Lâm Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-10-30T04:10:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RbQOIXaQSNpKI-xFrPSRh233gJw",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCC4laI5_ICY13aJRQ3Kmq8A"
+        },
+        "snippet": {
+          "publishedAt": "2018-10-16T10:46:34Z",
+          "channelId": "UCC4laI5_ICY13aJRQ3Kmq8A",
+          "title": "Ca sĩ Kiến Phương Thái Tử Nhạc Phật Giáo Việt Nam ",
+          "description": "YouTube đinh kiến phương.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/YYZ9GgpNmjrehP--cTI0a9gmYse8CgtOp3Hvyz4HITWbXKesBSz8BKeOdwerZajW-2cOJuXsdw=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/YYZ9GgpNmjrehP--cTI0a9gmYse8CgtOp3Hvyz4HITWbXKesBSz8BKeOdwerZajW-2cOJuXsdw=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/YYZ9GgpNmjrehP--cTI0a9gmYse8CgtOp3Hvyz4HITWbXKesBSz8BKeOdwerZajW-2cOJuXsdw=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ Kiến Phương Thái Tử Nhạc Phật Giáo Việt Nam ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-10-16T10:46:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DAutWKK0BLN5RUdHsFM2vC6F5x0",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UC6QuxV6DjvnN3-Rdbkufhyg"
+        },
+        "snippet": {
+          "publishedAt": "2025-09-14T14:25:33Z",
+          "channelId": "UC6QuxV6DjvnN3-Rdbkufhyg",
+          "title": "Ca sĩ Bon Sai",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/cDWWZTOm5jii032VW4vpDb5XLOBS3dqI0JggR7SGRIujSvd34E6tmiHYhwxOvzIq_fzBtYqqOw=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/cDWWZTOm5jii032VW4vpDb5XLOBS3dqI0JggR7SGRIujSvd34E6tmiHYhwxOvzIq_fzBtYqqOw=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/cDWWZTOm5jii032VW4vpDb5XLOBS3dqI0JggR7SGRIujSvd34E6tmiHYhwxOvzIq_fzBtYqqOw=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ Bon Sai",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-09-14T14:25:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BjaZX8Go8Ofc5eJhCMXk1w_o2_Q",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCCBhkQcAA2CaJ9C3EiV5MUA"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-12T10:03:18Z",
+          "channelId": "UCCBhkQcAA2CaJ9C3EiV5MUA",
+          "title": " Ca sĩ  Đình Cường Official 9999",
+          "description": "YÊU ÂM NHẠC.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/jQtapvqgBZBict3ltyoXalNmd7YM4ij3NZISfGAJ2DuHbT3u0nGb8h4woEbl5UbKW6oekl5KQPE=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/jQtapvqgBZBict3ltyoXalNmd7YM4ij3NZISfGAJ2DuHbT3u0nGb8h4woEbl5UbKW6oekl5KQPE=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/jQtapvqgBZBict3ltyoXalNmd7YM4ij3NZISfGAJ2DuHbT3u0nGb8h4woEbl5UbKW6oekl5KQPE=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": " Ca sĩ  Đình Cường Official 9999",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-12T10:03:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "CgCzLn_XxErRjN_380FzjR-KAfk",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCyYNRXnl9-ZjjH7RK3Kkf5w"
+        },
+        "snippet": {
+          "publishedAt": "2024-04-04T21:22:04Z",
+          "channelId": "UCyYNRXnl9-ZjjH7RK3Kkf5w",
+          "title": "Ca Sĩ Mỹ Huệ ",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/SprG892yldzgmRQI_emKcqJXum2tkN_f2sQ3CdLAc4c8q81_y9XOyi0xp55NOLdfrdClUNpn=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/SprG892yldzgmRQI_emKcqJXum2tkN_f2sQ3CdLAc4c8q81_y9XOyi0xp55NOLdfrdClUNpn=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/SprG892yldzgmRQI_emKcqJXum2tkN_f2sQ3CdLAc4c8q81_y9XOyi0xp55NOLdfrdClUNpn=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Sĩ Mỹ Huệ ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-04-04T21:22:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "N8Pshv9oREGgew0nfSyEXOB-ryE",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCJz_hEVLL7XO4Ne1o0jysqw"
+        },
+        "snippet": {
+          "publishedAt": "2016-10-05T03:49:45Z",
+          "channelId": "UCJz_hEVLL7XO4Ne1o0jysqw",
+          "title": "Ca Sĩ An Tuyên",
+          "description": "Âm nhạc! Khi vui thì rót vào tai, khi buồn thì thấm vào tim.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/Q3hnH-58Fcd4nRiJlNti0xTjS7JaF1l6JRZ8Hpk_QsTGDenD3sSKiMcUve9B7XJNzS4ChJK9uUE=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/Q3hnH-58Fcd4nRiJlNti0xTjS7JaF1l6JRZ8Hpk_QsTGDenD3sSKiMcUve9B7XJNzS4ChJK9uUE=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/Q3hnH-58Fcd4nRiJlNti0xTjS7JaF1l6JRZ8Hpk_QsTGDenD3sSKiMcUve9B7XJNzS4ChJK9uUE=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Sĩ An Tuyên",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-10-05T03:49:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UOb_2gsByLMfJ551s4Vn9w0PqQM",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCH7BIBY4chm2EO4QkmmVqJg"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-18T09:35:01Z",
+          "channelId": "UCH7BIBY4chm2EO4QkmmVqJg",
+          "title": "Ca sĩ Trịnh Thanh Thảo",
+          "description": "Ca sĩ Trịnh Thanh Thảo - Thổ nữ Bolero THVL1 Top 4 Solo cùng Bolero Đài Truyền hình Vĩnh Long Lần I - 2014 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/SB2s7KY-qIvfqp0J18rQ_b5yIuR8fcNeghGdGqLXYf26pSIJRaASwtvKcEHDK_WoMJX8MS-aGw=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/SB2s7KY-qIvfqp0J18rQ_b5yIuR8fcNeghGdGqLXYf26pSIJRaASwtvKcEHDK_WoMJX8MS-aGw=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/SB2s7KY-qIvfqp0J18rQ_b5yIuR8fcNeghGdGqLXYf26pSIJRaASwtvKcEHDK_WoMJX8MS-aGw=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ Trịnh Thanh Thảo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-18T09:35:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "o5jPEggW7xIudnX3L7-bouAv1xY",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCILBfH0RSV-VO1FrnArD0ew"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-19T00:46:05Z",
+          "channelId": "UCILBfH0RSV-VO1FrnArD0ew",
+          "title": "Bài hát và ca sĩ hát hay nhất; Dạy bé học, Bán nhà",
+          "description": "Kênh thiếu nhi, Nhạc thiếu nhi, Karaoke có lời bài hát, Kenh thieu nhi, Nhac thieu nhi, Karaoke co loi bai hat, Kênh phim lồng ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/uXOVv-Ab_eNBshLJkb_DzjvDJ0ARlf9XkRxRxiORB0P8akjy2Os6cyP8XGIqsUXr2xVOSrUmGg=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/uXOVv-Ab_eNBshLJkb_DzjvDJ0ARlf9XkRxRxiORB0P8akjy2Os6cyP8XGIqsUXr2xVOSrUmGg=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/uXOVv-Ab_eNBshLJkb_DzjvDJ0ARlf9XkRxRxiORB0P8akjy2Os6cyP8XGIqsUXr2xVOSrUmGg=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Bài hát và ca sĩ hát hay nhất; Dạy bé học, Bán nhà",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-19T00:46:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wsX4aC2s9J48Be2j-hEY4mN4K3o",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCFyK88_pu7k3gJ_e1DYPuJw"
+        },
+        "snippet": {
+          "publishedAt": "2015-11-03T08:45:21Z",
+          "channelId": "UCFyK88_pu7k3gJ_e1DYPuJw",
+          "title": "Ca sĩ Hoài Thương Sao Mai 2009",
+          "description": "Sao Mai 2009 Hcb LHCMN TQ 2022 Giải A LH ÂN TQ 2022 HCB TQ 2024.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/IGJprPi35XNjd173YIrjyct27jqQrpAMXc2XgHDh5mPBdZulmy9ybjRxlNOlqEwiGPOHVcdE6w=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/IGJprPi35XNjd173YIrjyct27jqQrpAMXc2XgHDh5mPBdZulmy9ybjRxlNOlqEwiGPOHVcdE6w=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/IGJprPi35XNjd173YIrjyct27jqQrpAMXc2XgHDh5mPBdZulmy9ybjRxlNOlqEwiGPOHVcdE6w=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca sĩ Hoài Thương Sao Mai 2009",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-11-03T08:45:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "myWFm15IdvKCymW880Pj89It1qI",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCySsw5czpBTq9tNKmz5BDPg"
+        },
+        "snippet": {
+          "publishedAt": "2026-01-24T15:46:41Z",
+          "channelId": "UCySsw5czpBTq9tNKmz5BDPg",
+          "title": "Ca Sĩ Nhí An Nhiên",
+          "description": "Chào mừng bé và ba mẹ đến với Ca Sĩ Nhí An Nhiên Đây là kênh nhạc thiếu nhi vui nhộn, trong sáng dành cho các bé mầm ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/_qRujjUJrkEwkh7W3Zp6tr39ilmij3ar3XbV6yQvbzh7kneTjITyYnuuil_xS1c4YCA8zkJkcA=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/_qRujjUJrkEwkh7W3Zp6tr39ilmij3ar3XbV6yQvbzh7kneTjITyYnuuil_xS1c4YCA8zkJkcA=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/_qRujjUJrkEwkh7W3Zp6tr39ilmij3ar3XbV6yQvbzh7kneTjITyYnuuil_xS1c4YCA8zkJkcA=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Sĩ Nhí An Nhiên",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-01-24T15:46:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Zfi8v5DLOLSqfDqloKkApU3cu68",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCa4Is0ckxPkHcnEQp3ILcPQ"
+        },
+        "snippet": {
+          "publishedAt": "2021-08-27T13:51:11Z",
+          "channelId": "UCa4Is0ckxPkHcnEQp3ILcPQ",
+          "title": "Ca Sĩ Quỳnh Mai",
+          "description": "Đam Mê Âm Nhạc.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/l1fiRGg9l7aCXT4muVm97aE-Lfe8ntYjxZDB3UX51QOCN83kbgaGTvRj8Jod3CwPyB7Bokpw=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/l1fiRGg9l7aCXT4muVm97aE-Lfe8ntYjxZDB3UX51QOCN83kbgaGTvRj8Jod3CwPyB7Bokpw=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/l1fiRGg9l7aCXT4muVm97aE-Lfe8ntYjxZDB3UX51QOCN83kbgaGTvRj8Jod3CwPyB7Bokpw=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Sĩ Quỳnh Mai",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-08-27T13:51:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OKU0Y0WO9oUUpS7eL2beqVtxY4k",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCt0OnMz2p9m2Ho2rKzFVkzw"
+        },
+        "snippet": {
+          "publishedAt": "2019-05-27T00:19:10Z",
+          "channelId": "UCt0OnMz2p9m2Ho2rKzFVkzw",
+          "title": "CA SĨ ĐĂNG THUẬT OFFICIAL",
+          "description": "Kênh Youtube chính thức và duy nhất của ca sĩ Đăng Thuật. Giải nhì dòng nhạc dân gian cuộc thi Sao Mai 2007.",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/MMqMGRzoc61eSiGGRESbSiulv2j0NdoOLjWOfg1tWSphU14Uyb5-uQh2SW8KYC5BwukPWl1K7A=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/MMqMGRzoc61eSiGGRESbSiulv2j0NdoOLjWOfg1tWSphU14Uyb5-uQh2SW8KYC5BwukPWl1K7A=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/MMqMGRzoc61eSiGGRESbSiulv2j0NdoOLjWOfg1tWSphU14Uyb5-uQh2SW8KYC5BwukPWl1K7A=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "CA SĨ ĐĂNG THUẬT OFFICIAL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-05-27T00:19:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IZHPijkFV_wUGxn0gFxGutcsWCc",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UC-qPagWjuzmobb8H4allPPw"
+        },
+        "snippet": {
+          "publishedAt": "2026-03-30T05:29:04Z",
+          "channelId": "UC-qPagWjuzmobb8H4allPPw",
+          "title": "Sóc ca sĩ",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/iHwxwfDRI81-JDbXIuUgWXWOK3qMCvN3tf1oMAaTk6zQrlE_HFjQibY2J7sN2amm7vRR0mTJXw=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/iHwxwfDRI81-JDbXIuUgWXWOK3qMCvN3tf1oMAaTk6zQrlE_HFjQibY2J7sN2amm7vRR0mTJXw=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/iHwxwfDRI81-JDbXIuUgWXWOK3qMCvN3tf1oMAaTk6zQrlE_HFjQibY2J7sN2amm7vRR0mTJXw=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Sóc ca sĩ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-03-30T05:29:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5ESdOVyCnFscMk-EXHyLdO0-D3o",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCBp8Wx0AcaOZO1YpjmpsrHQ"
+        },
+        "snippet": {
+          "publishedAt": "2013-07-21T02:55:57Z",
+          "channelId": "UCBp8Wx0AcaOZO1YpjmpsrHQ",
+          "title": "Ca Sĩ Seok Hun",
+          "description": "내사랑 영자~",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/bt1N-a00d3CIruq1Hs7T-u0Ak9z_crLUy-ZT8iOkSZwHKKBqYTmNeSMCarWknCR2tdClA-6yJQ=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/bt1N-a00d3CIruq1Hs7T-u0Ak9z_crLUy-ZT8iOkSZwHKKBqYTmNeSMCarWknCR2tdClA-6yJQ=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/bt1N-a00d3CIruq1Hs7T-u0Ak9z_crLUy-ZT8iOkSZwHKKBqYTmNeSMCarWknCR2tdClA-6yJQ=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Ca Sĩ Seok Hun",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-07-21T02:55:57Z"
+        }
+      }
+    ]
+  }
+}

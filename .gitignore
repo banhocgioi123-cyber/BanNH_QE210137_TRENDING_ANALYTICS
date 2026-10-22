@@ -31,6 +31,8 @@ data/raw/*
 data/state/*
 data/state/
 !data/raw/.gitkeep
+# Mẫu raw nhỏ (mỗi job 1 file) để người chấm xem cấu trúc envelope
+!data/raw/sample/
 
 # File log ghi vết lịch sử cào
 logs/*.log
